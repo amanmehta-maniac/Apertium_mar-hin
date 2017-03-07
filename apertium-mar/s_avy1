@@ -1,0 +1,1 @@
+cat $1 | grep -n "n=\"avy\"" | cut -d'<' -f 4-5 | cut -d '>' -f 2| cut -d '<' -f 1 > avy1

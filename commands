@@ -1,0 +1,25 @@
+echo "झोप आवड" | apertium mar-hin -d ./apertium-mar-hin/
+
+
+lt-comp lr apertium-mar.mar.dix mar.analyser.bin
+
+lt-comp lr apertium-hbs.hbs.dix hbs-hin.automorf.bin
+
+श
+ **'n.*' is all nouns
+
+ lt-comp lr apertium-mar.mar.dix mar-hin.automorf.bin
+ lt-comp rl apertium-hin.hin.dix mar-hin.autogen.bin
+ lt-comp lr apertium-hin.hin.dix hin-mar.automorf.bin
+ lt-comp rl apertium-mar.mar.dix hin-mar.autogen.bin
+ lt-comp lr apertium-mar-hin.mar-hin.dix mar-hin.autobil.bin
+ lt-comp rl apertium-mar-hin.mar-hin.dix hin-mar.autobil.bin
+ lt-comp rl apertium-mar-hin.mar-hin.dix hin-mar.autobil.bin
+
+ amanmehta, so something you could do to significantly improve coverage
+9:52 PM is to detect the adjectives
+9:52 PM and give them an <adj> tag
+9:52 PM and give the adverbs an <adv> tag
+9:53 PM and get rid of all <avy>
+9:53 PM 
+<

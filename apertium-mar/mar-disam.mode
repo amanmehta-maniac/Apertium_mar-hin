@@ -1,0 +1,4 @@
+
+      
+    lt-proc -w '/home/aman/osd/apertium/gsoc/apertium-mar/mar.automorf.bin' | cg-conv -a -l| vislcg3 --trace -g '/home/aman/osd/apertium/gsoc/apertium-mar/apertium-mar.mar.rlx' 
+  

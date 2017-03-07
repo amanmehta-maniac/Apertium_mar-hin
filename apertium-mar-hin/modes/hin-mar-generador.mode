@@ -1,0 +1,5 @@
+
+  
+    lt-proc -w '/home/aman/osd/apertium/gsoc/apertium-mar-hin/hin-mar.automorf.bin' | cg-proc -w '/home/aman/osd/apertium/gsoc/apertium-mar-hin/hin-mar.rlx.bin' | apertium-tagger -g $2 '/home/aman/osd/apertium/gsoc/apertium-mar-hin/hin-mar.prob' | lt-proc -b '/home/aman/osd/apertium/gsoc/apertium-mar-hin/hin-mar.autobil.bin' | lrx-proc -m '/home/aman/osd/apertium/gsoc/apertium-mar-hin/hin-mar.autolex.bin' | apertium-pretransfer| lt-proc -b '/home/aman/osd/apertium/gsoc/apertium-mar-hin/hin-mar.autobil.bin' | apertium-transfer -b '/home/aman/osd/apertium/gsoc/apertium-mar-hin/apertium-mar-hin.hin-mar.t1x'  '/home/aman/osd/apertium/gsoc/apertium-mar-hin/hin-mar.t1x.bin' | apertium-interchunk '/home/aman/osd/apertium/gsoc/apertium-mar-hin/apertium-mar-hin.hin-mar.t2x'  '/home/aman/osd/apertium/gsoc/apertium-mar-hin/hin-mar.t2x.bin' | apertium-postchunk '/home/aman/osd/apertium/gsoc/apertium-mar-hin/apertium-mar-hin.hin-mar.t3x'  '/home/aman/osd/apertium/gsoc/apertium-mar-hin/hin-mar.t3x.bin' | lt-proc $1 '/home/aman/osd/apertium/gsoc/apertium-mar-hin/hin-mar.autogen.bin' 
+  
+

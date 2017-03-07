@@ -1,0 +1,2078 @@
+		<sdef n="adj"/>field1: 		<sdef n="adj"/>
+field2: 
+		<sdef n="gpr" 	  c="Verbal adjective"/>field1: 		<sdef n="gpr" 	  c="Verbal adjective"/>
+field2: 
+			<e>		  <p><l>कोणच</l><r>कोण<s n="adj"/><s n="interr"/><s n="mfn"/><s n="sp"/>field1: 			<e>		  <p><l>कोणच</l><r>कोण<s n="adj"/><s n="interr"/><s n="mfn"/><s n="sp"/>
+field2: 
+			<e>		  <p><l>कसल</l><r>काय<s n="adj"/><s n="interr"/><s n="mfn"/><s n="sp"/>field1: 			<e>		  <p><l>कसल</l><r>काय<s n="adj"/><s n="interr"/><s n="mfn"/><s n="sp"/>
+field2: 
+		<!-- adjectives -->field1: 		<!-- adjectives -->
+field2: 
+		<pardef n="/लाल__adj">field1: 		
+field2: ef n="/लाल__adj">
+			<e><p><l></l><r><s n="adj"/><s n="mfn"/><s n="sp"/></r>field1: 			<e><p><l></l><r><s n="adj"/><s n="mfn"/><s n="sp"/></r>
+field2: 
+			<e><p><l></l><r><s n="adj"/><s n="mfn"/><s n="sp"/><s n="obl"/>field1: 			<e><p><l></l><r><s n="adj"/><s n="mfn"/><s n="sp"/><s n="obl"/>
+field2: 
+		<pardef n="काळ/ा__adj">field1: 		
+field2: ef n="काळ/ा__adj">
+ 			<e><p><l>ा</l><r>ा<s n="adj"/><s n="m"/><s n="sg"/></r>field1:  			<e><p><l>ा</l><r>ा<s n="adj"/><s n="m"/><s n="sg"/></r>
+field2: 
+			<e><p><l>ी</l><r>ा<s n="adj"/><s n="f"/><s n="sg"/></r>field1: 			<e><p><l>ी</l><r>ा<s n="adj"/><s n="f"/><s n="sg"/></r>
+field2: 
+			<e><p><l>े</l><r>ा<s n="adj"/><s n="nt"/><s n="sg"/></r>field1: 			<e><p><l>े</l><r>ा<s n="adj"/><s n="nt"/><s n="sg"/></r>
+field2: 
+			<e><p><l>े</l><r>ा<s n="adj"/><s n="m"/><s n="pl"/></r>field1: 			<e><p><l>े</l><r>ा<s n="adj"/><s n="m"/><s n="pl"/></r>
+field2: 
+			<e><p><l>्या</l><r>ा<s n="adj"/><s n="f"/><s n="pl"/></r>field1: 			<e><p><l>्या</l><r>ा<s n="adj"/><s n="f"/><s n="pl"/></r>
+field2: 
+			<e><p><l>ी</l><r>ा<s n="adj"/><s n="nt"/><s n="pl"/></r>field1: 			<e><p><l>ी</l><r>ा<s n="adj"/><s n="nt"/><s n="pl"/></r>
+field2: 
+			<e><p><l>्या</l><r>ा<s n="adj"/><s n="mfn"/><s n="sp"/><s n="obl"/>field1: 			<e><p><l>्या</l><r>ा<s n="adj"/><s n="mfn"/><s n="sp"/><s n="obl"/>
+field2: 
+		<pardef n="क/सा__adj">field1: 		
+field2: ef n="क/सा__adj">
+ 			<e> 		<p><l>सा</l><r>सा<s n="adj"/><s n="m"/><s n="sg"/></r>field1:  			<e> 		<p><l>सा</l><r>सा<s n="adj"/><s n="m"/><s n="sg"/></r>
+field2: 
+			<e> 		<p><l>शी</l><r>सा<s n="adj"/><s n="f"/><s n="sg"/></r>field1: 			<e> 		<p><l>शी</l><r>सा<s n="adj"/><s n="f"/><s n="sg"/></r>
+field2: 
+			<e> 		<p><l>शे</l><r>सा<s n="adj"/><s n="nt"/><s n="sg"/></r>field1: 			<e> 		<p><l>शे</l><r>सा<s n="adj"/><s n="nt"/><s n="sg"/></r>
+field2: 
+			<e r="LR"> 	<p><l>से</l><r>सा<s n="adj"/><s n="nt"/><s n="sg"/></r>field1: 			<e r="LR"> 	<p><l>से</l><r>सा<s n="adj"/><s n="nt"/><s n="sg"/></r>
+field2: 
+			<e> 		<p><l>शे</l><r>सा<s n="adj"/><s n="m"/><s n="pl"/></r>field1: 			<e> 		<p><l>शे</l><r>सा<s n="adj"/><s n="m"/><s n="pl"/></r>
+field2: 
+			<e r="LR"> 	<p><l>से</l><r>सा<s n="adj"/><s n="m"/><s n="pl"/></r>field1: 			<e r="LR"> 	<p><l>से</l><r>सा<s n="adj"/><s n="m"/><s n="pl"/></r>
+field2: 
+			<e> 		<p><l>श्या</l><r>सा<s n="adj"/><s n="f"/><s n="pl"/></r>field1: 			<e> 		<p><l>श्या</l><r>सा<s n="adj"/><s n="f"/><s n="pl"/></r>
+field2: 
+			<e r="LR">	<p><l>शा</l><r>सा<s n="adj"/><s n="f"/><s n="pl"/></r>field1: 			<e r="LR">	<p><l>शा</l><r>सा<s n="adj"/><s n="f"/><s n="pl"/></r>
+field2: 
+			<e> 		<p><l>शी</l><r>सा<s n="adj"/><s n="nt"/><s n="pl"/></r>field1: 			<e> 		<p><l>शी</l><r>सा<s n="adj"/><s n="nt"/><s n="pl"/></r>
+field2: 
+			<e> 		<p><l>श्या</l><r>सा<s n="adj"/><s n="mfn"/><s n="sp"/><s n="obl"/>field1: 			<e> 		<p><l>श्या</l><r>सा<s n="adj"/><s n="mfn"/><s n="sp"/><s n="obl"/>
+field2: 
+			<e r="LR">	<p><l>शा</l><r>सा<s n="adj"/><s n="mfn"/><s n="sp"/><s n="obl"/>field1: 			<e r="LR">	<p><l>शा</l><r>सा<s n="adj"/><s n="mfn"/><s n="sp"/><s n="obl"/>
+field2: 
+		<pardef n="ख/रा__adj">field1: 		
+field2: ef n="ख/रा__adj">
+ 			<e> 		<p><l>रा</l><r>रा<s n="adj"/><s n="m"/><s n="sg"/></r>field1:  			<e> 		<p><l>रा</l><r>रा<s n="adj"/><s n="m"/><s n="sg"/></r>
+field2: 
+			<e> 		<p><l>री</l><r>रा<s n="adj"/><s n="f"/><s n="sg"/></r>field1: 			<e> 		<p><l>री</l><r>रा<s n="adj"/><s n="f"/><s n="sg"/></r>
+field2: 
+			<e> 		<p><l>रे</l><r>रा<s n="adj"/><s n="nt"/><s n="sg"/></r>field1: 			<e> 		<p><l>रे</l><r>रा<s n="adj"/><s n="nt"/><s n="sg"/></r>
+field2: 
+			<e r="LR"> 	<p><l>रं</l><r>रा<s n="adj"/><s n="nt"/><s n="sg"/></r>field1: 			<e r="LR"> 	<p><l>रं</l><r>रा<s n="adj"/><s n="nt"/><s n="sg"/></r>
+field2: 
+			<e> 		<p><l>रे</l><r>रा<s n="adj"/><s n="m"/><s n="pl"/></r>field1: 			<e> 		<p><l>रे</l><r>रा<s n="adj"/><s n="m"/><s n="pl"/></r>
+field2: 
+			<e> 		<p><l>ऱ्या</l><r>रा<s n="adj"/><s n="f"/><s n="pl"/></r>field1: 			<e> 		<p><l>ऱ्या</l><r>रा<s n="adj"/><s n="f"/><s n="pl"/></r>
+field2: 
+			<e> 		<p><l>री</l><r>रा<s n="adj"/><s n="nt"/><s n="pl"/></r>field1: 			<e> 		<p><l>री</l><r>रा<s n="adj"/><s n="nt"/><s n="pl"/></r>
+field2: 
+			<e> 		<p><l>ऱ्या</l><r>रा<s n="adj"/><s n="mfn"/><s n="sp"/><s n="obl"/>field1: 			<e> 		<p><l>ऱ्या</l><r>रा<s n="adj"/><s n="mfn"/><s n="sp"/><s n="obl"/>
+field2: 
+		<pardef n="दुस/रा__adj">field1: 		
+field2: ef n="दुस/रा__adj">
+ 			<e> 		<p><l>रा</l><r>रा<s n="adj"/><s n="m"/><s n="sg"/></r>field1:  			<e> 		<p><l>रा</l><r>रा<s n="adj"/><s n="m"/><s n="sg"/></r>
+field2: 
+			<e> 		<p><l>री</l><r>रा<s n="adj"/><s n="f"/><s n="sg"/></r>field1: 			<e> 		<p><l>री</l><r>रा<s n="adj"/><s n="f"/><s n="sg"/></r>
+field2: 
+			<e> 		<p><l>रे</l><r>रा<s n="adj"/><s n="nt"/><s n="sg"/></r>field1: 			<e> 		<p><l>रे</l><r>रा<s n="adj"/><s n="nt"/><s n="sg"/></r>
+field2: 
+			<e r="LR"> 	<p><l>रं</l><r>रा<s n="adj"/><s n="nt"/><s n="sg"/></r>field1: 			<e r="LR"> 	<p><l>रं</l><r>रा<s n="adj"/><s n="nt"/><s n="sg"/></r>
+field2: 
+			<e r="LR"> 	<p><l>र्</l><r>रा<s n="adj"/><s n="nt"/><s n="sg"/></r>field1: 			<e r="LR"> 	<p><l>र्</l><r>रा<s n="adj"/><s n="nt"/><s n="sg"/></r>
+field2: 
+			<e> 		<p><l>रे</l><r>रा<s n="adj"/><s n="m"/><s n="pl"/></r>field1: 			<e> 		<p><l>रे</l><r>रा<s n="adj"/><s n="m"/><s n="pl"/></r>
+field2: 
+			<e> 		<p><l>ऱ्या</l><r>रा<s n="adj"/><s n="f"/><s n="pl"/></r>field1: 			<e> 		<p><l>ऱ्या</l><r>रा<s n="adj"/><s n="f"/><s n="pl"/></r>
+field2: 
+			<e> 		<p><l>री</l><r>रा<s n="adj"/><s n="nt"/><s n="pl"/></r>field1: 			<e> 		<p><l>री</l><r>रा<s n="adj"/><s n="nt"/><s n="pl"/></r>
+field2: 
+			<e> 		<p><l>ऱ्या</l><r>रा<s n="adj"/><s n="mfn"/><s n="sp"/><s n="obl"/>field1: 			<e> 		<p><l>ऱ्या</l><r>रा<s n="adj"/><s n="mfn"/><s n="sp"/><s n="obl"/>
+field2: 
+		<pardef n="थोड/ासा__adj">field1: 		
+field2: ef n="थोड/ासा__adj">
+ 			<e><p><l>ासा</l><r>ासा<s n="adj"/><s n="m"/><s n="sg"/></r>field1:  			<e><p><l>ासा</l><r>ासा<s n="adj"/><s n="m"/><s n="sg"/></r>
+field2: 
+			<e><p><l>ीशी</l><r>ासा<s n="adj"/><s n="f"/><s n="sg"/></r>field1: 			<e><p><l>ीशी</l><r>ासा<s n="adj"/><s n="f"/><s n="sg"/></r>
+field2: 
+			<e><p><l>ेसे</l><r>ासा<s n="adj"/><s n="nt"/><s n="sg"/></r>field1: 			<e><p><l>ेसे</l><r>ासा<s n="adj"/><s n="nt"/><s n="sg"/></r>
+field2: 
+			<e><p><l>ेसे</l><r>ासा<s n="adj"/><s n="m"/><s n="pl"/></r>field1: 			<e><p><l>ेसे</l><r>ासा<s n="adj"/><s n="m"/><s n="pl"/></r>
+field2: 
+			<e><p><l>्याशा</l><r>ासा<s n="adj"/><s n="f"/><s n="pl"/></r>field1: 			<e><p><l>्याशा</l><r>ासा<s n="adj"/><s n="f"/><s n="pl"/></r>
+field2: 
+			<e><p><l>ीशी</l><r>ासा<s n="adj"/><s n="nt"/><s n="pl"/></r>field1: 			<e><p><l>ीशी</l><r>ासा<s n="adj"/><s n="nt"/><s n="pl"/></r>
+field2: 
+			<e><p><l>्याशा</l><r>ासा<s n="adj"/><s n="mfn"/><s n="sp"/><s n="obl"/>field1: 			<e><p><l>्याशा</l><r>ासा<s n="adj"/><s n="mfn"/><s n="sp"/><s n="obl"/>
+field2: 
+			<!-- adjectival forms -->field1: 			<!-- adjectival forms -->
+field2: 
+			<!-- adjectival forms -->field1: 			<!-- adjectival forms -->
+field2: 
+			<!-- adjectival forms -->field1: 			<!-- adjectival forms -->
+field2: 
+			<!-- adjectival forms -->field1: 			<!-- adjectival forms -->
+field2: 
+			<!-- adjectival forms -->field1: 			<!-- adjectival forms -->
+field2: 
+			<!-- adjectival forms -->field1: 			<!-- adjectival forms -->
+field2: 
+			<!-- adjectival forms -->field1: 			<!-- adjectival forms -->
+field2: 
+			<!-- adjectival forms -->field1: 			<!-- adjectival forms -->
+field2: 
+			<!-- adjectival forms -->field1: 			<!-- adjectival forms -->
+field2: 
+			<!-- adjectival forms -->field1: 			<!-- adjectival forms -->
+field2: 
+			<!-- adjectival forms -->field1: 			<!-- adjectival forms -->
+field2: 
+			<!-- adjectival forms -->field1: 			<!-- adjectival forms -->
+field2: 
+			<!-- adjectival forms -->field1: 			<!-- adjectival forms -->
+field2: 
+			<!-- adjectival forms -->field1: 			<!-- adjectival forms -->
+field2: 
+			<!-- adjectival forms -->field1: 			<!-- adjectival forms -->
+field2: 
+			<e> 		<p><l>तेथील</l><r>तेथे<s n="adj"/><s n="mfn"/><s n="sp"/></r>field1: 			<e> 		<p><l>तेथील</l><r>तेथे<s n="adj"/><s n="mfn"/><s n="sp"/></r>
+field2: 
+			<e> 		<p><l>तेथून</l><r>तेथे<s n="adj"/><s n="mfn"/><s n="sp"/></r>field1: 			<e> 		<p><l>तेथून</l><r>तेथे<s n="adj"/><s n="mfn"/><s n="sp"/></r>
+field2: 
+			<e> 		<p><l>जेथील</l><r>जेथे<s n="adj"/><s n="mfn"/><s n="sp"/></r>field1: 			<e> 		<p><l>जेथील</l><r>जेथे<s n="adj"/><s n="mfn"/><s n="sp"/></r>
+field2: 
+		<!-- adjectives -->field1: 		<!-- adjectives -->
+field2: 
+		<e lm="जवळील">							<i>जवळील</i><par n="/लाल__adj" /></e>field1: 		<e lm="जवळील">							<i>जवळील</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="विश्वचषक">                      	<i>विश्वचषक</i><par n="/लाल__adj" /></e>field1: 		<e lm="विश्वचषक">                      	<i>विश्वचषक</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="मूळ">                      	<i>मूळ</i><par n="/लाल__adj" /></e>field1: 		<e lm="मूळ">                      	<i>मूळ</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="सोव्हियेत">                      	<i>सोव्हियेत</i><par n="/लाल__adj" /></e>field1: 		<e lm="सोव्हियेत">                      	<i>सोव्हियेत</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="रासायनिक">                      	<i>रासायनिक</i><par n="/लाल__adj" /></e>field1: 		<e lm="रासायनिक">                      	<i>रासायनिक</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="एकमेव">                      	<i>एकमेव</i><par n="/लाल__adj" /></e>field1: 		<e lm="एकमेव">                      	<i>एकमेव</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="माजी">                      	<i>माजी</i><par n="/लाल__adj" /></e>field1: 		<e lm="माजी">                      	<i>माजी</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="अधिकृत">                      	<i>अधिकृत</i><par n="/लाल__adj" /></e>field1: 		<e lm="अधिकृत">                      	<i>अधिकृत</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="यशस्वी">                      	<i>यशस्वी</i><par n="/लाल__adj" /></e>field1: 		<e lm="यशस्वी">                      	<i>यशस्वी</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="बाह्य">                      	<i>बाह्य</i><par n="/लाल__adj" /></e>field1: 		<e lm="बाह्य">                      	<i>बाह्य</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="मानवी">                      	<i>मानवी</i><par n="/लाल__adj" /></e>field1: 		<e lm="मानवी">                      	<i>मानवी</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="आर्थिक">                      	<i>आर्थिक</i><par n="/लाल__adj" /></e>field1: 		<e lm="आर्थिक">                      	<i>आर्थिक</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="कोणत्याही">                     	<i>कोणत्याही</i><par n="/लाल__adj" /></e>field1: 		<e lm="कोणत्याही">                     	<i>कोणत्याही</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="संबंधित">                       	<i>संबंधित</i><par n="/लाल__adj" /></e>field1: 		<e lm="संबंधित">                       	<i>संबंधित</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="नये">                           	<i>नये</i><par n="/लाल__adj" /></e>field1: 		<e lm="नये">                           	<i>नये</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="सगळ्यात">                       	<i>सगळ्यात</i><par n="/लाल__adj" /></e>field1: 		<e lm="सगळ्यात">                       	<i>सगळ्यात</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="सर्वप्रथम">                     	<i>सर्वप्रथम</i><par n="/लाल__adj" /></e>field1: 		<e lm="सर्वप्रथम">                     	<i>सर्वप्रथम</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="खाजगी">                         	<i>खाजगी</i><par n="/लाल__adj" /></e>field1: 		<e lm="खाजगी">                         	<i>खाजगी</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="शालेय">                         	<i>शालेय</i><par n="/लाल__adj" /></e>field1: 		<e lm="शालेय">                         	<i>शालेय</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="वार्षिक">                       	<i>वार्षिक</i><par n="/लाल__adj" /></e>field1: 		<e lm="वार्षिक">                       	<i>वार्षिक</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="बाजूस">                         	<i>बाजूस</i><par n="/लाल__adj" /></e>field1: 		<e lm="बाजूस">                         	<i>बाजूस</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="भव्य">                          	<i>भव्य</i><par n="/लाल__adj" /></e>field1: 		<e lm="भव्य">                          	<i>भव्य</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="अभिनेते">                       	<i>अभिनेते</i><par n="/लाल__adj" /></e>field1: 		<e lm="अभिनेते">                       	<i>अभिनेते</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="वायव्य">                        	<i>वायव्य</i><par n="/लाल__adj" /></e>field1: 		<e lm="वायव्य">                        	<i>वायव्य</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="माध्यमिक">                      	<i>माध्यमिक</i><par n="/लाल__adj" /></e>field1: 		<e lm="माध्यमिक">                      	<i>माध्यमिक</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="मानसिक">                        	<i>मानसिक</i><par n="/लाल__adj" /></e>field1: 		<e lm="मानसिक">                        	<i>मानसिक</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="पेशवे">                         	<i>पेशवे</i><par n="/लाल__adj" /></e>field1: 		<e lm="पेशवे">                         	<i>पेशवे</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="जलद">                           	<i>जलद</i><par n="/लाल__adj" /></e>field1: 		<e lm="जलद">                           	<i>जलद</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="वैयक्तिक">                      	<i>वैयक्तिक</i><par n="/लाल__adj" /></e>field1: 		<e lm="वैयक्तिक">                      	<i>वैयक्तिक</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="सर्वसाधारण">                    	<i>सर्वसाधारण</i><par n="/लाल__adj" /></e>field1: 		<e lm="सर्वसाधारण">                    	<i>सर्वसाधारण</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="गुप्त">                         	<i>गुप्त</i><par n="/लाल__adj" /></e>field1: 		<e lm="गुप्त">                         	<i>गुप्त</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="सर्वोत्कृष्ट">                  	<i>सर्वोत्कृष्ट</i><par n="/लाल__adj" /></e>field1: 		<e lm="सर्वोत्कृष्ट">                  	<i>सर्वोत्कृष्ट</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="सलग">                           	<i>सलग</i><par n="/लाल__adj" /></e>field1: 		<e lm="सलग">                           	<i>सलग</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="अध्यक्षीय">                     	<i>अध्यक्षीय</i><par n="/लाल__adj" /></e>field1: 		<e lm="अध्यक्षीय">                     	<i>अध्यक्षीय</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="एकत्रित">                       	<i>एकत्रित</i><par n="/लाल__adj" /></e>field1: 		<e lm="एकत्रित">                       	<i>एकत्रित</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="कोणतीही">                       	<i>कोणतीही</i><par n="/लाल__adj" /></e>field1: 		<e lm="कोणतीही">                       	<i>कोणतीही</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="दिग्दर्शित">                    	<i>दिग्दर्शित</i><par n="/लाल__adj" /></e>field1: 		<e lm="दिग्दर्शित">                    	<i>दिग्दर्शित</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="कृत्रिम">                       	<i>कृत्रिम</i><par n="/लाल__adj" /></e>field1: 		<e lm="कृत्रिम">                       	<i>कृत्रिम</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="भाषिक">                         	<i>भाषिक</i><par n="/लाल__adj" /></e>field1: 		<e lm="भाषिक">                         	<i>भाषिक</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="उपनगरी">                        	<i>उपनगरी</i><par n="/लाल__adj" /></e>field1: 		<e lm="उपनगरी">                        	<i>उपनगरी</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="उपलब्ध">                        	<i>उपलब्ध</i><par n="/लाल__adj" /></e>field1: 		<e lm="उपलब्ध">                        	<i>उपलब्ध</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="आशियाई">                        	<i>आशियाई</i><par n="/लाल__adj" /></e>field1: 		<e lm="आशियाई">                        	<i>आशियाई</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="सक्रिय">                        	<i>सक्रिय</i><par n="/लाल__adj" /></e>field1: 		<e lm="सक्रिय">                        	<i>सक्रिय</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="इंग्लिश">         	<i>इंग्लिश</i><par n="/लाल__adj" /></e>field1: 		<e lm="इंग्लिश">         	<i>इंग्लिश</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="अन्य">         	<i>अन्य</i><par n="/लाल__adj" /></e>field1: 		<e lm="अन्य">         	<i>अन्य</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="प्रशासकीय">         	<i>प्रशासकीय</i><par n="/लाल__adj" /></e>field1: 		<e lm="प्रशासकीय">         	<i>प्रशासकीय</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="सामाजिक">         	<i>सामाजिक</i><par n="/लाल__adj" /></e>field1: 		<e lm="सामाजिक">         	<i>सामाजिक</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="राजकीय">         	<i>राजकीय</i><par n="/लाल__adj" /></e>field1: 		<e lm="राजकीय">         	<i>राजकीय</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="प्राचीन">         	<i>प्राचीन</i><par n="/लाल__adj" /></e>field1: 		<e lm="प्राचीन">         	<i>प्राचीन</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="प्रकाशित">      	<i>प्रकाशित</i><par n="/लाल__adj" /></e>field1: 		<e lm="प्रकाशित">      	<i>प्रकाशित</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="अमेरिकन">         	<i>अमेरिकन</i><par n="/लाल__adj" /></e>field1: 		<e lm="अमेरिकन">         	<i>अमेरिकन</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="खालील">               	<i>खालील</i><par n="/लाल__adj" /></e>field1: 		<e lm="खालील">               	<i>खालील</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="इंग्रजी">         	<i>इंग्रजी</i><par n="/लाल__adj" /></e>field1: 		<e lm="इंग्रजी">         	<i>इंग्रजी</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="अतिशय">               	<i>अतिशय</i><par n="/लाल__adj" /></e>field1: 		<e lm="अतिशय">               	<i>अतिशय</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="संपूर्ण">         	<i>संपूर्ण</i><par n="/लाल__adj" /></e>field1: 		<e lm="संपूर्ण">         	<i>संपूर्ण</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="जागतिक">            	<i>जागतिक</i><par n="/लाल__adj" /></e>field1: 		<e lm="जागतिक">            	<i>जागतिक</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="तमिळ">                  	<i>तमिळ</i><par n="/लाल__adj" /></e>field1: 		<e lm="तमिळ">                  	<i>तमिळ</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="अत्यंत">            	<i>अत्यंत</i><par n="/लाल__adj" /></e>field1: 		<e lm="अत्यंत">            	<i>अत्यंत</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="लोकप्रिय">      	<i>लोकप्रिय</i><par n="/लाल__adj" /></e>field1: 		<e lm="लोकप्रिय">      	<i>लोकप्रिय</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="रोमन">                  	<i>रोमन</i><par n="/लाल__adj" /></e>field1: 		<e lm="रोमन">                  	<i>रोमन</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="स्वतंत्र">      	<i>स्वतंत्र</i><par n="/लाल__adj" /></e>field1: 		<e lm="स्वतंत्र">      	<i>स्वतंत्र</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="पुढील">               	<i>पुढील</i><par n="/लाल__adj" /></e>field1: 		<e lm="पुढील">               	<i>पुढील</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="सर्वाधिक">      	<i>सर्वाधिक</i><par n="/लाल__adj" /></e>field1: 		<e lm="सर्वाधिक">      	<i>सर्वाधिक</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="ऐतिहासिक">      	<i>ऐतिहासिक</i><par n="/लाल__adj" /></e>field1: 		<e lm="ऐतिहासिक">      	<i>ऐतिहासिक</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="जर्मन">               	<i>जर्मन</i><par n="/लाल__adj" /></e>field1: 		<e lm="जर्मन">               	<i>जर्मन</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="शास्त्रीय">   	<i>शास्त्रीय</i><par n="/लाल__adj" /></e>field1: 		<e lm="शास्त्रीय">   	<i>शास्त्रीय</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="सांस्कृतिक">	<i>सांस्कृतिक</i><par n="/लाल__adj" /></e>field1: 		<e lm="सांस्कृतिक">	<i>सांस्कृतिक</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="आधुनिक">            	<i>आधुनिक</i><par n="/लाल__adj" /></e>field1: 		<e lm="आधुनिक">            	<i>आधुनिक</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="प्रचंड">            	<i>प्रचंड</i><par n="/लाल__adj" /></e>field1: 		<e lm="प्रचंड">            	<i>प्रचंड</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="आवश्यक">            	<i>आवश्यक</i><par n="/लाल__adj" /></e>field1: 		<e lm="आवश्यक">            	<i>आवश्यक</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="मराठा">               	<i>मराठा</i><par n="/लाल__adj" /></e>field1: 		<e lm="मराठा">               	<i>मराठा</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="उच्च">                  	<i>उच्च</i><par n="/लाल__adj" /></e>field1: 		<e lm="उच्च">                  	<i>उच्च</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="शुद्ध">               	<i>शुद्ध</i><par n="/लाल__adj" /></e>field1: 		<e lm="शुद्ध">               	<i>शुद्ध</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="विशिष्ट">         	<i>विशिष्ट</i><par n="/लाल__adj" /></e>field1: 		<e lm="विशिष्ट">         	<i>विशिष्ट</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="प्रदर्शित">   	<i>प्रदर्शित</i><par n="/लाल__adj" /></e>field1: 		<e lm="प्रदर्शित">   	<i>प्रदर्शित</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="योग्य">               	<i>योग्य</i><par n="/लाल__adj" /></e>field1: 		<e lm="योग्य">               	<i>योग्य</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="प्रकारचे">      	<i>प्रकारचे</i><par n="/लाल__adj" /></e>field1: 		<e lm="प्रकारचे">      	<i>प्रकारचे</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="प्राथमिक">      	<i>प्राथमिक</i><par n="/लाल__adj" /></e>field1: 		<e lm="प्राथमिक">      	<i>प्राथमिक</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="रशियन">               	<i>रशियन</i><par n="/लाल__adj" /></e>field1: 		<e lm="रशियन">               	<i>रशियन</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="सार्वजनिक">   	<i>सार्वजनिक</i><par n="/लाल__adj" /></e>field1: 		<e lm="सार्वजनिक">   	<i>सार्वजनिक</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="अंतिम">               	<i>अंतिम</i><par n="/लाल__adj" /></e>field1: 		<e lm="अंतिम">               	<i>अंतिम</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="तयार">                  	<i>तयार</i><par n="/लाल__adj" /></e>field1: 		<e lm="तयार">                  	<i>तयार</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="सरकारी">            	<i>सरकारी</i><par n="/लाल__adj" /></e>field1: 		<e lm="सरकारी">            	<i>सरकारी</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="नैसर्गिक">      	<i>नैसर्गिक</i><par n="/लाल__adj" /></e>field1: 		<e lm="नैसर्गिक">      	<i>नैसर्गिक</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="शक्य">                  	<i>शक्य</i><par n="/लाल__adj" /></e>field1: 		<e lm="शक्य">                  	<i>शक्य</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="युनायटेड">      	<i>युनायटेड</i><par n="/लाल__adj" /></e>field1: 		<e lm="युनायटेड">      	<i>युनायटेड</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="साधारण">            	<i>साधारण</i><par n="/लाल__adj" /></e>field1: 		<e lm="साधारण">            	<i>साधारण</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="सर्वोत्तम">   	<i>सर्वोत्तम</i><par n="/लाल__adj" /></e>field1: 		<e lm="सर्वोत्तम">   	<i>सर्वोत्तम</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="विकसित">            	<i>विकसित</i><par n="/लाल__adj" /></e>field1: 		<e lm="विकसित">            	<i>विकसित</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="जाहीर">               	<i>जाहीर</i><par n="/लाल__adj" /></e>field1: 		<e lm="जाहीर">               	<i>जाहीर</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="सामान्य">         	<i>सामान्य</i><par n="/लाल__adj" /></e>field1: 		<e lm="सामान्य">         	<i>सामान्य</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="वरील">                  	<i>वरील</i><par n="/लाल__adj" /></e>field1: 		<e lm="वरील">                  	<i>वरील</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="ओपन">                     	<i>ओपन</i><par n="/लाल__adj" /></e>field1: 		<e lm="ओपन">                     	<i>ओपन</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="शैक्षणिक">      	<i>शैक्षणिक</i><par n="/लाल__adj" /></e>field1: 		<e lm="शैक्षणिक">      	<i>शैक्षणिक</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="पवित्र">            	<i>पवित्र</i><par n="/लाल__adj" /></e>field1: 		<e lm="पवित्र">            	<i>पवित्र</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="कादंबरी">         	<i>कादंबरी</i><par n="/लाल__adj" /></e>field1: 		<e lm="कादंबरी">         	<i>कादंबरी</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="सुंदर">               	<i>सुंदर</i><par n="/लाल__adj" /></e>field1: 		<e lm="सुंदर">               	<i>सुंदर</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="विद्यमान">      	<i>विद्यमान</i><par n="/लाल__adj" /></e>field1: 		<e lm="विद्यमान">      	<i>विद्यमान</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="औषधी">                  	<i>औषधी</i><par n="/लाल__adj" /></e>field1: 		<e lm="औषधी">                  	<i>औषधी</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="प्रकारची">      	<i>प्रकारची</i><par n="/लाल__adj" /></e>field1: 		<e lm="प्रकारची">      	<i>प्रकारची</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="लष्करी">            	<i>लष्करी</i><par n="/लाल__adj" /></e>field1: 		<e lm="लष्करी">            	<i>लष्करी</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="साहित्यिक">   	<i>साहित्यिक</i><par n="/लाल__adj" /></e>field1: 		<e lm="साहित्यिक">   	<i>साहित्यिक</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="इंडियन">            	<i>इंडियन</i><par n="/लाल__adj" /></e>field1: 		<e lm="इंडियन">            	<i>इंडियन</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="अरबी">                  	<i>अरबी</i><par n="/लाल__adj" /></e>field1: 		<e lm="अरबी">                  	<i>अरबी</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="समाविष्ट">      	<i>समाविष्ट</i><par n="/लाल__adj" /></e>field1: 		<e lm="समाविष्ट">      	<i>समाविष्ट</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="बंगाली">            	<i>बंगाली</i><par n="/लाल__adj" /></e>field1: 		<e lm="बंगाली">            	<i>बंगाली</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="किती">                  	<i>किती</i><par n="/लाल__adj" /></e>field1: 		<e lm="किती">                  	<i>किती</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="औद्योगिक">      	<i>औद्योगिक</i><par n="/लाल__adj" /></e>field1: 		<e lm="औद्योगिक">      	<i>औद्योगिक</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="अजून">                  	<i>अजून</i><par n="/लाल__adj" /></e>field1: 		<e lm="अजून">                  	<i>अजून</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="खास">                     	<i>खास</i><par n="/लाल__adj" /></e>field1: 		<e lm="खास">                     	<i>खास</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="नागरी">               	<i>नागरी</i><par n="/लाल__adj" /></e>field1: 		<e lm="नागरी">               	<i>नागरी</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="मुस्लिम">         	<i>मुस्लिम</i><par n="/लाल__adj" /></e>field1: 		<e lm="मुस्लिम">         	<i>मुस्लिम</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="एकदिवसीय">      	<i>एकदिवसीय</i><par n="/लाल__adj" /></e>field1: 		<e lm="एकदिवसीय">      	<i>एकदिवसीय</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="स्पष्ट">            	<i>स्पष्ट</i><par n="/लाल__adj" /></e>field1: 		<e lm="स्पष्ट">            	<i>स्पष्ट</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="स्पॅनिश">         	<i>स्पॅनिश</i><par n="/लाल__adj" /></e>field1: 		<e lm="स्पॅनिश">         	<i>स्पॅनिश</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="प्रचलित">         	<i>प्रचलित</i><par n="/लाल__adj" /></e>field1: 		<e lm="प्रचलित">         	<i>प्रचलित</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="बरोबर">               	<i>बरोबर</i><par n="/लाल__adj" /></e>field1: 		<e lm="बरोबर">               	<i>बरोबर</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="सहकारी">            	<i>सहकारी</i><par n="/लाल__adj" /></e>field1: 		<e lm="सहकारी">            	<i>सहकारी</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="केंद्रीय">      	<i>केंद्रीय</i><par n="/लाल__adj" /></e>field1: 		<e lm="केंद्रीय">      	<i>केंद्रीय</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="कन्नड">               	<i>कन्नड</i><par n="/लाल__adj" /></e>field1: 		<e lm="कन्नड">               	<i>कन्नड</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="तेलुगू">            	<i>तेलुगू</i><par n="/लाल__adj" /></e>field1: 		<e lm="तेलुगू">            	<i>तेलुगू</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="निश्चित">         	<i>निश्चित</i><par n="/लाल__adj" /></e>field1: 		<e lm="निश्चित">         	<i>निश्चित</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="नॅशनल">               	<i>नॅशनल</i><par n="/लाल__adj" /></e>field1: 		<e lm="नॅशनल">               	<i>नॅशनल</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="तीव्र">               	<i>तीव्र</i><par n="/लाल__adj" /></e>field1: 		<e lm="तीव्र">               	<i>तीव्र</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="लैंगिक">            	<i>लैंगिक</i><par n="/लाल__adj" /></e>field1: 		<e lm="लैंगिक">            	<i>लैंगिक</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="युरोपीय">         	<i>युरोपीय</i><par n="/लाल__adj" /></e>field1: 		<e lm="युरोपीय">         	<i>युरोपीय</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="उत्कृष्ट">      	<i>उत्कृष्ट</i><par n="/लाल__adj" /></e>field1: 		<e lm="उत्कृष्ट">      	<i>उत्कृष्ट</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="तरुण">                  	<i>तरुण</i><par n="/लाल__adj" /></e>field1: 		<e lm="तरुण">                  	<i>तरुण</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="कम्युनिस्ट">	<i>कम्युनिस्ट</i><par n="/लाल__adj" /></e>field1: 		<e lm="कम्युनिस्ट">	<i>कम्युनिस्ट</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="ऑस्ट्रेलियन">	<i>ऑस्ट्रेलियन</i><par n="/लाल__adj" /></e>field1: 		<e lm="ऑस्ट्रेलियन">	<i>ऑस्ट्रेलियन</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="प्रीमियर">      	<i>प्रीमियर</i><par n="/लाल__adj" /></e>field1: 		<e lm="प्रीमियर">      	<i>प्रीमियर</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="ब्रिटीश">         	<i>ब्रिटीश</i><par n="/लाल__adj" /></e>field1: 		<e lm="ब्रिटीश">         	<i>ब्रिटीश</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="निवृत्त">         	<i>निवृत्त</i><par n="/लाल__adj" /></e>field1: 		<e lm="निवृत्त">         	<i>निवृत्त</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="इटालियन">         	<i>इटालियन</i><par n="/लाल__adj" /></e>field1: 		<e lm="इटालियन">         	<i>इटालियन</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="वेस्ट">               	<i>वेस्ट</i><par n="/लाल__adj" /></e>field1: 		<e lm="वेस्ट">               	<i>वेस्ट</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="भरपूर">               	<i>भरपूर</i><par n="/लाल__adj" /></e>field1: 		<e lm="भरपूर">               	<i>भरपूर</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="मर्यादित">      	<i>मर्यादित</i><par n="/लाल__adj" /></e>field1: 		<e lm="मर्यादित">      	<i>मर्यादित</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="पाकिस्तानी">	<i>पाकिस्तानी</i><par n="/लाल__adj" /></e>field1: 		<e lm="पाकिस्तानी">	<i>पाकिस्तानी</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="पारंपरिक">      	<i>पारंपरिक</i><par n="/लाल__adj" /></e>field1: 		<e lm="पारंपरिक">      	<i>पारंपरिक</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="हवाई">                  	<i>हवाई</i><par n="/लाल__adj" /></e>field1: 		<e lm="हवाई">                  	<i>हवाई</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="थंड">                     	<i>थंड</i><par n="/लाल__adj" /></e>field1: 		<e lm="थंड">                     	<i>थंड</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="वैदिक">               	<i>वैदिक</i><par n="/लाल__adj" /></e>field1: 		<e lm="वैदिक">               	<i>वैदिक</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="विरोधी">            	<i>विरोधी</i><par n="/लाल__adj" /></e>field1: 		<e lm="विरोधी">            	<i>विरोधी</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="उल्लेखनीय">   	<i>उल्लेखनीय</i><par n="/लाल__adj" /></e>field1: 		<e lm="उल्लेखनीय">   	<i>उल्लेखनीय</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="प्रस्थापित">	<i>प्रस्थापित</i><par n="/लाल__adj" /></e>field1: 		<e lm="प्रस्थापित">	<i>प्रस्थापित</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="जिवंत">               	<i>जिवंत</i><par n="/लाल__adj" /></e>field1: 		<e lm="जिवंत">               	<i>जिवंत</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="पोर्तुगीज">   	<i>पोर्तुगीज</i><par n="/लाल__adj" /></e>field1: 		<e lm="पोर्तुगीज">   	<i>पोर्तुगीज</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="काल्पनिक">      	<i>काल्पनिक</i><par n="/लाल__adj" /></e>field1: 		<e lm="काल्पनिक">      	<i>काल्पनिक</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="वारकरी">            	<i>वारकरी</i><par n="/लाल__adj" /></e>field1: 		<e lm="वारकरी">            	<i>वारकरी</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="गंभीर">               	<i>गंभीर</i><par n="/लाल__adj" /></e>field1: 		<e lm="गंभीर">               	<i>गंभीर</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="रोड">                     	<i>रोड</i><par n="/लाल__adj" /></e>field1: 		<e lm="रोड">                     	<i>रोड</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="ग्रेट">               	<i>ग्रेट</i><par n="/लाल__adj" /></e>field1: 		<e lm="ग्रेट">               	<i>ग्रेट</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="लोकमान्य">      	<i>लोकमान्य</i><par n="/लाल__adj" /></e>field1: 		<e lm="लोकमान्य">      	<i>लोकमान्य</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="मुघल">                  	<i>मुघल</i><par n="/लाल__adj" /></e>field1: 		<e lm="मुघल">                  	<i>मुघल</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="रॉयल">                  	<i>रॉयल</i><par n="/लाल__adj" /></e>field1: 		<e lm="रॉयल">                  	<i>रॉयल</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="गुजराती">         	<i>गुजराती</i><par n="/लाल__adj" /></e>field1: 		<e lm="गुजराती">         	<i>गुजराती</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="आध्यात्मिक">	<i>आध्यात्मिक</i><par n="/लाल__adj" /></e>field1: 		<e lm="आध्यात्मिक">	<i>आध्यात्मिक</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="पौराणिक">         	<i>पौराणिक</i><par n="/लाल__adj" /></e>field1: 		<e lm="पौराणिक">         	<i>पौराणिक</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="स्थायिक">         	<i>स्थायिक</i><par n="/लाल__adj" /></e>field1: 		<e lm="स्थायिक">         	<i>स्थायिक</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="सुप्रसिद्ध">	<i>सुप्रसिद्ध</i><par n="/लाल__adj" /></e>field1: 		<e lm="सुप्रसिद्ध">	<i>सुप्रसिद्ध</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="तांत्रिक">      	<i>तांत्रिक</i><par n="/लाल__adj" /></e>field1: 		<e lm="तांत्रिक">      	<i>तांत्रिक</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="शारीरिक">         	<i>शारीरिक</i><par n="/लाल__adj" /></e>field1: 		<e lm="शारीरिक">         	<i>शारीरिक</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="हिंदुस्तानी">	<i>हिंदुस्तानी</i><par n="/लाल__adj" /></e>field1: 		<e lm="हिंदुस्तानी">	<i>हिंदुस्तानी</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="गरम">                     	<i>गरम</i><par n="/लाल__adj" /></e>field1: 		<e lm="गरम">                     	<i>गरम</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="फारसी">               	<i>फारसी</i><par n="/लाल__adj" /></e>field1: 		<e lm="फारसी">               	<i>फारसी</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="दीर्घ">               	<i>दीर्घ</i><par n="/लाल__adj" /></e>field1: 		<e lm="दीर्घ">               	<i>दीर्घ</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="पंजाबी">            	<i>पंजाबी</i><par n="/लाल__adj" /></e>field1: 		<e lm="पंजाबी">            	<i>पंजाबी</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="परदेशी">            	<i>परदेशी</i><par n="/लाल__adj" /></e>field1: 		<e lm="परदेशी">            	<i>परदेशी</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="नागरिक">            	<i>नागरिक</i><par n="/लाल__adj" /></e>field1: 		<e lm="नागरिक">            	<i>नागरिक</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="केसरी">               	<i>केसरी</i><par n="/लाल__adj" /></e>field1: 		<e lm="केसरी">               	<i>केसरी</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="सागरी">               	<i>सागरी</i><par n="/लाल__adj" /></e>field1: 		<e lm="सागरी">               	<i>सागरी</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="सुरक्षित">      	<i>सुरक्षित</i><par n="/लाल__adj" /></e>field1: 		<e lm="सुरक्षित">      	<i>सुरक्षित</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="प्रतिनिधित्व">	<i>प्रतिनिधित्व</i><par n="/लाल__adj" /></e>field1: 		<e lm="प्रतिनिधित्व">	<i>प्रतिनिधित्व</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="ठरावीक">            	<i>ठरावीक</i><par n="/लाल__adj" /></e>field1: 		<e lm="ठरावीक">            	<i>ठरावीक</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="वैचारिक">         	<i>वैचारिक</i><par n="/लाल__adj" /></e>field1: 		<e lm="वैचारिक">         	<i>वैचारिक</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="सुपर">                  	<i>सुपर</i><par n="/लाल__adj" /></e>field1: 		<e lm="सुपर">                  	<i>सुपर</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="संरक्षित">      	<i>संरक्षित</i><par n="/लाल__adj" /></e>field1: 		<e lm="संरक्षित">      	<i>संरक्षित</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="दहशतवादी">      	<i>दहशतवादी</i><par n="/लाल__adj" /></e>field1: 		<e lm="दहशतवादी">      	<i>दहशतवादी</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="प्रसंगी">         	<i>प्रसंगी</i><par n="/लाल__adj" /></e>field1: 		<e lm="प्रसंगी">         	<i>प्रसंगी</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="जगप्रसिद्ध">	<i>जगप्रसिद्ध</i><par n="/लाल__adj" /></e>field1: 		<e lm="जगप्रसिद्ध">	<i>जगप्रसिद्ध</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="अचूक">                  	<i>अचूक</i><par n="/लाल__adj" /></e>field1: 		<e lm="अचूक">                  	<i>अचूक</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="लिमिटेड">         	<i>लिमिटेड</i><par n="/लाल__adj" /></e>field1: 		<e lm="लिमिटेड">         	<i>लिमिटेड</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="प्रसिद्ध">                <i>प्रसिद्ध</i><par n="/लाल__adj" /></e>field1: 		<e lm="प्रसिद्ध">                <i>प्रसिद्ध</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="मध्य">                <i>मध्य</i><par n="/लाल__adj" /></e>field1: 		<e lm="मध्य">                <i>मध्य</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="मुख्य">                <i>मुख्य</i><par n="/लाल__adj" /></e>field1: 		<e lm="मुख्य">                <i>मुख्य</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="विविध">                <i>विविध</i><par n="/लाल__adj" /></e>field1: 		<e lm="विविध">                <i>विविध</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="अधिक">                <i>अधिक</i><par n="/लाल__adj" /></e>field1: 		<e lm="अधिक">                <i>अधिक</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="तयार">                <i>प्रसिद्ध</i><par n="/लाल__adj" /></e>field1: 		<e lm="तयार">                <i>प्रसिद्ध</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="राष्ट्रीय">                <i>राष्ट्रीय</i><par n="/लाल__adj" /></e>field1: 		<e lm="राष्ट्रीय">                <i>राष्ट्रीय</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="आंतरराष्ट्रीय">                <i>आंतरराष्ट्रीय</i><par n="/लाल__adj" /></e>field1: 		<e lm="आंतरराष्ट्रीय">                <i>आंतरराष्ट्रीय</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="लाल">						<i>लाल</i><par n="/लाल__adj" /></e>field1: 		<e lm="लाल">						<i>लाल</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="लहान">                  <i>लहान</i><par n="/लाल__adj" /></e>field1: 		<e lm="लहान">                  <i>लहान</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="वाईट">                  <i>वाईट</i><par n="/लाल__adj" /></e>field1: 		<e lm="वाईट">                  <i>वाईट</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="दूर">                     <i>दूर</i><par n="/लाल__adj" /></e>field1: 		<e lm="दूर">                     <i>दूर</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="जवळ">                     <i>जवळ</i><par n="/लाल__adj" /></e>field1: 		<e lm="जवळ">                     <i>जवळ</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="खोल">                     <i>खोल</i><par n="/लाल__adj" /></e>field1: 		<e lm="खोल">                     <i>खोल</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="उथळ">                     <i>उथळ</i><par n="/लाल__adj" /></e>field1: 		<e lm="उथळ">                     <i>उथळ</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="विषेश">               <i>विषेश</i><par n="/लाल__adj" /></e>field1: 		<e lm="विषेश">               <i>विषेश</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="गडद">                     <i>गडद</i><par n="/लाल__adj" /></e>field1: 		<e lm="गडद">                     <i>गडद</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="उंच">                     <i>उंच</i><par n="/लाल__adj" /></e>field1: 		<e lm="उंच">                     <i>उंच</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="जाड">                     <i>जाड</i><par n="/लाल__adj" /></e>field1: 		<e lm="जाड">                     <i>जाड</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="बारीक">               <i>बारीक</i><par n="/लाल__adj" /></e>field1: 		<e lm="बारीक">               <i>बारीक</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="रुंद">                  <i>रुंद</i><par n="/लाल__adj" /></e>field1: 		<e lm="रुंद">                  <i>रुंद</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="अरुंद">               <i>अरुंद</i><par n="/लाल__adj" /></e>field1: 		<e lm="अरुंद">               <i>अरुंद</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="सरळ">                     <i>सरळ</i><par n="/लाल__adj" /></e>field1: 		<e lm="सरळ">                     <i>सरळ</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="चवदार">               <i>चवदार</i><par n="/लाल__adj" /></e>field1: 		<e lm="चवदार">               <i>चवदार</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="बेचव">                  <i>बेचव</i><par n="/लाल__adj" /></e>field1: 		<e lm="बेचव">                  <i>बेचव</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="कडू">                     <i>कडू</i><par n="/लाल__adj" /></e>field1: 		<e lm="कडू">                     <i>कडू</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="गोड">                     <i>गोड</i><par n="/लाल__adj" /></e>field1: 		<e lm="गोड">                     <i>गोड</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="आंबट">                  <i>आंबट</i><par n="/लाल__adj" /></e>field1: 		<e lm="आंबट">                  <i>आंबट</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="खारट">                  <i>खारट</i><par n="/लाल__adj" /></e>field1: 		<e lm="खारट">                  <i>खारट</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="तुरट">                  <i>तुरट</i><par n="/लाल__adj" /></e>field1: 		<e lm="तुरट">                  <i>तुरट</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="तिखट">                  <i>तिखट</i><par n="/लाल__adj" /></e>field1: 		<e lm="तिखट">                  <i>तिखट</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="मसालेदार">      <i>मसालेदार</i><par n="/लाल__adj" /></e>field1: 		<e lm="मसालेदार">      <i>मसालेदार</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="रंगीत">               <i>रंगीत</i><par n="/लाल__adj" /></e>field1: 		<e lm="रंगीत">               <i>रंगीत</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="कठीण">                  <i>कठीण</i><par n="/लाल__adj" /></e>field1: 		<e lm="कठीण">                  <i>कठीण</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="स्वच्छ">            <i>स्वच्छ</i><par n="/लाल__adj" /></e>field1: 		<e lm="स्वच्छ">            <i>स्वच्छ</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="घाणेरडा">         <i>घाणेरडा</i><par n="/लाल__adj" /></e>field1: 		<e lm="घाणेरडा">         <i>घाणेरडा</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="महाग">                  <i>महाग</i><par n="/लाल__adj" /></e>field1: 		<e lm="महाग">                  <i>महाग</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="स्वस्त">            <i>स्वस्त</i><par n="/लाल__adj" /></e>field1: 		<e lm="स्वस्त">            <i>स्वस्त</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="पूर्ण">               <i>पूर्ण</i><par n="/लाल__adj" /></e>field1: 		<e lm="पूर्ण">               <i>पूर्ण</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="अपूर्ण">            <i>अपूर्ण</i><par n="/लाल__adj" /></e>field1: 		<e lm="अपूर्ण">            <i>अपूर्ण</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="कडक">                     <i>कडक</i><par n="/लाल__adj" /></e>field1: 		<e lm="कडक">                     <i>कडक</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="मऊ">                        <i>मऊ</i><par n="/लाल__adj" /></e>field1: 		<e lm="मऊ">                        <i>मऊ</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="जड">                        <i>जड</i><par n="/लाल__adj" /></e>field1: 		<e lm="जड">                        <i>जड</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="नवीन">                  <i>नवीन</i><par n="/लाल__adj" /></e>field1: 		<e lm="नवीन">                  <i>नवीन</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="षांत">                  <i>षांत</i><par n="/लाल__adj" /></e>field1: 		<e lm="षांत">                  <i>षांत</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="अषांत">               <i>अषांत</i><par n="/लाल__adj" /></e>field1: 		<e lm="अषांत">               <i>अषांत</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="हळू">                     <i>हळू</i><par n="/लाल__adj" /></e>field1: 		<e lm="हळू">                     <i>हळू</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="वेगवान">            <i>वेगवान</i><par n="/लाल__adj" /></e>field1: 		<e lm="वेगवान">            <i>वेगवान</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="तरूण">                  <i>तरूण</i><par n="/लाल__adj" /></e>field1: 		<e lm="तरूण">                  <i>तरूण</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="खूप">                     <i>खूप</i><par n="/लाल__adj" /></e>field1: 		<e lm="खूप">                     <i>खूप</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="आनंदी">               <i>आनंदी</i><par n="/लाल__adj" /></e>field1: 		<e lm="आनंदी">               <i>आनंदी</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="नाखुष">               <i>नाखुष</i><par n="/लाल__adj" /></e>field1: 		<e lm="नाखुष">               <i>नाखुष</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="दुःखी">               <i>दुःखी</i><par n="/लाल__adj" /></e>field1: 		<e lm="दुःखी">               <i>दुःखी</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="उदास">                  <i>उदास</i><par n="/लाल__adj" /></e>field1: 		<e lm="उदास">                  <i>उदास</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="चपळ">                     <i>चपळ</i><par n="/लाल__adj" /></e>field1: 		<e lm="चपळ">                     <i>चपळ</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="मंद">                     <i>मंद</i><par n="/लाल__adj" /></e>field1: 		<e lm="मंद">                     <i>मंद</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="आळषी">                  <i>आळषी</i><par n="/लाल__adj" /></e>field1: 		<e lm="आळषी">                  <i>आळषी</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="मुरमाड">                       	<i>मुरमाड</i><par n="/लाल__adj" /></e>field1: 		<e lm="मुरमाड">                       	<i>मुरमाड</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="मषगूल">                        	<i>मषगूल</i><par n="/लाल__adj" /></e>field1: 		<e lm="मषगूल">                        	<i>मषगूल</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="सगोत्र">                       	<i>सगोत्र</i><par n="/लाल__adj" /></e>field1: 		<e lm="सगोत्र">                       	<i>सगोत्र</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="बहिर्गोल">                     	<i>बहिर्गोल</i><par n="/लाल__adj" /></e>field1: 		<e lm="बहिर्गोल">                     	<i>बहिर्गोल</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="लापट">                         	<i>लापट</i><par n="/लाल__adj" /></e>field1: 		<e lm="लापट">                         	<i>लापट</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="पिचकट">                        	<i>पिचकट</i><par n="/लाल__adj" /></e>field1: 		<e lm="पिचकट">                        	<i>पिचकट</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="दैवहत">                        	<i>दैवहत</i><par n="/लाल__adj" /></e>field1: 		<e lm="दैवहत">                        	<i>दैवहत</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="परखड">                         	<i>परखड</i><par n="/लाल__adj" /></e>field1: 		<e lm="परखड">                         	<i>परखड</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="प्रांजळ">                      	<i>प्रांजळ</i><par n="/लाल__adj" /></e>field1: 		<e lm="प्रांजळ">                      	<i>प्रांजळ</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="दैववान">                       	<i>दैववान</i><par n="/लाल__adj" /></e>field1: 		<e lm="दैववान">                       	<i>दैववान</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="तिटाळी">                       	<i>तिटाळी</i><par n="/लाल__adj" /></e>field1: 		<e lm="तिटाळी">                       	<i>तिटाळी</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="नेभळट">                        	<i>नेभळट</i><par n="/लाल__adj" /></e>field1: 		<e lm="नेभळट">                        	<i>नेभळट</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="पडखआऊ">                        	<i>पडखआऊ</i><par n="/लाल__adj" /></e>field1: 		<e lm="पडखआऊ">                        	<i>पडखआऊ</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="बेदम">                         	<i>बेदम</i><par n="/लाल__adj" /></e>field1: 		<e lm="बेदम">                         	<i>बेदम</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="सोमट">                         	<i>सोमट</i><par n="/लाल__adj" /></e>field1: 		<e lm="सोमट">                         	<i>सोमट</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="नापात">                        	<i>नापात</i><par n="/लाल__adj" /></e>field1: 		<e lm="नापात">                        	<i>नापात</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="निःषेश">                       	<i>निःषेश</i><par n="/लाल__adj" /></e>field1: 		<e lm="निःषेश">                       	<i>निःषेश</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="पुसकट">                        	<i>पुसकट</i><par n="/लाल__adj" /></e>field1: 		<e lm="पुसकट">                        	<i>पुसकट</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="पादाक्रांत">                   	<i>पादाक्रांत</i><par n="/लाल__adj" /></e>field1: 		<e lm="पादाक्रांत">                   	<i>पादाक्रांत</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="पूर्वग">                       	<i>पूर्वग</i><par n="/लाल__adj" /></e>field1: 		<e lm="पूर्वग">                       	<i>पूर्वग</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="दळदार">                        	<i>दळदार</i><par n="/लाल__adj" /></e>field1: 		<e lm="दळदार">                        	<i>दळदार</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="बराडी">                        	<i>बराडी</i><par n="/लाल__adj" /></e>field1: 		<e lm="बराडी">                        	<i>बराडी</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="सडीक">                         	<i>सडीक</i><par n="/लाल__adj" /></e>field1: 		<e lm="सडीक">                         	<i>सडीक</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="दुर्दम्य">                     	<i>दुर्दम्य</i><par n="/लाल__adj" /></e>field1: 		<e lm="दुर्दम्य">                     	<i>दुर्दम्य</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="निर्बुज">                      	<i>निर्बुज</i><par n="/लाल__adj" /></e>field1: 		<e lm="निर्बुज">                      	<i>निर्बुज</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="रोखी">                         	<i>रोखी</i><par n="/लाल__adj" /></e>field1: 		<e lm="रोखी">                         	<i>रोखी</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="माघी">                         	<i>माघी</i><par n="/लाल__adj" /></e>field1: 		<e lm="माघी">                         	<i>माघी</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="बांधिल">                       	<i>बांधिल</i><par n="/लाल__adj" /></e>field1: 		<e lm="बांधिल">                       	<i>बांधिल</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="सषर्त">                        	<i>सषर्त</i><par n="/लाल__adj" /></e>field1: 		<e lm="सषर्त">                        	<i>सषर्त</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="पीळदार">                       	<i>पीळदार</i><par n="/लाल__adj" /></e>field1: 		<e lm="पीळदार">                       	<i>पीळदार</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="तुंद">                         	<i>तुंद</i><par n="/लाल__adj" /></e>field1: 		<e lm="तुंद">                         	<i>तुंद</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="पोस्तर">                       	<i>पोस्तर</i><par n="/लाल__adj" /></e>field1: 		<e lm="पोस्तर">                       	<i>पोस्तर</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="सभाधीट">                       	<i>सभाधीट</i><par n="/लाल__adj" /></e>field1: 		<e lm="सभाधीट">                       	<i>सभाधीट</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="दुपाखी">                       	<i>दुपाखी</i><par n="/लाल__adj" /></e>field1: 		<e lm="दुपाखी">                       	<i>दुपाखी</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="त्याज्य">                      	<i>त्याज्य</i><par n="/लाल__adj" /></e>field1: 		<e lm="त्याज्य">                      	<i>त्याज्य</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="पायळू">                        	<i>पायळू</i><par n="/लाल__adj" /></e>field1: 		<e lm="पायळू">                        	<i>पायळू</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="आतांच">                        	<i>आतांच</i><par n="/लाल__adj" /></e>field1: 		<e lm="आतांच">                        	<i>आतांच</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="हेकट">                         	<i>हेकट</i><par n="/लाल__adj" /></e>field1: 		<e lm="हेकट">                         	<i>हेकट</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="निःसत्व">                      	<i>निःसत्व</i><par n="/लाल__adj" /></e>field1: 		<e lm="निःसत्व">                      	<i>निःसत्व</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="भोट">                          	<i>भोट</i><par n="/लाल__adj" /></e>field1: 		<e lm="भोट">                          	<i>भोट</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="निर्जतुक">                     	<i>निर्जतुक</i><par n="/लाल__adj" /></e>field1: 		<e lm="निर्जतुक">                     	<i>निर्जतुक</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="खालची">                        	<i>खालची</i><par n="/लाल__adj" /></e>field1: 		<e lm="खालची">                        	<i>खालची</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="बहुपतिकत्व">                   	<i>बहुपतिकत्व</i><par n="/लाल__adj" /></e>field1: 		<e lm="बहुपतिकत्व">                   	<i>बहुपतिकत्व</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="नवथर">                         	<i>नवथर</i><par n="/लाल__adj" /></e>field1: 		<e lm="नवथर">                         	<i>नवथर</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="दैववादी">                      	<i>दैववादी</i><par n="/लाल__adj" /></e>field1: 		<e lm="दैववादी">                      	<i>दैववादी</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="षब्दषूर">                      	<i>षब्दषूर</i><par n="/लाल__adj" /></e>field1: 		<e lm="षब्दषूर">                      	<i>षब्दषूर</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="दडस">                          	<i>दडस</i><par n="/लाल__adj" /></e>field1: 		<e lm="दडस">                          	<i>दडस</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="नाबूद">                        	<i>नाबूद</i><par n="/लाल__adj" /></e>field1: 		<e lm="नाबूद">                        	<i>नाबूद</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="संगची">                        	<i>संगची</i><par n="/लाल__adj" /></e>field1: 		<e lm="संगची">                        	<i>संगची</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="निरूंद">                       	<i>निरूंद</i><par n="/लाल__adj" /></e>field1: 		<e lm="निरूंद">                       	<i>निरूंद</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="दमडीपूत">                      	<i>दमडीपूत</i><par n="/लाल__adj" /></e>field1: 		<e lm="दमडीपूत">                      	<i>दमडीपूत</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="बराच">                         	<i>बराच</i><par n="/लाल__adj" /></e>field1: 		<e lm="बराच">                         	<i>बराच</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="यःकष्चित">                     	<i>यःकष्चित</i><par n="/लाल__adj" /></e>field1: 		<e lm="यःकष्चित">                     	<i>यःकष्चित</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="पुंलिंगी">                     	<i>पुंलिंगी</i><par n="/लाल__adj" /></e>field1: 		<e lm="पुंलिंगी">                     	<i>पुंलिंगी</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="धारभर">                        	<i>धारभर</i><par n="/लाल__adj" /></e>field1: 		<e lm="धारभर">                        	<i>धारभर</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="षुभाषुभ">                      	<i>षुभाषुभ</i><par n="/लाल__adj" /></e>field1: 		<e lm="षुभाषुभ">                      	<i>षुभाषुभ</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="षामाळू">                       	<i>षामाळू</i><par n="/लाल__adj" /></e>field1: 		<e lm="षामाळू">                       	<i>षामाळू</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="वैध">                          	<i>वैध</i><par n="/लाल__adj" /></e>field1: 		<e lm="वैध">                          	<i>वैध</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="मनोज्ञ">                       	<i>मनोज्ञ</i><par n="/लाल__adj" /></e>field1: 		<e lm="मनोज्ञ">                       	<i>मनोज्ञ</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="धोंगड">                        	<i>धोंगड</i><par n="/लाल__adj" /></e>field1: 		<e lm="धोंगड">                        	<i>धोंगड</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="धुकट">                         	<i>धुकट</i><par n="/लाल__adj" /></e>field1: 		<e lm="धुकट">                         	<i>धुकट</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="तिपानी">                       	<i>तिपानी</i><par n="/लाल__adj" /></e>field1: 		<e lm="तिपानी">                       	<i>तिपानी</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="बोलभांड">                      	<i>बोलभांड</i><par n="/लाल__adj" /></e>field1: 		<e lm="बोलभांड">                      	<i>बोलभांड</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="नामी">                         	<i>नामी</i><par n="/लाल__adj" /></e>field1: 		<e lm="नामी">                         	<i>नामी</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="सहमत">                         	<i>सहमत</i><par n="/लाल__adj" /></e>field1: 		<e lm="सहमत">                         	<i>सहमत</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="बेकरूळ">                       	<i>बेकरूळ</i><par n="/लाल__adj" /></e>field1: 		<e lm="बेकरूळ">                       	<i>बेकरूळ</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="सवघड">                         	<i>सवघड</i><par n="/लाल__adj" /></e>field1: 		<e lm="सवघड">                         	<i>सवघड</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="षठ">                           	<i>षठ</i><par n="/लाल__adj" /></e>field1: 		<e lm="षठ">                           	<i>षठ</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="प्रागैतिहास">                  	<i>प्रागैतिहास</i><par n="/लाल__adj" /></e>field1: 		<e lm="प्रागैतिहास">                  	<i>प्रागैतिहास</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="द्रुत">                        	<i>द्रुत</i><par n="/लाल__adj" /></e>field1: 		<e lm="द्रुत">                        	<i>द्रुत</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="सद्गत">                        	<i>सद्गत</i><par n="/लाल__adj" /></e>field1: 		<e lm="सद्गत">                        	<i>सद्गत</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="नैमित्तिक">                    	<i>नैमित्तिक</i><par n="/लाल__adj" /></e>field1: 		<e lm="नैमित्तिक">                    	<i>नैमित्तिक</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="दुखणी">                        	<i>दुखणी</i><par n="/लाल__adj" /></e>field1: 		<e lm="दुखणी">                        	<i>दुखणी</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="नाटाळ">                        	<i>नाटाळ</i><par n="/लाल__adj" /></e>field1: 		<e lm="नाटाळ">                        	<i>नाटाळ</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="थोकबंद">                       	<i>थोकबंद</i><par n="/लाल__adj" /></e>field1: 		<e lm="थोकबंद">                       	<i>थोकबंद</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="धंधेवआईक">                     	<i>धंधेवआईक</i><par n="/लाल__adj" /></e>field1: 		<e lm="धंधेवआईक">                     	<i>धंधेवआईक</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="तिपदरी">                       	<i>तिपदरी</i><par n="/लाल__adj" /></e>field1: 		<e lm="तिपदरी">                       	<i>तिपदरी</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="पढीक">                         	<i>पढीक</i><par n="/लाल__adj" /></e>field1: 		<e lm="पढीक">                         	<i>पढीक</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="रेघी">                         	<i>रेघी</i><par n="/लाल__adj" /></e>field1: 		<e lm="रेघी">                         	<i>रेघी</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="बाळंत">                        	<i>बाळंत</i><par n="/लाल__adj" /></e>field1: 		<e lm="बाळंत">                        	<i>बाळंत</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="पातालयंत्री">                  	<i>पातालयंत्री</i><par n="/लाल__adj" /></e>field1: 		<e lm="पातालयंत्री">                  	<i>पातालयंत्री</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="नवट">                          	<i>नवट</i><par n="/लाल__adj" /></e>field1: 		<e lm="नवट">                          	<i>नवट</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="दिगरजन">                       	<i>दिगरजन</i><par n="/लाल__adj" /></e>field1: 		<e lm="दिगरजन">                       	<i>दिगरजन</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="पोषाकी">                       	<i>पोषाकी</i><par n="/लाल__adj" /></e>field1: 		<e lm="पोषाकी">                       	<i>पोषाकी</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="सटीप">                         	<i>सटीप</i><par n="/लाल__adj" /></e>field1: 		<e lm="सटीप">                         	<i>सटीप</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="देवलंड">                       	<i>देवलंड</i><par n="/लाल__adj" /></e>field1: 		<e lm="देवलंड">                       	<i>देवलंड</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="माताब्बर">                     	<i>माताब्बर</i><par n="/लाल__adj" /></e>field1: 		<e lm="माताब्बर">                     	<i>माताब्बर</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="पूर्वापर">                     	<i>पूर्वापर</i><par n="/लाल__adj" /></e>field1: 		<e lm="पूर्वापर">                     	<i>पूर्वापर</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="बेछूट">                        	<i>बेछूट</i><par n="/लाल__adj" /></e>field1: 		<e lm="बेछूट">                        	<i>बेछूट</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="दमगीर">                        	<i>दमगीर</i><par n="/लाल__adj" /></e>field1: 		<e lm="दमगीर">                        	<i>दमगीर</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="तपकीरी">                       	<i>तपकीरी</i><par n="/लाल__adj" /></e>field1: 		<e lm="तपकीरी">                       	<i>तपकीरी</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="पाळक">                         	<i>पाळक</i><par n="/लाल__adj" /></e>field1: 		<e lm="पाळक">                         	<i>पाळक</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="तोंडचुकार">                    	<i>तोंडचुकार</i><par n="/लाल__adj" /></e>field1: 		<e lm="तोंडचुकार">                    	<i>तोंडचुकार</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="पुती">                         	<i>पुती</i><par n="/लाल__adj" /></e>field1: 		<e lm="पुती">                         	<i>पुती</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="तंटेखोर">                      	<i>तंटेखोर</i><par n="/लाल__adj" /></e>field1: 		<e lm="तंटेखोर">                      	<i>तंटेखोर</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="नेस्तनाबूद">                   	<i>नेस्तनाबूद</i><par n="/लाल__adj" /></e>field1: 		<e lm="नेस्तनाबूद">                   	<i>नेस्तनाबूद</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="तुल्य">                        	<i>तुल्य</i><par n="/लाल__adj" /></e>field1: 		<e lm="तुल्य">                        	<i>तुल्य</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="निगोड">                        	<i>निगोड</i><par n="/लाल__adj" /></e>field1: 		<e lm="निगोड">                        	<i>निगोड</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="विकराळ">                       	<i>विकराळ</i><par n="/लाल__adj" /></e>field1: 		<e lm="विकराळ">                       	<i>विकराळ</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="वैशायिक">                      	<i>वैशायिक</i><par n="/लाल__adj" /></e>field1: 		<e lm="वैशायिक">                      	<i>वैशायिक</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="बहाद">                         	<i>बहाद</i><par n="/लाल__adj" /></e>field1: 		<e lm="बहाद">                         	<i>बहाद</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="वरंधार">                       	<i>वरंधार</i><par n="/लाल__adj" /></e>field1: 		<e lm="वरंधार">                       	<i>वरंधार</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="तेवण">                         	<i>तेवण</i><par n="/लाल__adj" /></e>field1: 		<e lm="तेवण">                         	<i>तेवण</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="दिक">                          	<i>दिक</i><par n="/लाल__adj" /></e>field1: 		<e lm="दिक">                          	<i>दिक</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="ताबेदार">                      	<i>ताबेदार</i><par n="/लाल__adj" /></e>field1: 		<e lm="ताबेदार">                      	<i>ताबेदार</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="नाफेरवादी">                    	<i>नाफेरवादी</i><par n="/लाल__adj" /></e>field1: 		<e lm="नाफेरवादी">                    	<i>नाफेरवादी</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="सदय">                          	<i>सदय</i><par n="/लाल__adj" /></e>field1: 		<e lm="सदय">                          	<i>सदय</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="हडप">                          	<i>हडप</i><par n="/लाल__adj" /></e>field1: 		<e lm="हडप">                          	<i>हडप</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="सानथोर">                       	<i>सानथोर</i><par n="/लाल__adj" /></e>field1: 		<e lm="सानथोर">                       	<i>सानथोर</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="वेडेचार">                      	<i>वेडेचार</i><par n="/लाल__adj" /></e>field1: 		<e lm="वेडेचार">                      	<i>वेडेचार</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="मागत">                         	<i>मागत</i><par n="/लाल__adj" /></e>field1: 		<e lm="मागत">                         	<i>मागत</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="बे">                           	<i>बे</i><par n="/लाल__adj" /></e>field1: 		<e lm="बे">                           	<i>बे</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="लोकरी">                        	<i>लोकरी</i><par n="/लाल__adj" /></e>field1: 		<e lm="लोकरी">                        	<i>लोकरी</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="प्रकीर्ण">                     	<i>प्रकीर्ण</i><par n="/लाल__adj" /></e>field1: 		<e lm="प्रकीर्ण">                     	<i>प्रकीर्ण</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="ह्ऋ्दयंगम">                    	<i>ह्ऋ्दयंगम</i><par n="/लाल__adj" /></e>field1: 		<e lm="ह्ऋ्दयंगम">                    	<i>ह्ऋ्दयंगम</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="फौजी">                         	<i>फौजी</i><par n="/लाल__adj" /></e>field1: 		<e lm="फौजी">                         	<i>फौजी</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="तरक">                          	<i>तरक</i><par n="/लाल__adj" /></e>field1: 		<e lm="तरक">                          	<i>तरक</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="मजली">                         	<i>मजली</i><par n="/लाल__adj" /></e>field1: 		<e lm="मजली">                         	<i>मजली</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="सव्याज">                       	<i>सव्याज</i><par n="/लाल__adj" /></e>field1: 		<e lm="सव्याज">                       	<i>सव्याज</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="निरलस">                        	<i>निरलस</i><par n="/लाल__adj" /></e>field1: 		<e lm="निरलस">                        	<i>निरलस</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="प्रारब्ध">                     	<i>प्रारब्ध</i><par n="/लाल__adj" /></e>field1: 		<e lm="प्रारब्ध">                     	<i>प्रारब्ध</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="निसंग">                        	<i>निसंग</i><par n="/लाल__adj" /></e>field1: 		<e lm="निसंग">                        	<i>निसंग</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="दणदणीत">                       	<i>दणदणीत</i><par n="/लाल__adj" /></e>field1: 		<e lm="दणदणीत">                       	<i>दणदणीत</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="पिठूर">                        	<i>पिठूर</i><par n="/लाल__adj" /></e>field1: 		<e lm="पिठूर">                        	<i>पिठूर</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="सुरूप">                        	<i>सुरूप</i><par n="/लाल__adj" /></e>field1: 		<e lm="सुरूप">                        	<i>सुरूप</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="सघन">                          	<i>सघन</i><par n="/लाल__adj" /></e>field1: 		<e lm="सघन">                          	<i>सघन</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="बेबंद">                        	<i>बेबंद</i><par n="/लाल__adj" /></e>field1: 		<e lm="बेबंद">                        	<i>बेबंद</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="सोलीव">                        	<i>सोलीव</i><par n="/लाल__adj" /></e>field1: 		<e lm="सोलीव">                        	<i>सोलीव</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="युक्तबाज">                     	<i>युक्तबाज</i><par n="/लाल__adj" /></e>field1: 		<e lm="युक्तबाज">                     	<i>युक्तबाज</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="तिय्यम">                       	<i>तिय्यम</i><par n="/लाल__adj" /></e>field1: 		<e lm="तिय्यम">                       	<i>तिय्यम</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="वाटीव">                        	<i>वाटीव</i><par n="/लाल__adj" /></e>field1: 		<e lm="वाटीव">                        	<i>वाटीव</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="निखिल">                        	<i>निखिल</i><par n="/लाल__adj" /></e>field1: 		<e lm="निखिल">                        	<i>निखिल</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="दुर्बोध">                      	<i>दुर्बोध</i><par n="/लाल__adj" /></e>field1: 		<e lm="दुर्बोध">                      	<i>दुर्बोध</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="सोषिक">                        	<i>सोषिक</i><par n="/लाल__adj" /></e>field1: 		<e lm="सोषिक">                        	<i>सोषिक</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="बागआई">                        	<i>बागआई</i><par n="/लाल__adj" /></e>field1: 		<e lm="बागआई">                        	<i>बागआई</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="धारोश्ण">                      	<i>धारोश्ण</i><par n="/लाल__adj" /></e>field1: 		<e lm="धारोश्ण">                      	<i>धारोश्ण</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="तैनाती">                       	<i>तैनाती</i><par n="/लाल__adj" /></e>field1: 		<e lm="तैनाती">                       	<i>तैनाती</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="विचकट">                        	<i>विचकट</i><par n="/लाल__adj" /></e>field1: 		<e lm="विचकट">                        	<i>विचकट</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="दषग्रंथी">                     	<i>दषग्रंथी</i><par n="/लाल__adj" /></e>field1: 		<e lm="दषग्रंथी">                     	<i>दषग्रंथी</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="मिचकट">                        	<i>मिचकट</i><par n="/लाल__adj" /></e>field1: 		<e lm="मिचकट">                        	<i>मिचकट</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="पघळ">                          	<i>पघळ</i><par n="/लाल__adj" /></e>field1: 		<e lm="पघळ">                          	<i>पघळ</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="वटाळषी">                       	<i>वटाळषी</i><par n="/लाल__adj" /></e>field1: 		<e lm="वटाळषी">                       	<i>वटाळषी</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="त्रिस्थळी">                    	<i>त्रिस्थळी</i><par n="/लाल__adj" /></e>field1: 		<e lm="त्रिस्थळी">                    	<i>त्रिस्थळी</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="समचित्र">                      	<i>समचित्र</i><par n="/लाल__adj" /></e>field1: 		<e lm="समचित्र">                      	<i>समचित्र</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="वोजोड">                        	<i>वोजोड</i><par n="/लाल__adj" /></e>field1: 		<e lm="वोजोड">                        	<i>वोजोड</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="नामोहरम">                      	<i>नामोहरम</i><par n="/लाल__adj" /></e>field1: 		<e lm="नामोहरम">                      	<i>नामोहरम</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="मुळमुळीत">                     	<i>मुळमुळीत</i><par n="/लाल__adj" /></e>field1: 		<e lm="मुळमुळीत">                     	<i>मुळमुळीत</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="बांड">                         	<i>बांड</i><par n="/लाल__adj" /></e>field1: 		<e lm="बांड">                         	<i>बांड</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="सोवळी">                        	<i>सोवळी</i><par n="/लाल__adj" /></e>field1: 		<e lm="सोवळी">                        	<i>सोवळी</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="निर्नायक">                     	<i>निर्नायक</i><par n="/लाल__adj" /></e>field1: 		<e lm="निर्नायक">                     	<i>निर्नायक</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="हमचौरस">                       	<i>हमचौरस</i><par n="/लाल__adj" /></e>field1: 		<e lm="हमचौरस">                       	<i>हमचौरस</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="धुळकट">                        	<i>धुळकट</i><par n="/लाल__adj" /></e>field1: 		<e lm="धुळकट">                        	<i>धुळकट</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="धेडगुजरी">                     	<i>धेडगुजरी</i><par n="/लाल__adj" /></e>field1: 		<e lm="धेडगुजरी">                     	<i>धेडगुजरी</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="मुरब्बी">                      	<i>मुरब्बी</i><par n="/लाल__adj" /></e>field1: 		<e lm="मुरब्बी">                      	<i>मुरब्बी</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="लंडी">                         	<i>लंडी</i><par n="/लाल__adj" /></e>field1: 		<e lm="लंडी">                         	<i>लंडी</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="रंजीस">                        	<i>रंजीस</i><par n="/लाल__adj" /></e>field1: 		<e lm="रंजीस">                        	<i>रंजीस</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="मुक्रर">                       	<i>मुक्रर</i><par n="/लाल__adj" /></e>field1: 		<e lm="मुक्रर">                       	<i>मुक्रर</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="तालेवार">                      	<i>तालेवार</i><par n="/लाल__adj" /></e>field1: 		<e lm="तालेवार">                      	<i>तालेवार</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="फरमास">                        	<i>फरमास</i><par n="/लाल__adj" /></e>field1: 		<e lm="फरमास">                        	<i>फरमास</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="धुवट">                         	<i>धुवट</i><par n="/लाल__adj" /></e>field1: 		<e lm="धुवट">                         	<i>धुवट</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="तक्रारखोर">                    	<i>तक्रारखोर</i><par n="/लाल__adj" /></e>field1: 		<e lm="तक्रारखोर">                    	<i>तक्रारखोर</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="सअऊळ">                         	<i>सअऊळ</i><par n="/लाल__adj" /></e>field1: 		<e lm="सअऊळ">                         	<i>सअऊळ</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="फोडीव">                        	<i>फोडीव</i><par n="/लाल__adj" /></e>field1: 		<e lm="फोडीव">                        	<i>फोडीव</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="बदाद">                         	<i>बदाद</i><par n="/लाल__adj" /></e>field1: 		<e lm="बदाद">                         	<i>बदाद</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="हरकोणी">                       	<i>हरकोणी</i><par n="/लाल__adj" /></e>field1: 		<e lm="हरकोणी">                       	<i>हरकोणी</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="तंगदार">                       	<i>तंगदार</i><par n="/लाल__adj" /></e>field1: 		<e lm="तंगदार">                       	<i>तंगदार</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="लंड">                          	<i>लंड</i><par n="/लाल__adj" /></e>field1: 		<e lm="लंड">                          	<i>लंड</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="निस्सीम">                      	<i>निस्सीम</i><par n="/लाल__adj" /></e>field1: 		<e lm="निस्सीम">                      	<i>निस्सीम</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="फाजितखोर">                     	<i>फाजितखोर</i><par n="/लाल__adj" /></e>field1: 		<e lm="फाजितखोर">                     	<i>फाजितखोर</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="नआऊमेद">                       	<i>नआऊमेद</i><par n="/लाल__adj" /></e>field1: 		<e lm="नआऊमेद">                       	<i>नआऊमेद</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="निरूत्तर">                     	<i>निरूत्तर</i><par n="/लाल__adj" /></e>field1: 		<e lm="निरूत्तर">                     	<i>निरूत्तर</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="निमगोल">                       	<i>निमगोल</i><par n="/लाल__adj" /></e>field1: 		<e lm="निमगोल">                       	<i>निमगोल</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="मनोवेधक">                      	<i>मनोवेधक</i><par n="/लाल__adj" /></e>field1: 		<e lm="मनोवेधक">                      	<i>मनोवेधक</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="थबकट">                         	<i>थबकट</i><par n="/लाल__adj" /></e>field1: 		<e lm="थबकट">                         	<i>थबकट</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="पैलूदार">                      	<i>पैलूदार</i><par n="/लाल__adj" /></e>field1: 		<e lm="पैलूदार">                      	<i>पैलूदार</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="रुग्ण">                        	<i>रुग्ण</i><par n="/लाल__adj" /></e>field1: 		<e lm="रुग्ण">                        	<i>रुग्ण</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="निर्लेप">                      	<i>निर्लेप</i><par n="/लाल__adj" /></e>field1: 		<e lm="निर्लेप">                      	<i>निर्लेप</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="दरदरीत">                       	<i>दरदरीत</i><par n="/लाल__adj" /></e>field1: 		<e lm="दरदरीत">                       	<i>दरदरीत</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="सुकट">                         	<i>सुकट</i><par n="/लाल__adj" /></e>field1: 		<e lm="सुकट">                         	<i>सुकट</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="वअईट">                         	<i>वअईट</i><par n="/लाल__adj" /></e>field1: 		<e lm="वअईट">                         	<i>वअईट</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="विमनस्क">                      	<i>विमनस्क</i><par n="/लाल__adj" /></e>field1: 		<e lm="विमनस्क">                      	<i>विमनस्क</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="निर्जळी">                      	<i>निर्जळी</i><par n="/लाल__adj" /></e>field1: 		<e lm="निर्जळी">                      	<i>निर्जळी</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="धोबड">                         	<i>धोबड</i><par n="/लाल__adj" /></e>field1: 		<e lm="धोबड">                         	<i>धोबड</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="तकलादू">                       	<i>तकलादू</i><par n="/लाल__adj" /></e>field1: 		<e lm="तकलादू">                       	<i>तकलादू</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="पैस">                          	<i>पैस</i><par n="/लाल__adj" /></e>field1: 		<e lm="पैस">                          	<i>पैस</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="सासुरवाषीण">                   	<i>सासुरवाषीण</i><par n="/लाल__adj" /></e>field1: 		<e lm="सासुरवाषीण">                   	<i>सासुरवाषीण</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="निमित्तखोर">                   	<i>निमित्तखोर</i><par n="/लाल__adj" /></e>field1: 		<e lm="निमित्तखोर">                   	<i>निमित्तखोर</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="वायफट">                        	<i>वायफट</i><par n="/लाल__adj" /></e>field1: 		<e lm="वायफट">                        	<i>वायफट</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="धुरंधर">                       	<i>धुरंधर</i><par n="/लाल__adj" /></e>field1: 		<e lm="धुरंधर">                       	<i>धुरंधर</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="तयाच">                         	<i>तयाच</i><par n="/लाल__adj" /></e>field1: 		<e lm="तयाच">                         	<i>तयाच</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="दारूबाज">                      	<i>दारूबाज</i><par n="/लाल__adj" /></e>field1: 		<e lm="दारूबाज">                      	<i>दारूबाज</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="वेधक">                         	<i>वेधक</i><par n="/लाल__adj" /></e>field1: 		<e lm="वेधक">                         	<i>वेधक</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="सढळ">                          	<i>सढळ</i><par n="/लाल__adj" /></e>field1: 		<e lm="सढळ">                          	<i>सढळ</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="पतित">                         	<i>पतित</i><par n="/लाल__adj" /></e>field1: 		<e lm="पतित">                         	<i>पतित</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="दाभणकारी">                     	<i>दाभणकारी</i><par n="/लाल__adj" /></e>field1: 		<e lm="दाभणकारी">                     	<i>दाभणकारी</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="प्रगमनषील">                    	<i>प्रगमनषील</i><par n="/लाल__adj" /></e>field1: 		<e lm="प्रगमनषील">                    	<i>प्रगमनषील</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="तब्बल">                        	<i>तब्बल</i><par n="/लाल__adj" /></e>field1: 		<e lm="तब्बल">                        	<i>तब्बल</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="सुश्ट">                        	<i>सुश्ट</i><par n="/लाल__adj" /></e>field1: 		<e lm="सुश्ट">                        	<i>सुश्ट</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="दुखणआईत">                      	<i>दुखणआईत</i><par n="/लाल__adj" /></e>field1: 		<e lm="दुखणआईत">                      	<i>दुखणआईत</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="तुमुल">                        	<i>तुमुल</i><par n="/लाल__adj" /></e>field1: 		<e lm="तुमुल">                        	<i>तुमुल</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="तडफदार">                       	<i>तडफदार</i><par n="/लाल__adj" /></e>field1: 		<e lm="तडफदार">                       	<i>तडफदार</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="वळणादार">                      	<i>वळणादार</i><par n="/लाल__adj" /></e>field1: 		<e lm="वळणादार">                      	<i>वळणादार</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="प्रणीत">                       	<i>प्रणीत</i><par n="/लाल__adj" /></e>field1: 		<e lm="प्रणीत">                       	<i>प्रणीत</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="बेदरकार">                      	<i>बेदरकार</i><par n="/लाल__adj" /></e>field1: 		<e lm="बेदरकार">                      	<i>बेदरकार</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="लोलिंगत">                      	<i>लोलिंगत</i><par n="/लाल__adj" /></e>field1: 		<e lm="लोलिंगत">                      	<i>लोलिंगत</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="समआईक">                        	<i>समआईक</i><par n="/लाल__adj" /></e>field1: 		<e lm="समआईक">                        	<i>समआईक</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="तुसड">                         	<i>तुसड</i><par n="/लाल__adj" /></e>field1: 		<e lm="तुसड">                         	<i>तुसड</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="मानीव">                        	<i>मानीव</i><par n="/लाल__adj" /></e>field1: 		<e lm="मानीव">                        	<i>मानीव</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="दग्गोचर">                      	<i>दग्गोचर</i><par n="/लाल__adj" /></e>field1: 		<e lm="दग्गोचर">                      	<i>दग्गोचर</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="वातट">                         	<i>वातट</i><par n="/लाल__adj" /></e>field1: 		<e lm="वातट">                         	<i>वातट</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="सुजाण">                        	<i>सुजाण</i><par n="/लाल__adj" /></e>field1: 		<e lm="सुजाण">                        	<i>सुजाण</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="दुर्निवार">                    	<i>दुर्निवार</i><par n="/लाल__adj" /></e>field1: 		<e lm="दुर्निवार">                    	<i>दुर्निवार</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="वाचनीय">                       	<i>वाचनीय</i><par n="/लाल__adj" /></e>field1: 		<e lm="वाचनीय">                       	<i>वाचनीय</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="धट्ट">                         	<i>धट्ट</i><par n="/लाल__adj" /></e>field1: 		<e lm="धट्ट">                         	<i>धट्ट</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="भरजरी">                        	<i>भरजरी</i><par n="/लाल__adj" /></e>field1: 		<e lm="भरजरी">                        	<i>भरजरी</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="पोषाखी">                       	<i>पोषाखी</i><par n="/लाल__adj" /></e>field1: 		<e lm="पोषाखी">                       	<i>पोषाखी</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="पुरवार">                       	<i>पुरवार</i><par n="/लाल__adj" /></e>field1: 		<e lm="पुरवार">                       	<i>पुरवार</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="मगरूर">                        	<i>मगरूर</i><par n="/लाल__adj" /></e>field1: 		<e lm="मगरूर">                        	<i>मगरूर</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="भरवलेली">                      	<i>भरवलेली</i><par n="/लाल__adj" /></e>field1: 		<e lm="भरवलेली">                      	<i>भरवलेली</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="रूजू">                         	<i>रूजू</i><par n="/लाल__adj" /></e>field1: 		<e lm="रूजू">                         	<i>रूजू</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="सादळ">                         	<i>सादळ</i><par n="/लाल__adj" /></e>field1: 		<e lm="सादळ">                         	<i>सादळ</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="वहीत">                         	<i>वहीत</i><par n="/लाल__adj" /></e>field1: 		<e lm="वहीत">                         	<i>वहीत</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="दुखांबी">                      	<i>दुखांबी</i><par n="/लाल__adj" /></e>field1: 		<e lm="दुखांबी">                      	<i>दुखांबी</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="देषीकार">                      	<i>देषीकार</i><par n="/लाल__adj" /></e>field1: 		<e lm="देषीकार">                      	<i>देषीकार</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="व्यवच्छेदक">                   	<i>व्यवच्छेदक</i><par n="/लाल__adj" /></e>field1: 		<e lm="व्यवच्छेदक">                   	<i>व्यवच्छेदक</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="वातूळ">                        	<i>वातूळ</i><par n="/लाल__adj" /></e>field1: 		<e lm="वातूळ">                        	<i>वातूळ</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="धट">                           	<i>धट</i><par n="/लाल__adj" /></e>field1: 		<e lm="धट">                           	<i>धट</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="सुरस">                         	<i>सुरस</i><par n="/लाल__adj" /></e>field1: 		<e lm="सुरस">                         	<i>सुरस</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="बयाजवार">                      	<i>बयाजवार</i><par n="/लाल__adj" /></e>field1: 		<e lm="बयाजवार">                      	<i>बयाजवार</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="तापकरी">                       	<i>तापकरी</i><par n="/लाल__adj" /></e>field1: 		<e lm="तापकरी">                       	<i>तापकरी</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="दीर्घसूत्री">                  	<i>दीर्घसूत्री</i><par n="/लाल__adj" /></e>field1: 		<e lm="दीर्घसूत्री">                  	<i>दीर्घसूत्री</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="जोगची">                        	<i>जोगची</i><par n="/लाल__adj" /></e>field1: 		<e lm="जोगची">                        	<i>जोगची</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="देदीप्यमान">                   	<i>देदीप्यमान</i><par n="/लाल__adj" /></e>field1: 		<e lm="देदीप्यमान">                   	<i>देदीप्यमान</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="वहिमी">                        	<i>वहिमी</i><par n="/लाल__adj" /></e>field1: 		<e lm="वहिमी">                        	<i>वहिमी</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="प्रासादिक">                    	<i>प्रासादिक</i><par n="/लाल__adj" /></e>field1: 		<e lm="प्रासादिक">                    	<i>प्रासादिक</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="तजवेदार">                      	<i>तजवेदार</i><par n="/लाल__adj" /></e>field1: 		<e lm="तजवेदार">                      	<i>तजवेदार</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="सांडोसांड">                    	<i>सांडोसांड</i><par n="/लाल__adj" /></e>field1: 		<e lm="सांडोसांड">                    	<i>सांडोसांड</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="सामिल">                        	<i>सामिल</i><par n="/लाल__adj" /></e>field1: 		<e lm="सामिल">                        	<i>सामिल</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="सावयव">                        	<i>सावयव</i><par n="/लाल__adj" /></e>field1: 		<e lm="सावयव">                        	<i>सावयव</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="षब्दवेधी">                     	<i>षब्दवेधी</i><par n="/लाल__adj" /></e>field1: 		<e lm="षब्दवेधी">                     	<i>षब्दवेधी</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="वज्रलेप">                      	<i>वज्रलेप</i><par n="/लाल__adj" /></e>field1: 		<e lm="वज्रलेप">                      	<i>वज्रलेप</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="बिछआईती">                      	<i>बिछआईती</i><par n="/लाल__adj" /></e>field1: 		<e lm="बिछआईती">                      	<i>बिछआईती</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="पिकूट">                        	<i>पिकूट</i><par n="/लाल__adj" /></e>field1: 		<e lm="पिकूट">                        	<i>पिकूट</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="पठडी">                         	<i>पठडी</i><par n="/लाल__adj" /></e>field1: 		<e lm="पठडी">                         	<i>पठडी</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="दुकानी">                       	<i>दुकानी</i><par n="/लाल__adj" /></e>field1: 		<e lm="दुकानी">                       	<i>दुकानी</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="नायब">                         	<i>नायब</i><par n="/लाल__adj" /></e>field1: 		<e lm="नायब">                         	<i>नायब</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="नमुनेदार">                     	<i>नमुनेदार</i><par n="/लाल__adj" /></e>field1: 		<e lm="नमुनेदार">                     	<i>नमुनेदार</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="महितगार">                      	<i>महितगार</i><par n="/लाल__adj" /></e>field1: 		<e lm="महितगार">                      	<i>महितगार</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="नाकेल">                        	<i>नाकेल</i><par n="/लाल__adj" /></e>field1: 		<e lm="नाकेल">                        	<i>नाकेल</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="धुरीण">                        	<i>धुरीण</i><par n="/लाल__adj" /></e>field1: 		<e lm="धुरीण">                        	<i>धुरीण</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="निवैर">                        	<i>निवैर</i><par n="/लाल__adj" /></e>field1: 		<e lm="निवैर">                        	<i>निवैर</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="निरामय">                       	<i>निरामय</i><par n="/लाल__adj" /></e>field1: 		<e lm="निरामय">                       	<i>निरामय</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="लोणकदे">                       	<i>लोणकदे</i><par n="/लाल__adj" /></e>field1: 		<e lm="लोणकदे">                       	<i>लोणकदे</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="हावरट">                        	<i>हावरट</i><par n="/लाल__adj" /></e>field1: 		<e lm="हावरट">                        	<i>हावरट</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="निपाणी">                       	<i>निपाणी</i><par n="/लाल__adj" /></e>field1: 		<e lm="निपाणी">                       	<i>निपाणी</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="द्वदल">                        	<i>द्वदल</i><par n="/लाल__adj" /></e>field1: 		<e lm="द्वदल">                        	<i>द्वदल</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="दांड">                         	<i>दांड</i><par n="/लाल__adj" /></e>field1: 		<e lm="दांड">                         	<i>दांड</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="पाजी">                         	<i>पाजी</i><par n="/लाल__adj" /></e>field1: 		<e lm="पाजी">                         	<i>पाजी</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="विसंवादी">                     	<i>विसंवादी</i><par n="/लाल__adj" /></e>field1: 		<e lm="विसंवादी">                     	<i>विसंवादी</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="नादरुस्त">                     	<i>नादरुस्त</i><par n="/लाल__adj" /></e>field1: 		<e lm="नादरुस्त">                     	<i>नादरुस्त</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="षुंभ">                         	<i>षुंभ</i><par n="/लाल__adj" /></e>field1: 		<e lm="षुंभ">                         	<i>षुंभ</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="हळवट">                         	<i>हळवट</i><par n="/लाल__adj" /></e>field1: 		<e lm="हळवट">                         	<i>हळवट</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="सोप">                          	<i>सोप</i><par n="/लाल__adj" /></e>field1: 		<e lm="सोप">                          	<i>सोप</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="विघ्नसंतोशी">                  	<i>विघ्नसंतोशी</i><par n="/लाल__adj" /></e>field1: 		<e lm="विघ्नसंतोशी">                  	<i>विघ्नसंतोशी</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="लागट">                         	<i>लागट</i><par n="/लाल__adj" /></e>field1: 		<e lm="लागट">                         	<i>लागट</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="दुकडी">                        	<i>दुकडी</i><par n="/लाल__adj" /></e>field1: 		<e lm="दुकडी">                        	<i>दुकडी</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="मुर्दाड">                      	<i>मुर्दाड</i><par n="/लाल__adj" /></e>field1: 		<e lm="मुर्दाड">                      	<i>मुर्दाड</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="द्व्यर्थी">                    	<i>द्व्यर्थी</i><par n="/लाल__adj" /></e>field1: 		<e lm="द्व्यर्थी">                    	<i>द्व्यर्थी</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="वारेमाप">                      	<i>वारेमाप</i><par n="/लाल__adj" /></e>field1: 		<e lm="वारेमाप">                      	<i>वारेमाप</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="प्रमाणषीर">                    	<i>प्रमाणषीर</i><par n="/लाल__adj" /></e>field1: 		<e lm="प्रमाणषीर">                    	<i>प्रमाणषीर</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="बिनघोर">                       	<i>बिनघोर</i><par n="/लाल__adj" /></e>field1: 		<e lm="बिनघोर">                       	<i>बिनघोर</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="तुकतुकीत">                     	<i>तुकतुकीत</i><par n="/लाल__adj" /></e>field1: 		<e lm="तुकतुकीत">                     	<i>तुकतुकीत</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="निनावी">                       	<i>निनावी</i><par n="/लाल__adj" /></e>field1: 		<e lm="निनावी">                       	<i>निनावी</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="फुटीर">                        	<i>फुटीर</i><par n="/लाल__adj" /></e>field1: 		<e lm="फुटीर">                        	<i>फुटीर</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="सळंग">                         	<i>सळंग</i><par n="/लाल__adj" /></e>field1: 		<e lm="सळंग">                         	<i>सळंग</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="मूक">                          	<i>मूक</i><par n="/लाल__adj" /></e>field1: 		<e lm="मूक">                          	<i>मूक</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="नादार">                        	<i>नादार</i><par n="/लाल__adj" /></e>field1: 		<e lm="नादार">                        	<i>नादार</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="बेतमीज">                       	<i>बेतमीज</i><par n="/लाल__adj" /></e>field1: 		<e lm="बेतमीज">                       	<i>बेतमीज</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="दरोबस्त">                      	<i>दरोबस्त</i><par n="/लाल__adj" /></e>field1: 		<e lm="दरोबस्त">                      	<i>दरोबस्त</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="विदित">                        	<i>विदित</i><par n="/लाल__adj" /></e>field1: 		<e lm="विदित">                        	<i>विदित</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="ध्वनित">                       	<i>ध्वनित</i><par n="/लाल__adj" /></e>field1: 		<e lm="ध्वनित">                       	<i>ध्वनित</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="दहषतावादी">                    	<i>दहषतावादी</i><par n="/लाल__adj" /></e>field1: 		<e lm="दहषतावादी">                    	<i>दहषतावादी</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="लट्टू">                        	<i>लट्टू</i><par n="/लाल__adj" /></e>field1: 		<e lm="लट्टू">                        	<i>लट्टू</i><par n="/लाल__adj" /></e>
+field2: 
+		<e lm="आजचा">                         	<i>आजच</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="आजचा">                         	<i>आजच</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="उजवा">                         	<i>उजव</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="उजवा">                         	<i>उजव</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="आपला">                         	<i>आपल</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="आपला">                         	<i>आपल</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="थोडा">                         	<i>थोड</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="थोडा">                         	<i>थोड</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="नंतरचा">                       	<i>नंतरच</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="नंतरचा">                       	<i>नंतरच</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="नुसता">                        	<i>नुसत</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="नुसता">                        	<i>नुसत</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="पुढचा">                        	<i>पुढच</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="पुढचा">                        	<i>पुढच</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="सारखा">                        	<i>सारख</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="सारखा">                        	<i>सारख</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="सगळा">                         	<i>सगळ</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="सगळा">                         	<i>सगळ</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="आंधळा">                        	<i>आंधळ</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="आंधळा">                        	<i>आंधळ</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="आठवा">                         	<i>आठव</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="आठवा">                         	<i>आठव</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="आधीचा">                        	<i>आधीच</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="आधीचा">                        	<i>आधीच</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="आडचा">                         	<i>आडच</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="आडचा">                         	<i>आडच</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="आडवा">                         	<i>आडव</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="आडवा">                         	<i>आडव</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="आजचा">                         	<i>आजच</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="आजचा">                         	<i>आजच</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="आमचा">                         	<i>आमच</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="आमचा">                         	<i>आमच</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="आपापला">                       	<i>आपापल</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="आपापला">                       	<i>आपापल</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="आपअआपला">                      	<i>आपअआपल</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="आपअआपला">                      	<i>आपअआपल</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="आपला">                         	<i>आपल</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="आपला">                         	<i>आपल</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="आसुसलेला">                     	<i>आसुसलेल</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="आसुसलेला">                     	<i>आसुसलेल</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="आवडता">                        	<i>आवडत</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="आवडता">                        	<i>आवडत</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="आताचा">                        	<i>आताच</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="आताचा">                        	<i>आताच</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="आतापर्यंतचा">                  	<i>आतापर्यंतच</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="आतापर्यंतचा">                  	<i>आतापर्यंतच</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="आतापर्यन्तचा">                 	<i>आतापर्यन्तच</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="आतापर्यन्तचा">                 	<i>आतापर्यन्तच</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="आतचा">                         	<i>आतच</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="आतचा">                         	<i>आतच</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="आतला">                         	<i>आतल</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="आतला">                         	<i>आतल</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="आदला">                         	<i>आदल</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="आदला">                         	<i>आदल</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="आयता">                         	<i>आयत</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="आयता">                         	<i>आयत</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="भाबडा">                        	<i>भाबड</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="भाबडा">                        	<i>भाबड</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="भाजका">                        	<i>भाजक</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="भाजका">                        	<i>भाजक</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="भगवा">                         	<i>भगव</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="भगवा">                         	<i>भगव</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="भला">                          	<i>भल</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="भला">                          	<i>भल</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="भलता">                         	<i>भलत</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="भलता">                         	<i>भलत</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="भरचा">                         	<i>भरच</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="भरचा">                         	<i>भरच</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="भरवलेली">                      	<i>भरवलेल</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="भरवलेली">                      	<i>भरवलेल</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="भिजका">                        	<i>भिजक</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="भिजका">                        	<i>भिजक</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="भिकारडा">                      	<i>भिकारड</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="भिकारडा">                      	<i>भिकारड</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="भोळा">                         	<i>भोळ</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="भोळा">                         	<i>भोळ</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="भोवताचा">                      	<i>भोवताच</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="भोवताचा">                      	<i>भोवताच</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="भोवतालचा">                     	<i>भोवतालच</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="भोवतालचा">                     	<i>भोवतालच</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="भोवतीचा">                      	<i>भोवतीच</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="भोवतीचा">                      	<i>भोवतीच</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="भुकेला">                       	<i>भुकेल</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="भुकेला">                       	<i>भुकेल</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="भुकेलेला">                     	<i>भुकेलेल</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="भुकेलेला">                     	<i>भुकेलेल</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="भुरटा">                        	<i>भुरट</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="भुरटा">                        	<i>भुरट</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="छोटा">                         	<i>छोट</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="छोटा">                         	<i>छोट</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="ढेरपोटा">                      	<i>ढेरपोट</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="ढेरपोटा">                      	<i>ढेरपोट</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="ऐवजीचा">                       	<i>ऐवजीच</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="ऐवजीचा">                       	<i>ऐवजीच</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="घाणेरडा">                      	<i>घाणेरड</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="घाणेरडा">                      	<i>घाणेरड</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="घरभेदा">                       	<i>घरभेद</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="घरभेदा">                       	<i>घरभेद</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="घरचा">                         	<i>घरच</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="घरचा">                         	<i>घरच</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="घुमा">                         	<i>घुम</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="घुमा">                         	<i>घुम</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="झपाटलेला">                     	<i>झपाटलेल</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="झपाटलेला">                     	<i>झपाटलेल</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="खालचा">                        	<i>खालच</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="खालचा">                        	<i>खालच</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="खालची">                        	<i>खालच</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="खालची">                        	<i>खालच</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="खातरचा">                       	<i>खातरच</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="खातरचा">                       	<i>खातरच</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="खमका">                         	<i>खमक</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="खमका">                         	<i>खमक</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="खोटा">                         	<i>खोट</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="खोटा">                         	<i>खोट</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="खुंटलेला">                     	<i>खुंटलेल</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="खुंटलेला">                     	<i>खुंटलेल</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="खुरटलेला">                     	<i>खुरटलेल</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="खुरटलेला">                     	<i>खुरटलेल</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="फाटका">                        	<i>फाटक</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="फाटका">                        	<i>फाटक</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="फलाणा">                        	<i>फलाण</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="फलाणा">                        	<i>फलाण</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="फसवा">                         	<i>फसव</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="फसवा">                         	<i>फसव</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="फटाकडा">                       	<i>फटाकड</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="फटाकडा">                       	<i>फटाकड</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="फिका">                         	<i>फिक</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="फिका">                         	<i>फिक</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="फिक्का">                       	<i>फिक्क</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="फिक्का">                       	<i>फिक्क</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="फिरता">                        	<i>फिरत</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="फिरता">                        	<i>फिरत</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="फोफशा">                        	<i>फोफश</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="फोफशा">                        	<i>फोफश</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="फुकाचा">                       	<i>फुकाच</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="फुकाचा">                       	<i>फुकाच</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="फुकटा">                        	<i>फुकट</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="फुकटा">                        	<i>फुकट</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="फुटका">                        	<i>फुटक</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="फुटका">                        	<i>फुटक</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="शहाणा">                        	<i>शहाण</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="शहाणा">                        	<i>शहाण</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="शेणमेणाचा">                    	<i>शेणमेणाच</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="शेणमेणाचा">                    	<i>शेणमेणाच</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="शेलाटा">                       	<i>शेलाट</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="शेलाटा">                       	<i>शेलाट</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="शेवटला">                       	<i>शेवटल</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="शेवटला">                       	<i>शेवटल</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="ठिपक्याचा">                    	<i>ठिपक्याच</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="ठिपक्याचा">                    	<i>ठिपक्याच</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="ठोंबा">                        	<i>ठोंब</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="ठोंबा">                        	<i>ठोंब</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="थापाडा">                       	<i>थापाड</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="थापाडा">                       	<i>थापाड</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="थिजलेला">                      	<i>थिजलेल</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="थिजलेला">                      	<i>थिजलेल</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="थिटा">                         	<i>थिट</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="थिटा">                         	<i>थिट</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="थोडा">                         	<i>थोड</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="थोडा">                         	<i>थोड</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="थोडका">                        	<i>थोडक</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="थोडका">                        	<i>थोडक</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="थोरला">                        	<i>थोरल</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="थोरला">                        	<i>थोरल</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="धाकटा">                        	<i>धाकट</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="धाकटा">                        	<i>धाकट</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="धाटामोटा">                     	<i>धाटामोट</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="धाटामोटा">                     	<i>धाटामोट</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="धरसोडीचा">                     	<i>धरसोडीच</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="धरसोडीचा">                     	<i>धरसोडीच</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="धसमुसळा">                      	<i>धसमुसळ</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="धसमुसळा">                      	<i>धसमुसळ</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="अभागा">                        	<i>अभाग</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="अभागा">                        	<i>अभाग</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="अकरावा">                       	<i>अकराव</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="अकरावा">                       	<i>अकराव</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="अलीकडीला">                     	<i>अलीकडील</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="अलीकडीला">                     	<i>अलीकडील</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="अमका">                         	<i>अमक</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="अमका">                         	<i>अमक</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="अर्धा">                        	<i>अर्ध</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="अर्धा">                        	<i>अर्ध</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="अवघा">                         	<i>अवघ</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="अवघा">                         	<i>अवघ</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="बाळा">                         	<i>बाळ</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="बाळा">                         	<i>बाळ</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="बाहेरचा">                      	<i>बाहेरच</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="बाहेरचा">                      	<i>बाहेरच</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="बाहेरला">                      	<i>बाहेरल</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="बाहेरला">                      	<i>बाहेरल</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="बाका">                         	<i>बाक</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="बाका">                         	<i>बाक</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="बापुडवाणा">                    	<i>बापुडवाण</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="बापुडवाणा">                    	<i>बापुडवाण</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="बारका">                        	<i>बारक</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="बारका">                        	<i>बारक</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="बाताडा">                       	<i>बाताड</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="बाताडा">                       	<i>बाताड</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="बशा">                          	<i>बश</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="बशा">                          	<i>बश</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="बडबडा">                        	<i>बडबड</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="बडबडा">                        	<i>बडबड</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="बरा">                          	<i>बर</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="बरा">                          	<i>बर</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="बरवा">                         	<i>बरव</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="बरवा">                         	<i>बरव</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="बरोबरीचा">                     	<i>बरोबरीच</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="बरोबरीचा">                     	<i>बरोबरीच</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="बरोबरचा">                      	<i>बरोबरच</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="बरोबरचा">                      	<i>बरोबरच</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="बदलता">                        	<i>बदलत</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="बदलता">                        	<i>बदलत</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="बद्दलचा">                      	<i>बद्दलच</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="बद्दलचा">                      	<i>बद्दलच</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="बेरका">                        	<i>बेरक</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="बेरका">                        	<i>बेरक</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="बेताचा">                       	<i>बेताच</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="बेताचा">                       	<i>बेताच</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="बेदा">                         	<i>बेद</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="बेदा">                         	<i>बेद</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="बिबळ्या">                      	<i>बिबळ्य</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="बिबळ्या">                      	<i>बिबळ्य</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="बिनपावसाचा">                   	<i>बिनपावसाच</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="बिनपावसाचा">                   	<i>बिनपावसाच</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="बोलका">                        	<i>बोलक</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="बोलका">                        	<i>बोलक</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="बोलविता">                      	<i>बोलवित</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="बोलविता">                      	<i>बोलवित</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="बोटचपा">                       	<i>बोटचप</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="बोटचपा">                       	<i>बोटचप</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="बुळा">                         	<i>बुळ</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="बुळा">                         	<i>बुळ</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="बुच्चा">                       	<i>बुच्च</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="बुच्चा">                       	<i>बुच्च</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="बुडना">                        	<i>बुडन</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="बुडना">                        	<i>बुडन</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="बुटका">                        	<i>बुटक</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="बुटका">                        	<i>बुटक</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="चांगला">                       	<i>चांगल</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="चांगला">                       	<i>चांगल</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="चौथा">                         	<i>चौथ</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="चौथा">                         	<i>चौथ</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="चळवळा">                        	<i>चळवळ</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="चळवळा">                        	<i>चळवळ</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="चपटा">                         	<i>चपट</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="चपटा">                         	<i>चपट</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="चटावलेला">                     	<i>चटावलेल</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="चटावलेला">                     	<i>चटावलेल</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="चेटका">                        	<i>चेटक</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="चेटका">                        	<i>चेटक</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="चिंधडा">                       	<i>चिंधड</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="चिंधडा">                       	<i>चिंधड</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="चिकाटीचा">                     	<i>चिकाटीच</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="चिकाटीचा">                     	<i>चिकाटीच</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="चिमुकला">                      	<i>चिमुकल</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="चिमुकला">                      	<i>चिमुकल</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="चोंबडा">                       	<i>चोंबड</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="चोंबडा">                       	<i>चोंबड</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="चुळबुळा">                      	<i>चुळबुळ</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="चुळबुळा">                      	<i>चुळबुळ</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="डागळलेला">                     	<i>डागळलेल</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="डागळलेला">                     	<i>डागळलेल</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="डावा">                         	<i>डाव</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="डावा">                         	<i>डाव</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="एखादा">                        	<i>एखाद</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="एखादा">                        	<i>एखाद</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="एकादा">                        	<i>एकाद</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="एकादा">                        	<i>एकाद</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="एकमजला">                       	<i>एकमजल</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="एकमजला">                       	<i>एकमजल</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="एकसारखा">                      	<i>एकसारख</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="एकसारखा">                      	<i>एकसारख</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="एकटा">                         	<i>एकट</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="एकटा">                         	<i>एकट</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="एकदांचा">                      	<i>एकदांच</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="एकदांचा">                      	<i>एकदांच</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="एकदाचा">                       	<i>एकदाच</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="एकदाचा">                       	<i>एकदाच</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="एकुलता">                       	<i>एकुलत</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="एकुलता">                       	<i>एकुलत</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="एवढा">                         	<i>एवढ</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="एवढा">                         	<i>एवढ</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="एव्हढा">                       	<i>एव्हढ</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="एव्हढा">                       	<i>एव्हढ</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="गजबजलेला">                     	<i>गजबजलेल</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="गजबजलेला">                     	<i>गजबजलेल</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="गोळा">                         	<i>गोळ</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="गोळा">                         	<i>गोळ</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="गोंधळलेला">                    	<i>गोंधळलेल</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="गोंधळलेला">                    	<i>गोंधळलेल</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="गोडबोला">                      	<i>गोडबोल</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="गोडबोला">                      	<i>गोडबोल</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="हाडाचा">                       	<i>हाडाच</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="हाडाचा">                       	<i>हाडाच</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="हाडकुळा">                      	<i>हाडकुळ</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="हाडकुळा">                      	<i>हाडकुळ</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="हाताखालचा">                    	<i>हाताखालच</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="हाताखालचा">                    	<i>हाताखालच</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="हळवा">                         	<i>हळव</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="हळवा">                         	<i>हळव</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="हलाखीचा">                      	<i>हलाखीच</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="हलाखीचा">                      	<i>हलाखीच</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="हलका">                         	<i>हलक</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="हलका">                         	<i>हलक</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="हल्लीचा">                      	<i>हल्लीच</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="हल्लीचा">                      	<i>हल्लीच</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="हरामाचा">                      	<i>हरामाच</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="हरामाचा">                      	<i>हरामाच</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="हसविणारा">                     	<i>हसविणार</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="हसविणारा">                     	<i>हसविणार</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="हिंपुटा">                      	<i>हिंपुट</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="हिंपुटा">                      	<i>हिंपुट</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="हिमटा">                        	<i>हिमट</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="हिमटा">                        	<i>हिमट</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="हिरवा">                        	<i>हिरव</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="हिरवा">                        	<i>हिरव</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="इतका">                         	<i>इतक</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="इतका">                         	<i>इतक</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="जागा">                         	<i>जाग</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="जागा">                         	<i>जाग</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="जागचा">                        	<i>जागच</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="जागचा">                        	<i>जागच</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="ज्ञाता">                       	<i>ज्ञात</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="ज्ञाता">                       	<i>ज्ञात</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="जवळचा">                        	<i>जवळच</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="जवळचा">                        	<i>जवळच</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="जेवढा">                        	<i>जेवढ</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="जेवढा">                        	<i>जेवढ</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="जिथला">                        	<i>जिथल</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="जिथला">                        	<i>जिथल</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="जितका">                        	<i>जितक</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="जितका">                        	<i>जितक</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="जोगची">                        	<i>जोगच</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="जोगची">                        	<i>जोगच</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="जुना">                         	<i>जुन</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="जुना">                         	<i>जुन</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="काळा">                         	<i>काळ</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="काळा">                         	<i>काळ</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="काळतोंडा">                     	<i>काळतोंड</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="काळतोंडा">                     	<i>काळतोंड</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="कानफाटा">                      	<i>कानफाट</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="कानफाटा">                      	<i>कानफाट</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="कायमचा">                       	<i>कायमच</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="कायमचा">                       	<i>कायमच</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="कळसूत्रीबाहुला">               	<i>कळसूत्रीबाहुल</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="कळसूत्रीबाहुला">               	<i>कळसूत्रीबाहुल</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="कंठा">                         	<i>कंठ</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="कंठा">                         	<i>कंठ</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="कशाचा">                        	<i>कशाच</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="कशाचा">                        	<i>कशाच</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="कच्चा">                        	<i>कच्च</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="कच्चा">                        	<i>कच्च</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="कडेचा">                        	<i>कडेच</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="कडेचा">                        	<i>कडेच</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="करिताचा">                      	<i>करिताच</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="करिताचा">                      	<i>करिताच</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="कसला">                         	<i>कसल</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="कसला">                         	<i>कसल</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="केवढा">                        	<i>केवढ</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="केवढा">                        	<i>केवढ</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="किसलेला">                      	<i>किसलेल</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="किसलेला">                      	<i>किसलेल</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="कितवा">                        	<i>कितव</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="कितवा">                        	<i>कितव</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="कोणचा">                        	<i>कोणच</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="कोणचा">                        	<i>कोणच</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="कोणता">                        	<i>कोणत</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="कोणता">                        	<i>कोणत</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="कोठला">                        	<i>कोठल</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="कोठला">                        	<i>कोठल</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="कोरडा">                        	<i>कोरड</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="कोरडा">                        	<i>कोरड</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="कुढा">                         	<i>कुढ</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="कुढा">                         	<i>कुढ</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="कुणाबद्दलचा">                  	<i>कुणाबद्दलच</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="कुणाबद्दलचा">                  	<i>कुणाबद्दलच</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="कुणाचा">                       	<i>कुणाच</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="कुणाचा">                       	<i>कुणाच</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="कुठला">                        	<i>कुठल</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="कुठला">                        	<i>कुठल</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="कुचकामाचा">                    	<i>कुचकामाच</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="कुचकामाचा">                    	<i>कुचकामाच</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="लांबडा">                       	<i>लांबड</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="लांबडा">                       	<i>लांबड</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="लाजरा">                        	<i>लाजर</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="लाजरा">                        	<i>लाजर</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="लंबाडा">                       	<i>लंबाड</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="लंबाडा">                       	<i>लंबाड</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="लहानखुरा">                     	<i>लहानखुर</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="लहानखुरा">                     	<i>लहानखुर</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="लहानमोठा">                     	<i>लहानमोठ</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="लहानमोठा">                     	<i>लहानमोठ</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="लेचापेचा">                     	<i>लेचापेच</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="लेचापेचा">                     	<i>लेचापेच</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="लेकाचा">                       	<i>लेकाच</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="लेकाचा">                       	<i>लेकाच</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="लेकुरवाळा">                    	<i>लेकुरवाळ</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="लेकुरवाळा">                    	<i>लेकुरवाळ</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="लुंगासुंगा">                   	<i>लुंगासुंग</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="लुंगासुंगा">                   	<i>लुंगासुंग</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="लुडबुडा">                      	<i>लुडबुड</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="लुडबुडा">                      	<i>लुडबुड</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="लुटूपुटीचा">                   	<i>लुटूपुटीच</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="लुटूपुटीचा">                   	<i>लुटूपुटीच</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="लुटपुटीचा">                    	<i>लुटपुटीच</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="लुटपुटीचा">                    	<i>लुटपुटीच</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="माझा">                         	<i>माझ</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="माझा">                         	<i>माझ</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="मागासलेला">                    	<i>मागासलेल</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="मागासलेला">                    	<i>मागासलेल</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="मागचा">                        	<i>मागच</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="मागचा">                        	<i>मागच</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="मागला">                        	<i>मागल</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="मागला">                        	<i>मागल</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="माजीचा">                       	<i>माजीच</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="माजीचा">                       	<i>माजीच</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="मूळचा">                        	<i>मूळच</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="मूळचा">                        	<i>मूळच</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="मधचा">                         	<i>मधच</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="मधचा">                         	<i>मधच</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="मधला">                         	<i>मधल</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="मधला">                         	<i>मधल</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="मध्यमवयाचा">                   	<i>मध्यमवयाच</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="मध्यमवयाचा">                   	<i>मध्यमवयाच</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="मनकवडा">                       	<i>मनकवड</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="मनकवडा">                       	<i>मनकवड</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="मराठमोळा">                     	<i>मराठमोळ</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="मराठमोळा">                     	<i>मराठमोळ</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="मेला">                         	<i>मेल</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="मेला">                         	<i>मेल</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="मिळवता">                       	<i>मिळवत</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="मिळवता">                       	<i>मिळवत</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="मोठा">                         	<i>मोठ</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="मोठा">                         	<i>मोठ</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="मोठमोठा">                      	<i>मोठमोठ</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="मोठमोठा">                      	<i>मोठमोठ</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="मोकळा">                        	<i>मोकळ</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="मोकळा">                        	<i>मोकळ</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="मोक्याचा">                     	<i>मोक्याच</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="मोक्याचा">                     	<i>मोक्याच</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="मुळेचा">                       	<i>मुळेच</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="मुळेचा">                       	<i>मुळेच</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="मुठीचा">                       	<i>मुठीच</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="मुठीचा">                       	<i>मुठीच</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="मुलखावेगळा">                   	<i>मुलखावेगळ</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="मुलखावेगळा">                   	<i>मुलखावेगळ</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="नाणावलेला">                    	<i>नाणावलेल</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="नाणावलेला">                    	<i>नाणावलेल</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="नाचा">                         	<i>नाच</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="नाचा">                         	<i>नाच</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="नाचारा">                       	<i>नाचार</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="नाचारा">                       	<i>नाचार</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="नाडलेला">                      	<i>नाडलेल</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="नाडलेला">                      	<i>नाडलेल</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="नागडा">                        	<i>नागड</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="नागडा">                        	<i>नागड</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="नाकाडा">                       	<i>नाकाड</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="नाकाडा">                       	<i>नाकाड</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="नंतरचा">                       	<i>नंतरच</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="नंतरचा">                       	<i>नंतरच</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="नजीकचा">                       	<i>नजीकच</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="नजीकचा">                       	<i>नजीकच</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="नजीकला">                       	<i>नजीकल</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="नजीकला">                       	<i>नजीकल</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="नक्शा">                        	<i>नक्श</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="नक्शा">                        	<i>नक्श</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="नसता">                         	<i>नसत</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="नसता">                         	<i>नसत</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="नवा">                          	<i>नव</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="नवा">                          	<i>नव</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="नवा">                          	<i>नव</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="नवा">                          	<i>नव</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="नेमलेला">                      	<i>नेमलेल</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="नेमलेला">                      	<i>नेमलेल</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="निकडीचा">                      	<i>निकडीच</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="निकडीचा">                      	<i>निकडीच</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="निकराचा">                      	<i>निकराच</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="निकराचा">                      	<i>निकराच</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="निकटचा">                       	<i>निकटच</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="निकटचा">                       	<i>निकटच</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="निकटला">                       	<i>निकटल</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="निकटला">                       	<i>निकटल</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="निमित्तचा">                    	<i>निमित्तच</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="निमित्तचा">                    	<i>निमित्तच</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="निम्मा">                       	<i>निम्म</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="निम्मा">                       	<i>निम्म</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="निराळा">                       	<i>निराळ</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="निराळा">                       	<i>निराळ</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="निराळ्याचा">                   	<i>निराळ्याच</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="निराळ्याचा">                   	<i>निराळ्याच</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="निरनिराळा">                    	<i>निरनिराळ</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="निरनिराळा">                    	<i>निरनिराळ</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="निर्वाणीचा">                   	<i>निर्वाणीच</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="निर्वाणीचा">                   	<i>निर्वाणीच</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="निसरडा">                       	<i>निसरड</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="निसरडा">                       	<i>निसरड</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="निदानीचा">                     	<i>निदानीच</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="निदानीचा">                     	<i>निदानीच</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="नुकता">                        	<i>नुकत</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="नुकता">                        	<i>नुकत</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="नुसता">                        	<i>नुसत</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="नुसता">                        	<i>नुसत</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="न्यारा">                       	<i>न्यार</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="न्यारा">                       	<i>न्यार</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="ओथंबलेला">                     	<i>ओथंबलेल</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="ओथंबलेला">                     	<i>ओथंबलेल</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="ओला">                          	<i>ओल</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="ओला">                          	<i>ओल</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="पांचवा">                       	<i>पांचव</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="पांचवा">                       	<i>पांचव</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="पाशीचा">                       	<i>पाशीच</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="पाशीचा">                       	<i>पाशीच</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="पाठीराखा">                     	<i>पाठीराख</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="पाठीराखा">                     	<i>पाठीराख</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="पाठकोरा">                      	<i>पाठकोर</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="पाठकोरा">                      	<i>पाठकोर</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="पाठमोरा">                      	<i>पाठमोर</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="पाठमोरा">                      	<i>पाठमोर</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="पारखा">                        	<i>पारख</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="पारखा">                        	<i>पारख</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="पारोसा">                       	<i>पारोस</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="पारोसा">                       	<i>पारोस</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="पासचा">                        	<i>पासच</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="पासचा">                        	<i>पासच</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="पाद्रा">                       	<i>पाद्र</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="पाद्रा">                       	<i>पाद्र</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="पायीचा">                       	<i>पायीच</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="पायीचा">                       	<i>पायीच</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="पैकीचा">                       	<i>पैकीच</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="पैकीचा">                       	<i>पैकीच</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="पूर्वीचा">                     	<i>पूर्वीच</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="पूर्वीचा">                     	<i>पूर्वीच</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="पहिला">                        	<i>पहिल</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="पहिला">                        	<i>पहिल</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="पहिल्यांदाचा">                 	<i>पहिल्यांदाच</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="पहिल्यांदाचा">                 	<i>पहिल्यांदाच</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="पक्का">                        	<i>पक्क</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="पक्का">                        	<i>पक्क</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="पलीकडचा">                      	<i>पलीकडच</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="पलीकडचा">                      	<i>पलीकडच</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="पलीकडला">                      	<i>पलीकडल</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="पलीकडला">                      	<i>पलीकडल</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="परीसचा">                       	<i>परीसच</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="परीसचा">                       	<i>परीसच</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="परधारजिणा">                    	<i>परधारजिण</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="परधारजिणा">                    	<i>परधारजिण</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="परगंदा">                       	<i>परगंद</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="परगंदा">                       	<i>परगंद</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="परका">                         	<i>परक</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="परका">                         	<i>परक</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="पर्यंतचा">                     	<i>पर्यंतच</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="पर्यंतचा">                     	<i>पर्यंतच</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="पट्टीचा">                      	<i>पट्टीच</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="पट्टीचा">                      	<i>पट्टीच</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="पट्ट्यापट्ट्याचा">             	<i>पट्ट्यापट्ट्याच</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="पट्ट्यापट्ट्याचा">             	<i>पट्ट्यापट्ट्याच</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="पदरचा">                        	<i>पदरच</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="पदरचा">                        	<i>पदरच</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="पेक्षाचा">                     	<i>पेक्षाच</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="पेक्षाचा">                     	<i>पेक्षाच</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="पिसाळलेला">                    	<i>पिसाळलेल</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="पिसाळलेला">                    	<i>पिसाळलेल</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="पोरका">                        	<i>पोरक</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="पोरका">                        	<i>पोरक</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="पोरसवदा">                      	<i>पोरसवद</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="पोरसवदा">                      	<i>पोरसवद</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="प्रीत्यर्थचा">                 	<i>प्रीत्यर्थच</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="प्रीत्यर्थचा">                 	<i>प्रीत्यर्थच</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="प्रमाणेचा">                    	<i>प्रमाणेच</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="प्रमाणेचा">                    	<i>प्रमाणेच</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="प्रतीचा">                      	<i>प्रतीच</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="प्रतीचा">                      	<i>प्रतीच</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="पुढारलेला">                    	<i>पुढारलेल</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="पुढारलेला">                    	<i>पुढारलेल</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="पुढचा">                        	<i>पुढच</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="पुढचा">                        	<i>पुढच</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="पुढचा">                        	<i>पुढच</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="पुढचा">                        	<i>पुढच</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="पुढला">                        	<i>पुढल</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="पुढला">                        	<i>पुढल</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="पुरताचा">                      	<i>पुरताच</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="पुरताचा">                      	<i>पुरताच</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="पुसटना">                       	<i>पुसटन</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="पुसटना">                       	<i>पुसटन</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="रांगडा">                       	<i>रांगड</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="रांगडा">                       	<i>रांगड</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="राजबिंडा">                     	<i>राजबिंड</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="राजबिंडा">                     	<i>राजबिंड</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="रडा">                          	<i>रड</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="रडा">                          	<i>रड</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="रड्या">                        	<i>रड्य</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="रड्या">                        	<i>रड्य</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="रड्या">                        	<i>रड्य</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="रड्या">                        	<i>रड्य</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="रोंगा">                        	<i>रोंग</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="रोंगा">                        	<i>रोंग</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="सांगातीचा">                    	<i>सांगातीच</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="सांगातीचा">                    	<i>सांगातीच</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="सांगकामा">                     	<i>सांगकाम</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="सांगकामा">                     	<i>सांगकाम</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="सांगकाम्या">                   	<i>सांगकाम्य</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="सांगकाम्या">                   	<i>सांगकाम्य</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="सांकडा">                       	<i>सांकड</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="सांकडा">                       	<i>सांकड</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="साठीचा">                       	<i>साठीच</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="साठीचा">                       	<i>साठीच</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="सारखा">                        	<i>सारख</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="सारखा">                        	<i>सारख</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="सारखीचा">                      	<i>सारखीच</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="सारखीचा">                      	<i>सारखीच</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="सभोवारचा">                     	<i>सभोवारच</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="सभोवारचा">                     	<i>सभोवारच</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="सभोवारला">                     	<i>सभोवारल</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="सभोवारला">                     	<i>सभोवारल</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="सभोवताचा">                     	<i>सभोवताच</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="सभोवताचा">                     	<i>सभोवताच</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="सभोवतालचा">                    	<i>सभोवतालच</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="सभोवतालचा">                    	<i>सभोवतालच</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="सभोवतीचा">                     	<i>सभोवतीच</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="सभोवतीचा">                     	<i>सभोवतीच</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="संबंधीचा">                     	<i>संबंधीच</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="संबंधीचा">                     	<i>संबंधीच</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="संगची">                        	<i>संगच</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="संगची">                        	<i>संगच</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="संगतीचा">                      	<i>संगतीच</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="संगतीचा">                      	<i>संगतीच</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="संगतचा">                       	<i>संगतच</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="संगतचा">                       	<i>संगतच</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="संनिधचा">                      	<i>संनिधच</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="संनिधचा">                      	<i>संनिधच</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="सडका">                         	<i>सडक</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="सडका">                         	<i>सडक</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="सगळा">                         	<i>सगळ</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="सगळा">                         	<i>सगळ</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="सगळा">                         	<i>सगळ</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="सगळा">                         	<i>सगळ</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="सहितचा">                       	<i>सहितच</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="सहितचा">                       	<i>सहितच</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="सकटचा">                        	<i>सकटच</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="सकटचा">                        	<i>सकटच</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="समीपचा">                       	<i>समीपच</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="समीपचा">                       	<i>समीपच</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="समीपला">                       	<i>समीपल</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="समीपला">                       	<i>समीपल</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="समक्षचा">                      	<i>समक्षच</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="समक्षचा">                      	<i>समक्षच</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="समवेतचा">                      	<i>समवेतच</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="समवेतचा">                      	<i>समवेतच</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="समोरचा">                       	<i>समोरच</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="समोरचा">                       	<i>समोरच</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="समोरला">                       	<i>समोरल</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="समोरला">                       	<i>समोरल</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="सरकता">                        	<i>सरकत</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="सरकता">                        	<i>सरकत</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="सरता">                         	<i>सरत</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="सरता">                         	<i>सरत</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="सत्तेचा">                      	<i>सत्तेच</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="सत्तेचा">                      	<i>सत्तेच</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="सोंगाडा">                      	<i>सोंगाड</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="सोंगाडा">                      	<i>सोंगाड</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="सोबतचा">                       	<i>सोबतच</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="सोबतचा">                       	<i>सोबतच</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="सुफराटा">                      	<i>सुफराट</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="सुफराटा">                      	<i>सुफराट</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="सुना">                         	<i>सुन</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="सुना">                         	<i>सुन</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="स्तवचा">                       	<i>स्तवच</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="स्तवचा">                       	<i>स्तवच</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="टगा">                          	<i>टग</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="टगा">                          	<i>टग</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="टकला">                         	<i>टकल</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="टकला">                         	<i>टकल</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="उभा">                          	<i>उभ</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="उभा">                          	<i>उभ</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="उंचाडा">                       	<i>उंचाड</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="उंचाडा">                       	<i>उंचाड</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="उफराटा">                       	<i>उफराट</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="उफराटा">                       	<i>उफराट</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="उगा">                          	<i>उग</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="उगा">                          	<i>उग</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="उलटा">                         	<i>उलट</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="उलटा">                         	<i>उलट</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="उलटचा">                        	<i>उलटच</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="उलटचा">                        	<i>उलटच</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="उलटलेला">                      	<i>उलटलेल</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="उलटलेला">                      	<i>उलटलेल</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="वाढता">                        	<i>वाढत</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="वाढता">                        	<i>वाढत</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="वाटचा">                        	<i>वाटच</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="वाटचा">                        	<i>वाटच</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="वावडा">                        	<i>वावड</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="वावडा">                        	<i>वावड</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="वर्णिलेला">                    	<i>वर्णिलेल</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="वर्णिलेला">                    	<i>वर्णिलेल</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="वरचा">                         	<i>वरच</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="वरचा">                         	<i>वरच</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="वेडावाकडा">                    	<i>वेडावाकड</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="वेडावाकडा">                    	<i>वेडावाकड</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="वेडपिसा">                      	<i>वेडपिस</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="वेडपिसा">                      	<i>वेडपिस</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="वेगळा">                        	<i>वेगळ</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="वेगळा">                        	<i>वेगळ</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="विणचा">                        	<i>विणच</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="विणचा">                        	<i>विणच</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="विषयीचा">                      	<i>विषयीच</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="विषयीचा">                      	<i>विषयीच</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="विरहितचा">                     	<i>विरहितच</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="विरहितचा">                     	<i>विरहितच</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="विरोधीचा">                     	<i>विरोधीच</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="विरोधीचा">                     	<i>विरोधीच</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="विरुद्धचा">                    	<i>विरुद्धच</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="विरुद्धचा">                    	<i>विरुद्धच</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="विटका">                        	<i>विटक</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="विटका">                        	<i>विटक</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="विवेचिलेला">                   	<i>विवेचिलेल</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="विवेचिलेला">                   	<i>विवेचिलेल</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="व्यतिरिक्तचा">                 	<i>व्यतिरिक्तच</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="व्यतिरिक्तचा">                 	<i>व्यतिरिक्तच</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="तांबडा">                       	<i>तांबड</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="तांबडा">                       	<i>तांबड</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="तागआईतचा">                     	<i>तागआईतच</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="तागआईतचा">                     	<i>तागआईतच</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="ताजा">                         	<i>ताज</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="ताजा">                         	<i>ताज</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="तातडीचा">                      	<i>तातडीच</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="तातडीचा">                      	<i>तातडीच</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="तहानलेला">                     	<i>तहानलेल</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="तहानलेला">                     	<i>तहानलेल</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="तरणा">                         	<i>तरण</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="तरणा">                         	<i>तरण</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="तरणाताठा">                     	<i>तरणाताठ</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="तरणाताठा">                     	<i>तरणाताठ</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="तसला">                         	<i>तसल</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="तसला">                         	<i>तसल</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="तट्टा">                        	<i>तट्ट</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="तट्टा">                        	<i>तट्ट</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="तेढा">                         	<i>तेढ</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="तेढा">                         	<i>तेढ</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="तेवढा">                        	<i>तेवढ</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="तेवढा">                        	<i>तेवढ</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="तिथला">                        	<i>तिथल</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="तिथला">                        	<i>तिथल</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="तिकडचा">                       	<i>तिकडच</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="तिकडचा">                       	<i>तिकडच</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="तितका">                        	<i>तितक</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="तितका">                        	<i>तितक</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="तोळामासा">                     	<i>तोळामास</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="तोळामासा">                     	<i>तोळामास</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="तोंडचाट्या">                   	<i>तोंडचाट्य</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="तोंडचाट्या">                   	<i>तोंडचाट्य</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="तोंडपुजा">                     	<i>तोंडपुज</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="तोंडपुजा">                     	<i>तोंडपुज</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="तोंडपुज्या">                   	<i>तोंडपुज्य</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="तोंडपुज्या">                   	<i>तोंडपुज्य</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="तोकडा">                        	<i>तोकड</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="तोकडा">                        	<i>तोकड</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="तोलाचा">                       	<i>तोलाच</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="तोलाचा">                       	<i>तोलाच</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="तोटका">                        	<i>तोटक</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="तोटका">                        	<i>तोटक</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="तुझा">                         	<i>तुझ</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="तुझा">                         	<i>तुझ</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="त्याचा">                       	<i>त्याच</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="त्याचा">                       	<i>त्याच</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="त्याचा">                       	<i>त्याच</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="त्याचा">                       	<i>त्याच</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="दीडमडीचा">                     	<i>दीडमडीच</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="दीडमडीचा">                     	<i>दीडमडीच</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="दीडदमडीचा">                    	<i>दीडदमडीच</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="दीडदमडीचा">                    	<i>दीडदमडीच</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="दीनवाणा">                      	<i>दीनवाण</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="दीनवाणा">                      	<i>दीनवाण</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="दूधखुळा">                      	<i>दूधखुळ</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="दूधखुळा">                      	<i>दूधखुळ</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="दर्जाचा">                      	<i>दर्जाच</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="दर्जाचा">                      	<i>दर्जाच</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="देखतचा">                       	<i>देखतच</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="देखतचा">                       	<i>देखतच</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="देवभोळा">                      	<i>देवभोळ</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="देवभोळा">                      	<i>देवभोळ</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="देवताळा">                      	<i>देवताळ</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="देवताळा">                      	<i>देवताळ</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="दोडा">                         	<i>दोड</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="दोडा">                         	<i>दोड</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="दुणा">                         	<i>दुण</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="दुणा">                         	<i>दुण</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="दुहोना">                       	<i>दुहोन</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="दुहोना">                       	<i>दुहोन</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="दुट्टा">                       	<i>दुट्ट</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="दुट्टा">                       	<i>दुट्ट</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="दुतोंडा">                      	<i>दुतोंड</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="दुतोंडा">                      	<i>दुतोंड</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="द्वारचा">                      	<i>द्वारच</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="द्वारचा">                      	<i>द्वारच</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="यंदाचा">                       	<i>यंदाच</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="यंदाचा">                       	<i>यंदाच</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="योगेचा">                       	<i>योगेच</i><par n="काळ/ा__adj" /></e>field1: 		<e lm="योगेचा">                       	<i>योगेच</i><par n="काळ/ा__adj" /></e>
+field2: 
+		<e lm="नाहीसा">                       	<i>नाही</i><par n="क/सा__adj" /></e>field1: 		<e lm="नाहीसा">                       	<i>नाही</i><par n="क/सा__adj" /></e>
+field2: 
+		<e lm="आडोसा">                        	<i>आडो</i><par n="क/सा__adj" /></e>field1: 		<e lm="आडोसा">                        	<i>आडो</i><par n="क/सा__adj" /></e>
+field2: 
+		<e lm="आपलासा">                       	<i>आपला</i><par n="क/सा__adj" /></e>field1: 		<e lm="आपलासा">                       	<i>आपला</i><par n="क/सा__adj" /></e>
+field2: 
+		<e lm="आपलासा">                       	<i>आपला</i><par n="क/सा__adj" /></e>field1: 		<e lm="आपलासा">                       	<i>आपला</i><par n="क/सा__adj" /></e>
+field2: 
+		<e lm="छोटासा">                       	<i>छोटा</i><par n="क/सा__adj" /></e>field1: 		<e lm="छोटासा">                       	<i>छोटा</i><par n="क/सा__adj" /></e>
+field2: 
+		<e lm="खासा">                         	<i>खा</i><par n="क/सा__adj" /></e>field1: 		<e lm="खासा">                         	<i>खा</i><par n="क/सा__adj" /></e>
+field2: 
+		<e lm="फारसा">                        	<i>फार</i><par n="क/सा__adj" /></e>field1: 		<e lm="फारसा">                        	<i>फार</i><par n="क/सा__adj" /></e>
+field2: 
+		<e lm="फोपसा">                        	<i>फोप</i><par n="क/सा__adj" /></e>field1: 		<e lm="फोपसा">                        	<i>फोप</i><par n="क/सा__adj" /></e>
+field2: 
+		<e lm="असा">                          	<i>अ</i><par n="क/सा__adj" /></e>field1: 		<e lm="असा">                          	<i>अ</i><par n="क/सा__adj" /></e>
+field2: 
+		<e lm="बराचसा">                       	<i>बराच</i><par n="क/सा__adj" /></e>field1: 		<e lm="बराचसा">                       	<i>बराच</i><par n="क/सा__adj" /></e>
+field2: 
+		<e lm="इवलासा">                       	<i>इवला</i><par n="क/सा__adj" /></e>field1: 		<e lm="इवलासा">                       	<i>इवला</i><par n="क/सा__adj" /></e>
+field2: 
+		<e lm="जसा">                          	<i>ज</i><par n="क/सा__adj" /></e>field1: 		<e lm="जसा">                          	<i>ज</i><par n="क/सा__adj" /></e>
+field2: 
+		<e lm="जसजसा">                        	<i>जसज</i><par n="क/सा__adj" /></e>field1: 		<e lm="जसजसा">                        	<i>जसज</i><par n="क/सा__adj" /></e>
+field2: 
+		<e lm="काहीसा">                       	<i>काही</i><par n="क/सा__adj" /></e>field1: 		<e lm="काहीसा">                       	<i>काही</i><par n="क/सा__adj" /></e>
+field2: 
+		<e lm="कानोसा">                       	<i>कानो</i><par n="क/सा__adj" /></e>field1: 		<e lm="कानोसा">                       	<i>कानो</i><par n="क/सा__adj" /></e>
+field2: 
+		<e lm="कसा">                          	<i>क</i><par n="क/सा__adj" /></e>field1: 		<e lm="कसा">                          	<i>क</i><par n="क/सा__adj" /></e>
+field2: 
+		<e lm="लहानसा">                       	<i>लहान</i><par n="क/सा__adj" /></e>field1: 		<e lm="लहानसा">                       	<i>लहान</i><par n="क/सा__adj" /></e>
+field2: 
+		<e lm="नाहीसा">                       	<i>नाही</i><par n="क/सा__adj" /></e>field1: 		<e lm="नाहीसा">                       	<i>नाही</i><par n="क/सा__adj" /></e>
+field2: 
+		<e lm="पुरेसा">                       	<i>पुरे</i><par n="क/सा__adj" /></e>field1: 		<e lm="पुरेसा">                       	<i>पुरे</i><par n="क/सा__adj" /></e>
+field2: 
+		<e lm="तसा">                          	<i>त</i><par n="क/सा__adj" /></e>field1: 		<e lm="तसा">                          	<i>त</i><par n="क/सा__adj" /></e>
+field2: 
+		<e lm="तसतसा">                        	<i>तसत</i><par n="क/सा__adj" /></e>field1: 		<e lm="तसतसा">                        	<i>तसत</i><par n="क/सा__adj" /></e>
+field2: 
+		<e lm="भितरा">                        	<i>भित</i><par n="ख/रा__adj" /></e>field1: 		<e lm="भितरा">                        	<i>भित</i><par n="ख/रा__adj" /></e>
+field2: 
+		<e lm="घाबरा">                        	<i>घाब</i><par n="ख/रा__adj" /></e>field1: 		<e lm="घाबरा">                        	<i>घाब</i><par n="ख/रा__adj" /></e>
+field2: 
+		<e lm="खुपरा">                        	<i>खुप</i><par n="ख/रा__adj" /></e>field1: 		<e lm="खुपरा">                        	<i>खुप</i><par n="ख/रा__adj" /></e>
+field2: 
+		<e lm="फुलारा">                       	<i>फुला</i><par n="ख/रा__adj" /></e>field1: 		<e lm="फुलारा">                       	<i>फुला</i><par n="ख/रा__adj" /></e>
+field2: 
+		<e lm="अपुरा">                        	<i>अपु</i><par n="ख/रा__adj" /></e>field1: 		<e lm="अपुरा">                        	<i>अपु</i><par n="ख/रा__adj" /></e>
+field2: 
+		<e lm="बहिरा">                        	<i>बहि</i><par n="ख/रा__adj" /></e>field1: 		<e lm="बहिरा">                        	<i>बहि</i><par n="ख/रा__adj" /></e>
+field2: 
+		<e lm="बरा">                          	<i>ब</i><par n="ख/रा__adj" /></e>field1: 		<e lm="बरा">                          	<i>ब</i><par n="ख/रा__adj" /></e>
+field2: 
+		<e lm="बरा">                          	<i>ब</i><par n="ख/रा__adj" /></e>field1: 		<e lm="बरा">                          	<i>ब</i><par n="ख/रा__adj" /></e>
+field2: 
+		<e lm="बिचारा">                       	<i>बिचा</i><par n="ख/रा__adj" /></e>field1: 		<e lm="बिचारा">                       	<i>बिचा</i><par n="ख/रा__adj" /></e>
+field2: 
+		<e lm="चुरा">                         	<i>चु</i><par n="ख/रा__adj" /></e>field1: 		<e lm="चुरा">                         	<i>चु</i><par n="ख/रा__adj" /></e>
+field2: 
+		<e lm="हसरा">                         	<i>हस</i><par n="ख/रा__adj" /></e>field1: 		<e lm="हसरा">                         	<i>हस</i><par n="ख/रा__adj" /></e>
+field2: 
+		<e lm="म्हातारा">                     	<i>म्हाता</i><par n="ख/रा__adj" /></e>field1: 		<e lm="म्हातारा">                     	<i>म्हाता</i><par n="ख/रा__adj" /></e>
+field2: 
+		<e lm="पांढरा">                       	<i>पांढ</i><par n="ख/रा__adj" /></e>field1: 		<e lm="पांढरा">                       	<i>पांढ</i><par n="ख/रा__adj" /></e>
+field2: 
+		<e lm="पुरा">                         	<i>पु</i><par n="ख/रा__adj" /></e>field1: 		<e lm="पुरा">                         	<i>पु</i><par n="ख/रा__adj" /></e>
+field2: 
+		<e lm="साजरा">                        	<i>साज</i><par n="ख/रा__adj" /></e>field1: 		<e lm="साजरा">                        	<i>साज</i><par n="ख/रा__adj" /></e>
+field2: 
+		<e lm="सामोरा">                       	<i>सामो</i><par n="ख/रा__adj" /></e>field1: 		<e lm="सामोरा">                       	<i>सामो</i><par n="ख/रा__adj" /></e>
+field2: 
+		<e lm="तांबेरा">                      	<i>तांबे</i><par n="ख/रा__adj" /></e>field1: 		<e lm="तांबेरा">                      	<i>तांबे</i><par n="ख/रा__adj" /></e>
+field2: 
+		<e lm="तिसरा">                        	<i>तिस</i><par n="ख/रा__adj" /></e>field1: 		<e lm="तिसरा">                        	<i>तिस</i><par n="ख/रा__adj" /></e>
+field2: 
+		<e lm="तोतरा">                        	<i>तोत</i><par n="ख/रा__adj" /></e>field1: 		<e lm="तोतरा">                        	<i>तोत</i><par n="ख/रा__adj" /></e>
+field2: 
+		<e lm="दुखरा">                        	<i>दुख</i><par n="ख/रा__adj" /></e>field1: 		<e lm="दुखरा">                        	<i>दुख</i><par n="ख/रा__adj" /></e>
+field2: 
+		<e lm="दुसरा">                        	<i>दुस</i><par n="दुस/रा__adj" /></e>field1: 		<e lm="दुसरा">                        	<i>दुस</i><par n="दुस/रा__adj" /></e>
+field2: 
+		<e lm="थोडासा">                        <i>थोड</i><par n="थोड/ासा__adj" /></e>field1: 		<e lm="थोडासा">                        <i>थोड</i><par n="थोड/ासा__adj" /></e>
+field2: 
+		<e lm="छोटासा">                        <i>छोट</i><par n="थोड/ासा__adj" /></e>field1: 		<e lm="छोटासा">                        <i>छोट</i><par n="थोड/ासा__adj" /></e>
+field2: 
