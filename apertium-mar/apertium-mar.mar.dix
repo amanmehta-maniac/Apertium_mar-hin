@@ -300,14 +300,10 @@
 			<!-- before -->
 			<e><p><l>आधी</l><r>आधी<s n="post"/><s n="adv"/></r></p><par n="__emph"/></e>
 			<e><p><l>आधीच</l><r>आधी<s n="post"/><s n="adv"/><j/></r></p><par n="__generic_suff"/></e>
-
 			<e><p><l>अगोदर</l><r>अगोदर<s n="post"/><s n="adv"/></r></p><par n="__emph"/></e>
 			<e><p><l>अगोदरच</l><r>अगोदर<s n="post"/><s n="adv"/><j/></r></p><par n="__generic_suff"/></e>			
-
 			<e><p><l>पुरवी</l><r>पुरवी<s n="post"/><s n="adv"/></r></p><par n="__emph"/></e>
 			<e><p><l>पुरवीच</l><r>पुरवी<s n="post"/><s n="adv"/><j/></r></p><par n="__generic_suff"/></e>
-
-			<!-- after -->
 			<e><p><l>नंतर</l><r>नंतर<s n="post"/><s n="adv"/></r></p><par n="__emph"/></e>
 			<e><p><l>नंतरच</l><r>नंतर<s n="post"/><s n="adv"/></r></p><par n="__generic_suff"/></e>
 
@@ -3025,21 +3021,21 @@
 
 		<pardef n="/येथे__adv">
 			<e> 		<p><l>येथे</l><r>येथे<s n="adv"/></r></p><par n="__emph"/></e>
-			<e> 		<p><l>येथील</l><r>येथे<s n="adj"/><s n="mfn"/><s n="sp"/></r></p><par n="__emph"/></e>
-			<e> 		<p><l>येथून</l><r>येथे<s n="adj"/><s n="mfn"/><s n="sp"/></r></p><par n="__emph"/></e>
+			<e> 		<p><l>येथील</l><r>येथे<s n="adv"/><s n="mfn"/><s n="sp"/></r></p><par n="__emph"/></e>
+			<e> 		<p><l>येथून</l><r>येथे<s n="adv"/><s n="mfn"/><s n="sp"/></r></p><par n="__emph"/></e>
 			<e r="LR">	<p><l>इथे</l><r>येथे<s n="adv"/></r></p><par n="__emph"/></e>
 		</pardef>
 
 		<pardef n="/तेथे__adv">
 			<e> 		<p><l>तेथे</l><r>तेथे<s n="adv"/></r></p><par n="__emph"/></e>
-			<e> 		<p><l>तेथील</l><r>तेथे<s n="adj"/><s n="mfn"/><s n="sp"/></r></p><par n="__emph"/></e>
-			<e> 		<p><l>तेथून</l><r>तेथे<s n="adj"/><s n="mfn"/><s n="sp"/></r></p><par n="__emph"/></e>
+			<e> 		<p><l>तेथील</l><r>तेथे<s n="adv"/><s n="mfn"/><s n="sp"/></r></p><par n="__emph"/></e>
+			<e> 		<p><l>तेथून</l><r>तेथे<s n="adv"/><s n="mfn"/><s n="sp"/></r></p><par n="__emph"/></e>
 			<e r="LR">	<p><l>तिथे</l><r>तेथे<s n="adv"/></r></p><par n="__emph"/></e>
 		</pardef>
 
 		<pardef n="/जेथे__adv">
 			<e> 		<p><l>जेथे</l><r>जेथे<s n="adv"/></r></p><par n="__emph"/></e>
-			<e> 		<p><l>जेथील</l><r>जेथे<s n="adj"/><s n="mfn"/><s n="sp"/></r></p><par n="__emph"/></e>
+			<e> 		<p><l>जेथील</l><r>जेथे<s n="adv"/><s n="mfn"/><s n="sp"/></r></p><par n="__emph"/></e>
 			<e r="LR">	<p><l>जिथे</l><r>जेथे<s n="adv"/></r></p><par n="__emph"/></e>
 		</pardef>
 

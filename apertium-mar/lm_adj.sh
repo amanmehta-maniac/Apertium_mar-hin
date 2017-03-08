@@ -4,9 +4,10 @@ fl=0
 while IFS= read line
 do
 	# echo "$line"
-	if [[ $line == *"paradef"* ]] && [[ $line == *"adv"* ]]; then
+	if [[ $line == *"<e lm"* ]] && [[ $line == *"adj"* ]]; then
 		echo $line
 		# echo $line >> mar_adj
+
 		fl=1
 	fi
 	if [[ $line == *"</pardef"* ]] && [[ $fl == 1 ]]; then
