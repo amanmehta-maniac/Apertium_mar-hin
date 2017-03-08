@@ -1,0 +1,106 @@
+<pardef n="/लाल__adj">
+
+<e><p><l></l><r><s n="adj"/><s n="mfn"/><s n="sp"/></r></p><par n="__emph"/></e>
+
+<e><p><l></l><r><s n="adj"/><s n="mfn"/><s n="sp"/><s n="obl"/></r></p><par n="__emph"/></e>
+
+</pardef>
+<pardef n="काळ/ा__adj">
+
+<e><p><l>ा</l><r>ा<s n="adj"/><s n="m"/><s n="sg"/></r></p><par n="__emph"/></e>
+
+<e><p><l>ी</l><r>ा<s n="adj"/><s n="f"/><s n="sg"/></r></p><par n="__emph"/></e>
+
+<e><p><l>े</l><r>ा<s n="adj"/><s n="nt"/><s n="sg"/></r></p><par n="__emph"/></e>
+
+<e><p><l>े</l><r>ा<s n="adj"/><s n="m"/><s n="pl"/></r></p><par n="__emph"/></e>
+
+<e><p><l>्या</l><r>ा<s n="adj"/><s n="f"/><s n="pl"/></r></p><par n="__emph"/></e>
+
+<e><p><l>ी</l><r>ा<s n="adj"/><s n="nt"/><s n="pl"/></r></p><par n="__emph"/></e>
+
+<e><p><l>्या</l><r>ा<s n="adj"/><s n="mfn"/><s n="sp"/><s n="obl"/></r></p><par n="__emph"/></e>
+
+</pardef>
+<pardef n="क/सा__adj">
+
+<e> <p><l>सा</l><r>सा<s n="adj"/><s n="m"/><s n="sg"/></r></p><par n="__emph"/></e>
+
+<e> <p><l>शी</l><r>सा<s n="adj"/><s n="f"/><s n="sg"/></r></p><par n="__emph"/></e>
+
+<e> <p><l>शे</l><r>सा<s n="adj"/><s n="nt"/><s n="sg"/></r></p><par n="__emph"/></e>
+
+<e r="LR"> <p><l>से</l><r>सा<s n="adj"/><s n="nt"/><s n="sg"/></r></p><par n="__emph"/></e>
+
+<e> <p><l>शे</l><r>सा<s n="adj"/><s n="m"/><s n="pl"/></r></p><par n="__emph"/></e>
+
+<e r="LR"> <p><l>से</l><r>सा<s n="adj"/><s n="m"/><s n="pl"/></r></p><par n="__emph"/></e>
+
+<e> <p><l>श्या</l><r>सा<s n="adj"/><s n="f"/><s n="pl"/></r></p><par n="__emph"/></e>
+
+<e r="LR"> <p><l>शा</l><r>सा<s n="adj"/><s n="f"/><s n="pl"/></r></p><par n="__emph"/></e>
+
+<e> <p><l>शी</l><r>सा<s n="adj"/><s n="nt"/><s n="pl"/></r></p><par n="__emph"/></e>
+
+<e> <p><l>श्या</l><r>सा<s n="adj"/><s n="mfn"/><s n="sp"/><s n="obl"/></r></p><par n="__emph"/></e>
+
+<e r="LR"> <p><l>शा</l><r>सा<s n="adj"/><s n="mfn"/><s n="sp"/><s n="obl"/></r></p><par n="__emph"/></e>
+
+</pardef>
+<pardef n="ख/रा__adj">
+
+<e> <p><l>रा</l><r>रा<s n="adj"/><s n="m"/><s n="sg"/></r></p><par n="__emph"/></e>
+
+<e> <p><l>री</l><r>रा<s n="adj"/><s n="f"/><s n="sg"/></r></p><par n="__emph"/></e>
+
+<e> <p><l>रे</l><r>रा<s n="adj"/><s n="nt"/><s n="sg"/></r></p><par n="__emph"/></e>
+
+<e r="LR"> <p><l>रं</l><r>रा<s n="adj"/><s n="nt"/><s n="sg"/></r></p><par n="__emph"/></e>
+
+<e> <p><l>रे</l><r>रा<s n="adj"/><s n="m"/><s n="pl"/></r></p><par n="__emph"/></e>
+
+<e> <p><l>ऱ्या</l><r>रा<s n="adj"/><s n="f"/><s n="pl"/></r></p><par n="__emph"/></e>
+
+<e> <p><l>री</l><r>रा<s n="adj"/><s n="nt"/><s n="pl"/></r></p><par n="__emph"/></e>
+
+<e> <p><l>ऱ्या</l><r>रा<s n="adj"/><s n="mfn"/><s n="sp"/><s n="obl"/></r></p><par n="__emph"/></e>
+
+</pardef>
+<pardef n="दुस/रा__adj">
+
+<e> <p><l>रा</l><r>रा<s n="adj"/><s n="m"/><s n="sg"/></r></p><par n="__emph"/></e>
+
+<e> <p><l>री</l><r>रा<s n="adj"/><s n="f"/><s n="sg"/></r></p><par n="__emph"/></e>
+
+<e> <p><l>रे</l><r>रा<s n="adj"/><s n="nt"/><s n="sg"/></r></p><par n="__emph"/></e>
+
+<e r="LR"> <p><l>रं</l><r>रा<s n="adj"/><s n="nt"/><s n="sg"/></r></p><par n="__emph"/></e>
+
+<e r="LR"> <p><l>र्</l><r>रा<s n="adj"/><s n="nt"/><s n="sg"/></r></p><par n="__emph"/></e>
+
+<e> <p><l>रे</l><r>रा<s n="adj"/><s n="m"/><s n="pl"/></r></p><par n="__emph"/></e>
+
+<e> <p><l>ऱ्या</l><r>रा<s n="adj"/><s n="f"/><s n="pl"/></r></p><par n="__emph"/></e>
+
+<e> <p><l>री</l><r>रा<s n="adj"/><s n="nt"/><s n="pl"/></r></p><par n="__emph"/></e>
+
+<e> <p><l>ऱ्या</l><r>रा<s n="adj"/><s n="mfn"/><s n="sp"/><s n="obl"/></r></p><par n="__emph"/></e>
+
+</pardef>
+<pardef n="थोड/ासा__adj">
+
+<e><p><l>ासा</l><r>ासा<s n="adj"/><s n="m"/><s n="sg"/></r></p><par n="__emph"/></e>
+
+<e><p><l>ीशी</l><r>ासा<s n="adj"/><s n="f"/><s n="sg"/></r></p><par n="__emph"/></e>
+
+<e><p><l>ेसे</l><r>ासा<s n="adj"/><s n="nt"/><s n="sg"/></r></p><par n="__emph"/></e>
+
+<e><p><l>ेसे</l><r>ासा<s n="adj"/><s n="m"/><s n="pl"/></r></p><par n="__emph"/></e>
+
+<e><p><l>्याशा</l><r>ासा<s n="adj"/><s n="f"/><s n="pl"/></r></p><par n="__emph"/></e>
+
+<e><p><l>ीशी</l><r>ासा<s n="adj"/><s n="nt"/><s n="pl"/></r></p><par n="__emph"/></e>
+
+<e><p><l>्याशा</l><r>ासा<s n="adj"/><s n="mfn"/><s n="sp"/><s n="obl"/></r></p><par n="__emph"/></e>
+
+</pardef>
