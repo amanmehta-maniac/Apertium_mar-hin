@@ -4,7 +4,7 @@ fl=0
 while IFS= read line
 do
 	# echo "$line"
-	if [[ $line == *"<pardef"* ]] && [[ $line == *"adj"* ]]; then
+	if [[ $line == *"<e lm"* ]] && [[ $line == *"adj"* ]]; then
 		echo $line
 		# echo $line >> mar_adj
 
