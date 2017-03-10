@@ -14,8 +14,8 @@
 		<sdef n="inf"/>
 		<sdef n="imp"/>
 		<sdef n="sup"/>
-		<sdef n="adj"/>
-		<sdef n="adv"/>
+		<sdef n="adj"     c="Adjective"/>
+		<sdef n="adv"     c="Adverb"/>
 		<sdef n="fut"/>
 		<sdef n="pros"/>
 		<sdef n="desi"/>

@@ -27,12 +27,6 @@ uname -v = #84-Ubuntu SMP Wed Feb 1 17:20:32 UTC 2017
 /usr/bin/oslevel       = unknown
 /bin/universe          = unknown
 
-PATH: /home/aman/.cargo/bin
-PATH: /usr/java/jdk1.8.0_111/bin
-PATH: /home/aman/.rbenv/plugins/ruby-build/bin
-PATH: /home/aman/.rbenv/shims
-PATH: /home/aman/.rbenv/bin
-PATH: /home/aman/local/bin
 PATH: /home/aman/perl5/bin
 PATH: /home/aman/.cargo/bin
 PATH: /usr/java/jdk1.8.0_111/bin
@@ -147,7 +141,7 @@ ac_cv_env_AP_SUBDIRS_value=
 ac_cv_env_PKG_CONFIG_LIBDIR_set=
 ac_cv_env_PKG_CONFIG_LIBDIR_value=
 ac_cv_env_PKG_CONFIG_PATH_set=set
-ac_cv_env_PKG_CONFIG_PATH_value=/usr/local/lib/pkgconfig:/usr/local/lib/pkgconfig::/usr/local/share/pkgconfig:/usr/local/lib/pkgconfig
+ac_cv_env_PKG_CONFIG_PATH_value=/usr/local/lib/pkgconfig::/usr/local/share/pkgconfig:/usr/local/lib/pkgconfig
 ac_cv_env_PKG_CONFIG_set=
 ac_cv_env_PKG_CONFIG_value=
 ac_cv_env_build_alias_set=
@@ -221,7 +215,7 @@ PACKAGE_VERSION='0.1.0'
 PATH_SEPARATOR=':'
 PKG_CONFIG='/usr/bin/pkg-config'
 PKG_CONFIG_LIBDIR=''
-PKG_CONFIG_PATH='/usr/local/lib/pkgconfig:/usr/local/lib/pkgconfig::/usr/local/share/pkgconfig:/usr/local/lib/pkgconfig'
+PKG_CONFIG_PATH='/usr/local/lib/pkgconfig::/usr/local/share/pkgconfig:/usr/local/lib/pkgconfig'
 SET_MAKE=''
 SHELL='/bin/bash'
 STRIP=''

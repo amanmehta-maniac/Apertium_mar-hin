@@ -3,11 +3,9 @@
   <alphabet/>
 
   <sdefs>
-    <sdef n="adj"/>
-    <sdef n="adv"/>
     <sdef n="ant"/>
-    <sdef n="adv"/>
-    <sdef n="adj"/>
+    <sdef n="adv"     c="Adverb"/>
+    <sdef n="adj"     c="Adjective"/>
     <sdef n="avy"/>
     <sdef n="cnjcoo"/>
     <sdef n="CAT"/>
