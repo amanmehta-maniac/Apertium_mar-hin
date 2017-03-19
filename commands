@@ -21,5 +21,21 @@ lt-comp lr apertium-hbs.hbs.dix hbs-hin.automorf.bin
 9:52 PM and give them an <adj> tag
 9:52 PM and give the adverbs an <adv> tag
 9:53 PM and get rid of all <avy>
-9:53 PM 
-<
+
+
+
+No adverb is translated properly, shows *<same word> whenever an adverb is translated
+words such as नया are tagged as a noun, an adj as well as an adverb. Is it correct? How to prioritise them from one other?
+
+# after translation occurs when the tags of the two monodicts do not match.
+*<same word> occurs when their <l> and <r> do not match
+
+
+line around 334, why is there a repetition of same entry
+		<e> 		<p><l>े</l><r><s n="ger"/><s n="nom"/></r></p><par n="__emph"/></e>
+		<e> 		<p><l>े</l><r><s n="ger"/><s n="acc"/></r></p><par n="__emph"/></e>
+
+but the tags in <r> differ. What does that mean? DOes that mean that it can be either  n="acc" or n="nom"?
+
+amanmehta: make sure the words are in the bidix
+6:46 PM next, add transfer rules
