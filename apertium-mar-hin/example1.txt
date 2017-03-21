@@ -1,0 +1,2 @@
+^मी<prn><p1><mf><sg><nom>/मैं<prn><p1><mf><sg><nom>$
+^येणे<vblex><pres><impf><p1><m><sg>/आ<vblex><pres><impf><p1><m><sg>$
