@@ -4,8 +4,8 @@ echo "झोप आवड" | apertium mar-hin -d ./apertium-mar-hin/
 lt-comp lr apertium-mar.mar.dix mar.analyser.bin
 
 lt-comp lr apertium-hbs.hbs.dix hbs-hin.automorf.bin
-
-श
+./autogen.sh --with-lang1=../apertium-mar --with-lang2=../apertium-hin;make
+श ई अस
  **'n.*' is all nouns
 
  lt-comp lr apertium-mar.mar.dix mar-hin.automorf.bin
@@ -26,7 +26,8 @@ lt-comp lr apertium-hbs.hbs.dix hbs-hin.automorf.bin
 
 No adverb is translated properly, shows *<same word> whenever an adverb is translated
 words such as नया are tagged as a noun, an adj as well as an adverb. Is it correct? How to prioritise them from one other?
-
+nominative : relating to or denoting a case of nouns, pronouns, and adjectives in Latin, Greek, and other inflected languages, used for the subject of a verb.
+accusative : denoting a case of nouns, pronouns, and adjectives which expresses the object of an action or the goal of motion.
 but the tags in <r> differ. What does that mean? DOes that mean that it can be either  n="acc" or n="nom"?
 
 amanmehta: make sure the words are in the bidix
@@ -37,4 +38,514 @@ amanmehta: make sure the words are in the bidix
 
 
 ''गौराक्का, गौराक्का", राजूच्या हाकेकडे दुर्लक्ष करत, तिने हातातल्या दगडावरची पकड घट्ट केली आणि सर्वात उंच असलेल्या चिंचेवर नेम धरला. एक, दोन, तीन....म्हणत दगड भिरकावणार, इतक्यात आतापर्यंत अंगणात उभा राहून हाका मारणारा राजू जवळ आला होता. तिच्या हाताला धरून ओढंतच घराकडे नेऊ लागला. 'गौराक्का चल, काकूने बोलावलंय तुला लगेच.' 'थांब रे! ती चिंच पाडू दे, काय कटकट लावलीस, येते सांग आईला.' 'नाही काकूने लगेच बोलवलंय, चल.' राजूने धोशाच लावला. 'काकूचा चमचा कुठला, चल.' असे म्हणत नाईलाजाने तिने हातातला दगड खाली टाकला आणि राजूच्या खांद्यावर हात टाकून चालू लागली. घराजवळ येताच, काहीतरी आठवल्यासारखं करून राजू ओरडला, 'इकडून नाही, इकडून नाही, मागच्या दाराने यायला सांगितलय काकूने.' 'आता हे काय नविन?, मी एवढा वेढा घालून मागच्या दाराने जाणार नाय, तुला जायचं तर जा.' 'अगं पाहुणे आलेत तुला बघायला, म्हणून...' राजू ओरडला. पण त्याचं ऐकायला ती तिथे थांबलीच कुठे? झपझप चालत ती पोहोचली ओसरीवर. अन बघते तर काय! समोर पंचविशीतला एक मुलगा, त्याच्याबरोबर दोन पुरुष, चाळीस बेचाळीसची एक बाई, बाबा आणि सरूमावशी असे सगळे बसले होते. आई सगळ्यांना चहापाणी विचारत होती. गौरीला दारात बघताच बाबा बोलले, 'अरे बाळा, आलीस तू, ये ये. पाव्हणं! हि आमची गौरी बर का'. सगळ्यांना उद्देशून बाबा बोलले आणि सगळ्या नजरा गौरीकडे वळल्या. सगळ्यांच्या चेहर्यावर एक मिश्किल हास्य उमटले. सरुमावशीने मात्र डोक्यापासून पायापर्यंत तिला न्याहळलं आणि डोळ्यांनीच आईला 'तिला आत घेवून जा,' अशी खुण केली. आई हातातला पाण्याचा तांब्या लगबगीनं खाली ठेवंत आणि खोटं हसू कसंबसं जपत, गौरीला जवळजवळ ओढंतच आत घेवून गेली. 'मागच्या दारानं ये, सांगितलेलं ना गं! हा असला अवतार घेऊन पाहुण्यांच्या समोर आलीस?' आईकडे नं बघता तिने हळूच कपाटाच्या आरशात डोकावलं. खरंच ध्यान दिसत होती. धुळीने माखलेले कपडे, विस्कटलेले केस. "मी कशी का दिसेना त्याचं एवढं काय", असा विचार करत होती तोवर आई परत बडबडली, 'आवरून घे, हि साडी नेस. मी पोहे करते. हि कमल पण कुठं कडमडली कुणास ठाऊक, जाई गेली बोलवायला आणि तीपण तिकडलीच झाली. मी एकटी काय काय करू? थांब जरा मी सरीलाच आत बोलवते, ती तुला साडी नेसवून देईल.' असे म्हणत, उंबर्या वरूनच सरू मावशीला हात करून तिने बोलावले. साडी, पोहे वगैरे शब्द ऐकल्यावर गौरीला सगळा प्रकार लक्षात आला. "हम्म, म्हणजे जो दिवस यायलाच नको असं वाटत होतं , तो आलाय तर. आता संपलं सगळं." असे मनाशीच म्हणत तिने उसासा घेतला आणि आईने ठेवलेल्या साडीकडे बघत राहिली.
+
+---------------------------Lexical rules---------------------------
+echo "येऊ" | lt-proc -w '/home/aman/osd/apertium/gsoc/apertium-mar-hin/mar-hin.automorf.bin' | cg-proc -w '/home/aman/osd/apertium/gsoc/apertium-mar-hin/mar-hin.rlx.bin' | apertium-tagger -g $2 '/home/aman/osd/apertium/gsoc/apertium-mar-hin/mar-hin.prob' | apertium-pretransfer| lt-proc -b '/home/aman/osd/apertium/gsoc/apertium-mar-hin/mar-hin.autobil.bin'
+
+apertium-preprocess-transfer apertium-mar-hin.mar-hin.t1x mar-hin.t1x.bin
+cat yein | apertium-transfer -b apertium-mar-hin.mar-hin.t1x mar-hin.t1x.bin | lt-proc -g mar-hin.autogen.bin
+naive coverage ~ 63%
+55283
+35094
+
+
+Simple bidix-trimmed coverage testing : cat asm.corpus | bash coverage.sh asm-eng-biltrans
+
+
+**************************************************************
+so 1st of all, tere changes ke pehle WER kya tha woh measure kar
+revert your repo to its original state before you started comitting
+and check the WER at that state
+
+
+haan toh check kar na Wiki pe!!
+
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- -*- nxml -*- -->
+<transfer default="chunk">
+
+  <section-def-cats>
+    <def-cat n="adj">
+      <cat-item tags="adj.*"/>
+    </def-cat>
+
+    <def-cat n="nom">
+      <cat-item tags="n.*"/>
+    </def-cat>
+
+<!--STEP 1. ADDED CATAGORY FOR PROPER NOUNS -->
+    <def-cat n="propnom">
+      <cat-item tags="np.*"/>
+    </def-cat>
+
+    <def-cat n="sent">
+      <cat-item tags="sent"/>
+    </def-cat>
+
+<!--STEP 4. ADDED CATAGORY FOR GENDER -->
+    <def-cat n="gen">
+      <cat-item tags="m"/>
+      <cat-item tags="f"/>
+      <cat-item tags="nt"/>
+    </def-cat>
+  </section-def-cats>
+
+  <section-def-attrs>
+    <def-attr n="a_nom">
+      <attr-item tags="n"/>
+    </def-attr>
+
+<!--STEP 2. ADDED ATTRIBUTE FOR PROPER NOUNS -->
+    <def-attr n="a_propnom">
+      <attr-item tags="np"/>
+      <attr-item tags="np.ant"/>  <!--STEP 5. ADDED ATTRIBUTE ITEM np.ant -->
+    </def-attr>
+
+    <def-attr n="a_adj">
+      <attr-item tags="adj"/>
+      <attr-item tags="adj.sint"/>
+    </def-attr>
+
+    <def-attr n="a_nbr">
+      <attr-item tags="sg"/>
+      <attr-item tags="pl"/>
+    </def-attr>
+
+    <def-attr n="a_gen">
+      <attr-item tags="m"/>
+      <attr-item tags="nt"/>
+      <attr-item tags="f"/>
+    </def-attr>
+
+    <def-attr n="a_cas">
+      <attr-item tags="nom"/>
+      <attr-item tags="acc"/>
+      <attr-item tags="dat"/>
+      <attr-item tags="gen"/>
+      <attr-item tags="loc"/>
+      <attr-item tags="ins"/>
+      <attr-item tags="abl"/>
+      <attr-item tags="erg"/>
+      <attr-item tags="gen"/>
+    </def-attr>
+  </section-def-attrs>
+
+  <section-def-vars>
+    <def-var n="number"/>
+    <def-var n="current_verb"/>
+  </section-def-vars>
+
+  <section-def-macros>
+    <def-macro n="case-handler1" npar="1">
+          <choose>
+            <when>
+              <test><or> <!-- Nom/Acc and locative cases -->
+                <equal><clip pos="1" side="sl" part="a_cas"/><lit-tag v="acc"/></equal>
+                <equal><clip pos="1" side="sl" part="a_cas"/><lit-tag v="nom"/></equal>
+                <equal><clip pos="1" side="sl" part="a_cas"/><lit-tag v="loc"/></equal>
+                <equal><clip pos="1" side="sl" part="a_cas"/><lit-tag v="dat"/></equal>
+                <equal><clip pos="1" side="sl" part="a_cas"/><lit-tag v="abl"/></equal></or></test>
+              <let><clip pos="1" side="tl" part="a_cas"/><lit v=""/></let>
+            </when>
+          </choose>
+    </def-macro>
+  </section-def-macros>
+
+  <section-rules>
+    <rule comment="REGLA: NOM">
+      <pattern>
+        <pattern-item n="nom"/>
+      </pattern>
+      <action>
+        <call-macro n="case-handler1"> 
+          <with-param pos="1"/>
+        </call-macro>
+        <out>
+          <chunk name="n" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SN"/></tag>
+              <tag><clip pos="1" side="sl" part="a_cas"/></tag>
+            </tags>
+            <lu>
+              <clip pos="1" side="tl" part="lemh"/>
+              <clip pos="1" side="tl" part="a_nom"/>
+              <clip pos="1" side="tl" part="a_nbr"/>
+              <clip pos="1" side="tl" part="a_cas"/>
+              <clip pos="1" side="tl" part="lemq"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+
+<!--STEP 3. ADDED RULE FOR PROPER NOUN -->    
+    <rule comment="REGLA: PROPNOM">
+      <pattern>
+        <pattern-item n="propnom"/>
+      </pattern>
+      <action>
+        <call-macro n="case-handler1"> 
+          <with-param pos="1"/>
+        </call-macro>
+        <out>
+          <chunk name="np" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SN"/></tag>
+              <tag><clip pos="1" side="sl" part="a_cas"/></tag>
+            </tags>
+            <lu>
+              <clip pos="1" side="tl" part="lemh"/>
+              <clip pos="1" side="tl" part="a_propnom"/>
+              <clip pos="1" side="tl" part="a_gen"/>
+              <clip pos="1" side="tl" part="a_nbr"/>
+              <clip pos="1" side="tl" part="a_cas"/>
+              <clip pos="1" side="tl" part="lemq"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>  
+
+    <rule comment="REGLA: adj">
+      <pattern>
+        <pattern-item n="adj"/>
+      </pattern>
+      <action>
+        <out>
+          <chunk name="j" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SA"/></tag>
+            </tags>
+            <lu>
+              <clip pos="1" side="tl" part="lemh"/>
+              <clip pos="1" side="tl" part="a_adj"/>
+              <clip pos="1" side="tl" part="lemq"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+
+    <rule comment="REGLA: SENT">
+      <pattern>
+        <pattern-item n="sent"/>
+      </pattern>
+      <action>
+        <out>
+          <chunk name="sent" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SENT"/></tag>
+            </tags>
+            <lu>
+              <clip pos="1" side="tl" part="whole"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+
+
+  </section-rules>
+</transfer>
+
+**********************old-mar-hin t1x*************
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- -*- nxml -*- -->
+<transfer default="chunk">
+  <section-def-cats>
+    <def-cat n="nom">
+      <cat-item tags="n.*"/>
+    </def-cat>
+    <def-cat n="sent">
+      <cat-item tags="sent"/>
+    </def-cat>
+  </section-def-cats>
+  <section-def-attrs>
+    <def-attr n="a_nom">
+      <attr-item tags="n"/>
+    </def-attr>
+    <def-attr n="a_cas">
+      <attr-item tags="nom"/>
+      <attr-item tags="acc"/>
+      <attr-item tags="dat"/>
+      <attr-item tags="gen"/>
+      <attr-item tags="loc"/>
+      <attr-item tags="ins"/>
+      <attr-item tags="abl"/>
+    </def-attr>
+
+  </section-def-attrs>
+  <section-def-vars>
+    <def-var n="number"/>
+    <def-var n="current_verb"/>
+  </section-def-vars>
+  <section-def-macros>
+    <def-macro n="test" npar="1">
+          <let>
+            <var n="number"/>
+            <lit v=""/>
+          </let>
+    </def-macro>
+  </section-def-macros>
+  <section-rules>
+
+    <rule comment="REGLA: SENT">
+      <pattern>
+        <pattern-item n="sent"/>
+      </pattern>
+      <action>
+        <out>
+          <chunk name="sent" case="caseFirstWord">
+            <tags>
+              <tag><lit-tag v="SENT"/></tag>
+            </tags>
+            <lu>
+              <clip pos="1" side="tl" part="whole"/>
+            </lu>
+          </chunk>
+        </out>
+      </action>
+    </rule>
+
+  </section-rules>
+</transfer>
+***************************************COVERAGE*****************************************
+
+
+before : 
+34.358 % known tokens (2389514 unknown, 0 bidix-unknown of total 3640200 tokens)
+Top unknown words:
+  63882 ^*आहे/*आहे$
+  40604 ^*या/*या$
+  27939 ^*हे/*हे$
+  21378 ^*हा/*हा$
+  19681 ^*इ/*इ$
+  19202 ^*स/*स$
+  17678 ^*आहेत/*आहेत$
+  16969 ^*होते/*होते$
+  15592 ^*ही/*ही$
+  15428 ^*ते/*ते$
+
+after :
+39.874 % known tokens (2188716 unknown, 0 bidix-unknown of total 3640200 tokens)
+Top unknown words:
+  11311 ^*या/*या$
+   7942 ^*इ/*इ$
+   7797 ^*स/*स$
+   7476 ^*हे/*हे$
+   6461 ^*हा/*हा$
+   4109 ^*ते/*ते$
+   4103 ^*ही/*ही$
+   2795 ^*मध्ये/*मध्ये$
+   2668 ^*केले/*केले$
+   2400 ^*त्यांनी/*त्यांनी$
+
+
+after या:
+ 19681 ^*इ/*इ$
+  19202 ^*स/*स$
+  15428 ^*ते/*ते$
+   9666 ^*मध्ये/*मध्ये$
+   9555 ^*केले/*केले$
+   8817 ^*त्यांनी/*त्यांनी$
+   7690 ^*केली/*केली$
+   6912 ^*म्हणून/*म्हणून$
+   6878 ^*अनेक/*अनेक$
+   6769 ^*झाले/*झाले$
+
+after इ.:
+43 %
+ 19202 ^*स/*स$
+  15428 ^*ते/*ते$
+   9666 ^*मध्ये/*मध्ये$
+   9555 ^*केले/*केले$
+   8817 ^*त्यांनी/*त्यांनी$
+   7690 ^*केली/*केली$
+   6912 ^*म्हणून/*म्हणून$
+   6878 ^*अनेक/*अनेक$
+   6769 ^*झाले/*झाले$
+   6668 ^*यांनी/*यांनी$
+
+after ते and मधे:
+45.026 %
+ 19202 ^*स/*स$
+ 9555 ^*केले/*केले$
+   8813 ^*त्यांनी/*त्यांनी$
+   7689 ^*केली/*केली$
+   6912 ^*म्हणून/*म्हणून$
+   6875 ^*अनेक/*अनेक$
+   6769 ^*झाले/*झाले$
+   6668 ^*यांनी/*यांनी$
+   6348 ^*मराठी/*मराठी$
+   6163 ^*केला/*केला$
+
+after करणे म्हणून, त्यांनी:
+47% :
+19202 ^*स/*स$
+6875 ^*अनेक/*अनेक$
+   6769 ^*झाले/*झाले$
+   6668 ^*यांनी/*यांनी$
+   6348 ^*मराठी/*मराठी$
+   5808 ^*असून/*असून$
+   5685 ^*सर्वात/*सर्वात$
+   5127 ^*तसेच/*तसेच$
+   5115 ^*झाला/*झाला$
+   5092 ^*किंवा/*किंवा$
+
+49% :
+19202 ^*स/*स$
+   5685 ^*सर्वात/*सर्वात$
+   5127 ^*तसेच/*तसेच$
+   5092 ^*किंवा/*किंवा$
+   4700 ^*त्यांच्या/*त्यांच्या$
+   4458 ^*च्या/*च्या$
+   4343 ^*म्हणजे/*म्हणजे$
+   3930 ^*यांच्या/*यांच्या$
+   3784 ^*गावात/*गावात$
+   3493 ^*एका/*एका$
+
+
+
+ Hackerrank: collections and numpy (for python tutorials/scope)
+****************************************story***************************
+
+before : ~48% known tokens
+after: 71% known
+
+	  4 ^*बागेत/*बागेत$**
+      4 ^*बघते/*बघते$
+      3 ^*मेरीला/*मेरीला$**
+      2 ^*शकत/*शकत$
+      2 ^*म्हणते/*म्हणते$
+      2 ^*मेरीकडे/*मेरीकडे$
+      2 ^*मिळत/*मिळत$
+      2 ^*घरात/*घरात$
+      2 ^*खेळायला/*खेळायला$
+      2 ^*कुत्र्याला/*कुत्र्याला$
+
+*******************WER***********************
+STORY:
+
+Before:
+Edit distance: 427
+Word error rate (WER): 86.26 %
+Number of position-independent correct words: 77
+Position-independent word error rate (PER): 84.44 %
+
+Results when unknown-word marks (stars) are not removed
+-------------------------------------------------------
+Edit distance: 427
+Word Error Rate (WER): 86.26 %
+Number of position-independent correct words: 77
+Position-independent word error rate (PER): 84.44 %
+
+
+Now:
+Edit distance: 404
+Word error rate (WER): 81.62 %
+Number of position-independent correct words: 129
+Position-independent word error rate (PER): 73.94 %
+
+Results when unknown-word marks (stars) are not removed
+-------------------------------------------------------
+Edit distance: 404
+Word Error Rate (WER): 81.62 %
+Number of position-independent correct words: 129
+Position-independent word error rate (PER): 73.94 %
+
+
+Now:
+Edit distance: 387
+Word error rate (WER): 78.18 %
+Number of position-independent correct words: 149
+Position-independent word error rate (PER): 69.90 %
+
+Results when unknown-word marks (stars) are not removed
+-------------------------------------------------------
+Edit distance: 387
+Word Error Rate (WER): 78.18 %
+Number of position-independent correct words: 149
+Position-independent word error rate (PER): 69.90 %
+
+
+
+
+
+
+
+***********MODES***********************
+ hin-mar-anmor
+  hin-mar-biltrans
+  hin-mar-debug
+  hin-mar-disam
+  hin-mar-generador
+  hin-mar-interchunk
+  hin-mar-lextor
+  hin-mar
+  hin-mar-postchunk
+  hin-mar-pretransfer
+  hin-mar-tagger
+  hin-mar-transfer
+  mar-hin-anmor
+  mar-hin-biltrans
+  mar-hin-debug
+  mar-hin-disam
+  mar-hin-generador
+  mar-hin-interchunk
+  mar-hin-lextor
+  mar-hin
+  mar-hin-postchunk
+  mar-hin-pretransfer
+  mar-hin-transfer
+
+
+**********************intransitive verbs**************************
+<amanmehta> is there a way to recognize whether a given verb is intransitive? I want to add a transfer rule to add a specific tag for such verbs
+[07:25:26] <Unhammer> amanmehta,  if it's tagged that way, no problem
+[07:26:23] <Unhammer> if your monodix doesn't have iv/tv-tags, and you'd rather not add to every single word yet, a quick-and-easy way is just to keep a <def-list n="transitive-verb"> in transfer
+[07:27:28] <amanmehta> yes, but what pattern do I match on the source side?
+[07:27:45] <Unhammer> lemh
+[07:28:14] <amanmehta> in my case, the tl side has tags and but the source side doesnt have iv tags
+[07:28:16] <Unhammer> oh, as in <pattern>, no, then you need monodix tags
+[07:28:29] <Unhammer> but you can do it in the rule
+[07:29:02] <Unhammer> <choose><when><in><list n="transitive-verb"/><clip pos="NNN" part="lemh" side="sl"/></…
+[07:29:22] <amanmehta> okay so make a list of transitive verbs you mean?
+[07:29:33] <Unhammer> yeah, that's the quick-and-dirty way of doing it
+[07:29:41] <amanmehta> can I automate it somehow or I would have to select it myself?
+[07:29:46] <Unhammer> if you don't want to change the monodix
+[07:30:05] <amanmehta> I have the flexibility to change the monodix
+[07:30:29] <Unhammer> ok, if it's useful info in general, perhaps add it there …
+[07:30:45] <Unhammer> The best would be if someone had already tagged verbs with transitivity somewhere on the net and you could just use that list ;)
+[07:31:15] <Unhammer> If have a bidix you could assume that transitive translates to transitive and use that as a basis (fixing mistakes later)
+[07:31:36] <Unhammer> or you could run through a corpus, looking for patterns in some smart way
+[07:32:21] <amanmehta> using bidix, I could use scripting to add tags to the monodix
+[07:32:26] <Unhammer> mm
+[07:32:29] <amanmehta> I won't have to write a rule then
+[07:33:05] <amanmehta> I'm sorry, I couldn
+[07:33:13] <amanmehta> couldn't get the corpus thing :P
+[07:33:26] <amanmehta> could you link me with some more info about it?
+[07:34:43] <Unhammer> so using English as an example, you could simply look for collocations like "vblex.{pret,pres} prn.acc", so if you see "gave me", you have some evidence that "give" is transitive
+[07:35:23] <amanmehta> ohhh, wow. Got you.
+[07:35:54] <Unhammer> to do that, I'd grab a big corpus, run it through the analyser and disambiguator, and probably pipe that through a new CG with some simple rules like "ADD (@FOUND_ONE) (vblex) (1 (prn acc));" and 'grep  FOUND_ONE
+[07:36:26] <Unhammer> something like that. never tried it for transitivity, so no idea how well it would work =P
+[07:37:08] <amanmehta> ok, I'll try to search for the easiest way first (find a list online ;).
+[07:37:54] <amanmehta> And maybe corpus method or tagging iv to iv and tv to tv if I couldn't find ^
+[07:38:04] <amanmehta> Thanks a lot :)
+
+clit tag -> https://en.wikipedia.org/wiki/Clitic
+
+
+****************T1X********************
+amanmehta, for inflections you need a pardef in the monodix like this, e.g. in eng:
+7:44 PM     <pardef n="bab/y__n">
+7:44 PM       <e>       <p><l>y</l>        <r>y<s n="n"/><s n="sg"/></r></p></e>
+7:44 PM       <e>       <p><l>ies</l>      <r>y<s n="n"/><s n="pl"/></r></p></e>
+7:44 PM     </pardef>
+7:45 PM then you can add entries like this:
+7:45 PM     <e lm="baby"><i>bab</i><par n="bab/y__n"/></e>
+7:45 PM     <e lm="ability"><i>abilit</i><par n="bab/y__n"/></e>
+7:58 PM amanmehta, in transfer rule you usually modify these tags (add, remove, change order)
+7:58 PM if these tags matches the tags in the TL monodix, the generation step can generate the correspondes output
+
+
 
