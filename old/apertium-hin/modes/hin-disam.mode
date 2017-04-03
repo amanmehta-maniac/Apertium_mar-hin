@@ -1,0 +1,6 @@
+
+  
+    lt-proc -w '/home/aman/osd/apertium/gsoc/apertium-hin/hin.automorf.bin' | cg-conv -a -l| vislcg3 --trace -g '/home/aman/osd/apertium/gsoc/apertium-hin/apertium-hin.hin.rlx' 
+  
+
+

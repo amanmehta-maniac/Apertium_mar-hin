@@ -1,0 +1,1 @@
+cat out1 | cut -d "<" -f 4-5 | cut -d ">" -f 2 | cut -d "<" -f 1 > final1_adv

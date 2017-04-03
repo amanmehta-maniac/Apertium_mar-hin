@@ -1,0 +1,6 @@
+
+  
+    lt-proc -w '/home/aman/osd/apertium/gsoc/old/apertium-mar-hin/mar-hin.automorf.bin' | cg-proc -w '/home/aman/osd/apertium/gsoc/old/apertium-mar-hin/mar-hin.rlx.bin' | apertium-tagger -g $2 '/home/aman/osd/apertium/gsoc/old/apertium-mar-hin/mar-hin.prob' | apertium-pretransfer
+  
+
+  
