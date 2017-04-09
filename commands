@@ -30,6 +30,9 @@ nominative : relating to or denoting a case of nouns, pronouns, and adjectives i
 accusative : denoting a case of nouns, pronouns, and adjectives which expresses the object of an action or the goal of motion.
 but the tags in <r> differ. What does that mean? DOes that mean that it can be either  n="acc" or n="nom"?
 
+oblique: In grammar, an oblique (abbreviated OBL; from Latin: casus obliquus) or objective case (abbr. OBJ), is a nominal case that is used when a noun phrase is the object of either a verb or a preposition.
+
+
 amanmehta: make sure the words are in the bidix
 6:46 PM next, add transfer rules
 
