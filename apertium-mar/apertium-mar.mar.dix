@@ -69,6 +69,8 @@
 		<sdef n="gna" 	  c="Verbal adverb"/>
 		<sdef n="gpr" 	  c="Verbal adjective"/>
 		<sdef n="ger" 	  c="Gerund"/>
+        <sdef n="dem"     c="Demonstrative"/>
+
 
 
 		<sdef n="f"  />
@@ -737,68 +739,68 @@
 			
 
 		<pardef n="/तो__prn">
-			<e>		  <p><l>तो</l><r>तो<s n="prn"/><s n="p3"/><s n="m"/><s n="sg"/><s n="nom"/></r></p><par n="__emph"/></e>
-			<e>		  <p><l>त्याला</l><r>तो<s n="prn"/><s n="p3"/><s n="m"/><s n="sg"/><s n="acc"/></r></p><par n="__emph"/></e>
-			<e>		  <p><l>त्याच</l><r>तो<s n="prn"/><s n="p3"/><s n="m"/><s n="sg"/><j/></r></p><par n="__prn_gen"/></e>
-			<e>		  <p><l>त्याला</l><r>तो<s n="prn"/><s n="p3"/><s n="m"/><s n="sg"/><s n="dat"/></r></p><par n="__emph"/></e>
-			<e>		  <p><l>त्याच्याकडून</l><r>तो<s n="prn"/><s n="p3"/><s n="m"/><s n="sg"/><s n="abl"/></r></p><par n="__emph"/></e>
-			<e>		  <p><l>त्याच्यात</l><r>तो<s n="prn"/><s n="p3"/><s n="m"/><s n="sg"/><s n="loc"/></r></p><par n="__emph"/></e>
-			<e>		  <p><l>त्या</l><r>तो<s n="prn"/><s n="p3"/><s n="m"/><s n="sg"/><s n="obl"/><j/></r></p><par n="__clit"/></e>
+			<e>		  <p><l>तो</l><r>तो<s n="prn"/><s n="dem"/><s n="p3"/><s n="m"/><s n="sg"/><s n="nom"/></r></p><par n="__emph"/></e>
+			<e>		  <p><l>त्याला</l><r>तो<s n="prn"/><s n="dem"/><s n="p3"/><s n="m"/><s n="sg"/><s n="acc"/></r></p><par n="__emph"/></e>
+			<e>		  <p><l>त्याच</l><r>तो<s n="prn"/><s n="dem"/><s n="p3"/><s n="m"/><s n="sg"/><j/></r></p><par n="__prn_gen"/></e>
+			<e>		  <p><l>त्याला</l><r>तो<s n="prn"/><s n="dem"/><s n="p3"/><s n="m"/><s n="sg"/><s n="dat"/></r></p><par n="__emph"/></e>
+			<e>		  <p><l>त्याच्याकडून</l><r>तो<s n="prn"/><s n="dem"/><s n="p3"/><s n="m"/><s n="sg"/><s n="abl"/></r></p><par n="__emph"/></e>
+			<e>		  <p><l>त्याच्यात</l><r>तो<s n="prn"/><s n="dem"/><s n="p3"/><s n="m"/><s n="sg"/><s n="loc"/></r></p><par n="__emph"/></e>
+			<e>		  <p><l>त्या</l><r>तो<s n="prn"/><s n="dem"/><s n="p3"/><s n="m"/><s n="sg"/><s n="obl"/><j/></r></p><par n="__clit"/></e>
 
 			<!-- check anuswar -->
-			<e>		  <p><l>ते</l><r>तो<s n="prn"/><s n="p3"/><s n="m"/><s n="pl"/><s n="nom"/></r></p><par n="__emph"/></e>
-			<e>		  <p><l>त्यांना</l><r>तो<s n="prn"/><s n="p3"/><s n="m"/><s n="pl"/><s n="acc"/></r></p><par n="__emph"/></e>
-			<e>		  <p><l>यांना</l><r>तो<s n="prn"/><s n="p2"/><s n="m"/><s n="pl"/><s n="acc"/></r></p><par n="__emph"/></e>
+			<e>		  <p><l>ते</l><r>तो<s n="prn"/><s n="dem"/><s n="p3"/><s n="m"/><s n="pl"/><s n="nom"/></r></p><par n="__emph"/></e>
+			<e>		  <p><l>त्यांना</l><r>तो<s n="prn"/><s n="dem"/><s n="p3"/><s n="m"/><s n="pl"/><s n="acc"/></r></p><par n="__emph"/></e>
+			<e>		  <p><l>यांना</l><r>तो<s n="prn"/><s n="dem"/><s n="p2"/><s n="m"/><s n="pl"/><s n="acc"/></r></p><par n="__emph"/></e>
 			<!-- check mfn for yanni -->
-			<e>		  <p><l>यांनी</l><r>तो<s n="prn"/><s n="p3"/><s n="mfn"/><s n="pl"/><s n="nom"/></r></p><par n="__emph"/></e>
-			<e>		  <p><l>त्यांच</l><r>तो<s n="prn"/><s n="p3"/><s n="m"/><s n="pl"/><j/></r></p><par n="__prn_gen"/></e>
-			<e>		  <p><l>त्यांना</l><r>तो<s n="prn"/><s n="p3"/><s n="m"/><s n="pl"/><s n="dat"/></r></p><par n="__emph"/></e>
-			<e>		  <p><l>त्यांच्याकडून</l><r>तो<s n="prn"/><s n="p3"/><s n="m"/><s n="pl"/><s n="abl"/></r></p><par n="__emph"/></e>
-			<e>		  <p><l>त्यांच्यात</l><r>तो<s n="prn"/><s n="p3"/><s n="m"/><s n="pl"/><s n="loc"/></r></p><par n="__emph"/></e>
-			<e>		  <p><l>त्यां</l><r>तो<s n="prn"/><s n="p3"/><s n="m"/><s n="pl"/><s n="obl"/><j/></r></p><par n="__clit"/></e>
+			<e>		  <p><l>यांनी</l><r>तो<s n="prn"/><s n="dem"/><s n="p3"/><s n="mfn"/><s n="pl"/><s n="nom"/></r></p><par n="__emph"/></e>
+			<e>		  <p><l>त्यांच</l><r>तो<s n="prn"/><s n="dem"/><s n="p3"/><s n="m"/><s n="pl"/><j/></r></p><par n="__prn_gen"/></e>
+			<e>		  <p><l>त्यांना</l><r>तो<s n="prn"/><s n="dem"/><s n="p3"/><s n="m"/><s n="pl"/><s n="dat"/></r></p><par n="__emph"/></e>
+			<e>		  <p><l>त्यांच्याकडून</l><r>तो<s n="prn"/><s n="dem"/><s n="p3"/><s n="m"/><s n="pl"/><s n="abl"/></r></p><par n="__emph"/></e>
+			<e>		  <p><l>त्यांच्यात</l><r>तो<s n="prn"/><s n="dem"/><s n="p3"/><s n="m"/><s n="pl"/><s n="loc"/></r></p><par n="__emph"/></e>
+			<e>		  <p><l>त्यां</l><r>तो<s n="prn"/><s n="dem"/><s n="p3"/><s n="m"/><s n="pl"/><s n="obl"/><j/></r></p><par n="__clit"/></e>
 		</pardef>
 
 		<pardef n="/ती__prn">
-			<e>		  <p><l>ती</l><r>तो<s n="prn"/><s n="p3"/><s n="f"/><s n="sg"/><s n="nom"/></r></p><par n="__emph"/></e>
-			<e>		  <p><l>तिला</l><r>तो<s n="prn"/><s n="p3"/><s n="f"/><s n="sg"/><s n="acc"/></r></p><par n="__emph"/></e>
-			<e>		  <p><l>तिच</l><r>तो<s n="prn"/><s n="p3"/><s n="f"/><s n="sg"/><j/></r></p><par n="__prn_gen"/></e>
-			<e>		  <p><l>तिला</l><r>तो<s n="prn"/><s n="p3"/><s n="f"/><s n="sg"/><s n="dat"/></r></p><par n="__emph"/></e>
-			<e>		  <p><l>तिच्याकडून</l><r>तो<s n="prn"/><s n="p3"/><s n="f"/><s n="sg"/><s n="abl"/></r></p><par n="__emph"/></e>
-			<e>		  <p><l>तिच्यात</l><r>तो<s n="prn"/><s n="p3"/><s n="f"/><s n="sg"/><s n="loc"/></r></p><par n="__emph"/></e>
-			<e>		  <p><l>तिच्या</l><r>तो<s n="prn"/><s n="p3"/><s n="f"/><s n="sg"/></r></p><par n="__emph"/></e>
-			<e>		  <p><l>तिच्यात</l><r>तो<s n="prn"/><s n="p3"/><s n="f"/><s n="sg"/><s n="loc"/></r></p><par n="__emph"/></e>
-			<e>		  <p><l>ति</l><r>तो<s n="prn"/><s n="p3"/><s n="f"/><s n="sg"/><s n="obl"/><j/></r></p><par n="__clit"/></e>
+			<e>		  <p><l>ती</l><r>तो<s n="prn"/><s n="dem"/><s n="p3"/><s n="f"/><s n="sg"/><s n="nom"/></r></p><par n="__emph"/></e>
+			<e>		  <p><l>तिला</l><r>तो<s n="prn"/><s n="dem"/><s n="p3"/><s n="f"/><s n="sg"/><s n="acc"/></r></p><par n="__emph"/></e>
+			<e>		  <p><l>तिच</l><r>तो<s n="prn"/><s n="dem"/><s n="p3"/><s n="f"/><s n="sg"/><j/></r></p><par n="__prn_gen"/></e>
+			<e>		  <p><l>तिला</l><r>तो<s n="prn"/><s n="dem"/><s n="p3"/><s n="f"/><s n="sg"/><s n="dat"/></r></p><par n="__emph"/></e>
+			<e>		  <p><l>तिच्याकडून</l><r>तो<s n="prn"/><s n="dem"/><s n="p3"/><s n="f"/><s n="sg"/><s n="abl"/></r></p><par n="__emph"/></e>
+			<e>		  <p><l>तिच्यात</l><r>तो<s n="prn"/><s n="dem"/><s n="p3"/><s n="f"/><s n="sg"/><s n="loc"/></r></p><par n="__emph"/></e>
+			<e>		  <p><l>तिच्या</l><r>तो<s n="prn"/><s n="dem"/><s n="p3"/><s n="f"/><s n="sg"/></r></p><par n="__emph"/></e>
+			<e>		  <p><l>तिच्यात</l><r>तो<s n="prn"/><s n="dem"/><s n="p3"/><s n="f"/><s n="sg"/><s n="loc"/></r></p><par n="__emph"/></e>
+			<e>		  <p><l>ति</l><r>तो<s n="prn"/><s n="dem"/><s n="p3"/><s n="f"/><s n="sg"/><s n="obl"/><j/></r></p><par n="__clit"/></e>
 
-			<e>		  <p><l>त्या</l><r>तो<s n="prn"/><s n="p3"/><s n="f"/><s n="pl"/><s n="nom"/></r></p><par n="__emph"/></e>
-			<e>		  <p><l>त्यांना</l><r>तो<s n="prn"/><s n="p3"/><s n="f"/><s n="pl"/><s n="acc"/></r></p><par n="__emph"/></e>
-			<e>		  <p><l>त्यांच</l><r>तो<s n="prn"/><s n="p3"/><s n="f"/><s n="pl"/><j/></r></p><par n="__prn_gen"/></e>
-			<e>		  <p><l>त्यांना</l><r>तो<s n="prn"/><s n="p3"/><s n="f"/><s n="pl"/><s n="dat"/></r></p><par n="__emph"/></e>
-			<e>		  <p><l>त्यांच्याकडून</l><r>तो<s n="prn"/><s n="p3"/><s n="f"/><s n="pl"/><s n="abl"/></r></p><par n="__emph"/></e>
-			<e>		  <p><l>त्यांच्यात</l><r>तो<s n="prn"/><s n="p3"/><s n="f"/><s n="pl"/><s n="loc"/></r></p><par n="__emph"/></e>
-			<e>		  <p><l>त्यां</l><r>तो<s n="prn"/><s n="p3"/><s n="f"/><s n="pl"/><s n="obl"/><j/></r></p><par n="__clit"/></e>
+			<e>		  <p><l>त्या</l><r>तो<s n="prn"/><s n="dem"/><s n="p3"/><s n="f"/><s n="pl"/><s n="nom"/></r></p><par n="__emph"/></e>
+			<e>		  <p><l>त्यांना</l><r>तो<s n="prn"/><s n="dem"/><s n="p3"/><s n="f"/><s n="pl"/><s n="acc"/></r></p><par n="__emph"/></e>
+			<e>		  <p><l>त्यांच</l><r>तो<s n="prn"/><s n="dem"/><s n="p3"/><s n="f"/><s n="pl"/><j/></r></p><par n="__prn_gen"/></e>
+			<e>		  <p><l>त्यांना</l><r>तो<s n="prn"/><s n="dem"/><s n="p3"/><s n="f"/><s n="pl"/><s n="dat"/></r></p><par n="__emph"/></e>
+			<e>		  <p><l>त्यांच्याकडून</l><r>तो<s n="prn"/><s n="dem"/><s n="p3"/><s n="f"/><s n="pl"/><s n="abl"/></r></p><par n="__emph"/></e>
+			<e>		  <p><l>त्यांच्यात</l><r>तो<s n="prn"/><s n="dem"/><s n="p3"/><s n="f"/><s n="pl"/><s n="loc"/></r></p><par n="__emph"/></e>
+			<e>		  <p><l>त्यां</l><r>तो<s n="prn"/><s n="dem"/><s n="p3"/><s n="f"/><s n="pl"/><s n="obl"/><j/></r></p><par n="__clit"/></e>
 		</pardef>
 
 		<pardef n="/ते__prn">
-			<e>		  <p><l>ते</l><r>तो<s n="prn"/><s n="p3"/><s n="nt"/><s n="sg"/><s n="nom"/></r></p><par n="__emph"/></e>
-			<e>		  <p><l>त्याला</l><r>तो<s n="prn"/><s n="p3"/><s n="nt"/><s n="sg"/><s n="acc"/></r></p><par n="__emph"/></e>
-			<e>		  <p><l>त्याच</l><r>तो<s n="prn"/><s n="p3"/><s n="nt"/><s n="sg"/><j/></r></p><par n="__prn_gen"/></e>
-			<e>		  <p><l>त्याला</l><r>तो<s n="prn"/><s n="p3"/><s n="nt"/><s n="sg"/><s n="dat"/></r></p><par n="__emph"/></e>
-			<e>		  <p><l>त्याच्याकडून</l><r>तो<s n="prn"/><s n="p3"/><s n="nt"/><s n="sg"/><s n="obl"/></r></p><par n="__emph"/></e>
-			<e>		  <p><l>त्याच्यात</l><r>तो<s n="prn"/><s n="p3"/><s n="nt"/><s n="sg"/><s n="obl"/></r></p><par n="__emph"/></e>
-			<e>		  <p><l>त्या</l><r>तो<s n="prn"/><s n="p3"/><s n="nt"/><s n="sg"/><s n="obl"/><j/></r></p><par n="__clit"/></e>
+			<e>		  <p><l>ते</l><r>तो<s n="prn"/><s n="dem"/><s n="p3"/><s n="nt"/><s n="sg"/><s n="nom"/></r></p><par n="__emph"/></e>
+			<e>		  <p><l>त्याला</l><r>तो<s n="prn"/><s n="dem"/><s n="p3"/><s n="nt"/><s n="sg"/><s n="acc"/></r></p><par n="__emph"/></e>
+			<e>		  <p><l>त्याच</l><r>तो<s n="prn"/><s n="dem"/><s n="p3"/><s n="nt"/><s n="sg"/><j/></r></p><par n="__prn_gen"/></e>
+			<e>		  <p><l>त्याला</l><r>तो<s n="prn"/><s n="dem"/><s n="p3"/><s n="nt"/><s n="sg"/><s n="dat"/></r></p><par n="__emph"/></e>
+			<e>		  <p><l>त्याच्याकडून</l><r>तो<s n="prn"/><s n="dem"/><s n="p3"/><s n="nt"/><s n="sg"/><s n="obl"/></r></p><par n="__emph"/></e>
+			<e>		  <p><l>त्याच्यात</l><r>तो<s n="prn"/><s n="dem"/><s n="p3"/><s n="nt"/><s n="sg"/><s n="obl"/></r></p><par n="__emph"/></e>
+			<e>		  <p><l>त्या</l><r>तो<s n="prn"/><s n="dem"/><s n="p3"/><s n="nt"/><s n="sg"/><s n="obl"/><j/></r></p><par n="__clit"/></e>
 			<!-- 
 				tyaanni : usne 
 				tyaanna : unko
 			-->
-			<e>		  <p><l>ती</l><r>तो<s n="prn"/><s n="p3"/><s n="nt"/><s n="pl"/><s n="nom"/></r></p><par n="__emph"/></e>
-			<e>		  <p><l>त्यांना</l><r>तो<s n="prn"/><s n="p3"/><s n="nt"/><s n="pl"/><s n="acc"/></r></p><par n="__emph"/></e>
-			<e>		  <p><l>त्यांच</l><r>तो<s n="prn"/><s n="p3"/><s n="nt"/><s n="pl"/><j/></r></p><par n="__prn_gen"/></e>
-			<e>		  <p><l>त्यांना</l><r>तो<s n="prn"/><s n="p3"/><s n="nt"/><s n="pl"/><s n="dat"/></r></p><par n="__emph"/></e>
+			<e>		  <p><l>ती</l><r>तो<s n="prn"/><s n="dem"/><s n="p3"/><s n="nt"/><s n="pl"/><s n="nom"/></r></p><par n="__emph"/></e>
+			<e>		  <p><l>त्यांना</l><r>तो<s n="prn"/><s n="dem"/><s n="p3"/><s n="nt"/><s n="pl"/><s n="acc"/></r></p><par n="__emph"/></e>
+			<e>		  <p><l>त्यांच</l><r>तो<s n="prn"/><s n="dem"/><s n="p3"/><s n="nt"/><s n="pl"/><j/></r></p><par n="__prn_gen"/></e>
+			<e>		  <p><l>त्यांना</l><r>तो<s n="prn"/><s n="dem"/><s n="p3"/><s n="nt"/><s n="pl"/><s n="dat"/></r></p><par n="__emph"/></e>
 			<!-- check त्यांनी for nom/cc/dat later -->
-			<e>		  <p><l>त्यांनी</l><r>तो<s n="prn"/><s n="p3"/><s n="nt"/><s n="pl"/><s n="nom"/></r></p><par n="__emph"/></e>
-			<e>		  <p><l>त्यांच्याकडून</l><r>तो<s n="prn"/><s n="p3"/><s n="nt"/><s n="pl"/><s n="abl"/></r></p><par n="__emph"/></e>
-			<e>		  <p><l>त्यांच्यात</l><r>तो<s n="prn"/><s n="p3"/><s n="nt"/><s n="pl"/><s n="loc"/></r></p><par n="__emph"/></e>
-			<e>		  <p><l>त्यां</l><r>तो<s n="prn"/><s n="p3"/><s n="nt"/><s n="pl"/><s n="obl"/><j/></r></p><par n="__clit"/></e>
+			<e>		  <p><l>त्यांनी</l><r>तो<s n="prn"/><s n="dem"/><s n="p3"/><s n="nt"/><s n="pl"/><s n="nom"/></r></p><par n="__emph"/></e>
+			<e>		  <p><l>त्यांच्याकडून</l><r>तो<s n="prn"/><s n="dem"/><s n="p3"/><s n="nt"/><s n="pl"/><s n="abl"/></r></p><par n="__emph"/></e>
+			<e>		  <p><l>त्यांच्यात</l><r>तो<s n="prn"/><s n="dem"/><s n="p3"/><s n="nt"/><s n="pl"/><s n="loc"/></r></p><par n="__emph"/></e>
+			<e>		  <p><l>त्यां</l><r>तो<s n="prn"/><s n="dem"/><s n="p3"/><s n="nt"/><s n="pl"/><s n="obl"/><j/></r></p><par n="__clit"/></e>
 		</pardef>	
 
 		<!-- reflexive -->
@@ -868,30 +870,30 @@
 		<!-- rel/corel -->
 		<pardef n="__rel_corel">
 			<e>		  <p><l>जो</l><r>जो<s n="prn"/><s n="rel"/><s n="m"/><s n="sg"/><s n="nom"/></r></p><par n="__emph"/></e>
-			<e>		  <p><l>तो</l><r>तो<s n="prn"/><s n="corel"/><s n="m"/><s n="sg"/><s n="nom"/></r></p><par n="__emph"/></e>
+			<e>		  <p><l>तो</l><r>तो<s n="prn"/><s n="dem"/><s n="corel"/><s n="m"/><s n="sg"/><s n="nom"/></r></p><par n="__emph"/></e>
 			<e>		  <p><l>जी</l><r>जो<s n="prn"/><s n="rel"/><s n="f"/><s n="sg"/><s n="nom"/></r></p><par n="__emph"/></e>
-			<e>		  <p><l>ती</l><r>तो<s n="prn"/><s n="corel"/><s n="f"/><s n="sg"/><s n="nom"/></r></p><par n="__emph"/></e>
+			<e>		  <p><l>ती</l><r>तो<s n="prn"/><s n="dem"/><s n="corel"/><s n="f"/><s n="sg"/><s n="nom"/></r></p><par n="__emph"/></e>
 			<e>		  <p><l>जे</l><r>जो<s n="prn"/><s n="rel"/><s n="nt"/><s n="sg"/><s n="nom"/></r></p><par n="__emph"/></e>
-			<e>		  <p><l>ते</l><r>तो<s n="prn"/><s n="corel"/><s n="nt"/><s n="sg"/><s n="nom"/></r></p><par n="__emph"/></e>
+			<e>		  <p><l>ते</l><r>तो<s n="prn"/><s n="dem"/><s n="corel"/><s n="nt"/><s n="sg"/><s n="nom"/></r></p><par n="__emph"/></e>
 			<e>		  <p><l>जे</l><r>जो<s n="prn"/><s n="rel"/><s n="m"/><s n="pl"/><s n="nom"/></r></p><par n="__emph"/></e>
-			<e>		  <p><l>ते</l><r>तो<s n="prn"/><s n="corel"/><s n="m"/><s n="pl"/><s n="nom"/></r></p><par n="__emph"/></e>
+			<e>		  <p><l>ते</l><r>तो<s n="prn"/><s n="dem"/><s n="corel"/><s n="m"/><s n="pl"/><s n="nom"/></r></p><par n="__emph"/></e>
 			<e>		  <p><l>ज्या</l><r>जो<s n="prn"/><s n="rel"/><s n="f"/><s n="pl"/><s n="nom"/></r></p><par n="__emph"/></e>
-			<e>		  <p><l>त्या</l><r>तो<s n="prn"/><s n="corel"/><s n="f"/><s n="pl"/><s n="nom"/></r></p><par n="__emph"/></e>
+			<e>		  <p><l>त्या</l><r>तो<s n="prn"/><s n="dem"/><s n="corel"/><s n="f"/><s n="pl"/><s n="nom"/></r></p><par n="__emph"/></e>
 			<e>		  <p><l>जी</l><r>जो<s n="prn"/><s n="rel"/><s n="nt"/><s n="pl"/><s n="nom"/></r></p><par n="__emph"/></e>
-			<e>		  <p><l>ती</l><r>तो<s n="prn"/><s n="corel"/><s n="nt"/><s n="pl"/><s n="nom"/></r></p><par n="__emph"/></e>
+			<e>		  <p><l>ती</l><r>तो<s n="prn"/><s n="dem"/><s n="corel"/><s n="nt"/><s n="pl"/><s n="nom"/></r></p><par n="__emph"/></e>
 
 			<e>		  <p><l>ज्याला</l><r>जो<s n="prn"/><s n="rel"/><s n="m"/><s n="sg"/><s n="obl"/></r></p><par n="__emph"/></e>
-			<e>		  <p><l>त्याला</l><r>तो<s n="prn"/><s n="corel"/><s n="m"/><s n="sg"/><s n="obl"/></r></p><par n="__emph"/></e>
+			<e>		  <p><l>त्याला</l><r>तो<s n="prn"/><s n="dem"/><s n="corel"/><s n="m"/><s n="sg"/><s n="obl"/></r></p><par n="__emph"/></e>
 			<e>		  <p><l>जिला</l><r>जो<s n="prn"/><s n="rel"/><s n="f"/><s n="sg"/><s n="obl"/></r></p><par n="__emph"/></e>
-			<e>		  <p><l>तिला</l><r>तो<s n="prn"/><s n="corel"/><s n="f"/><s n="sg"/><s n="obl"/></r></p><par n="__emph"/></e>
+			<e>		  <p><l>तिला</l><r>तो<s n="prn"/><s n="dem"/><s n="corel"/><s n="f"/><s n="sg"/><s n="obl"/></r></p><par n="__emph"/></e>
 			<e>		  <p><l>ज्याला</l><r>जो<s n="prn"/><s n="rel"/><s n="nt"/><s n="sg"/><s n="obl"/></r></p><par n="__emph"/></e>
-			<e>		  <p><l>त्या</l><r>तो<s n="prn"/><s n="corel"/><s n="nt"/><s n="sg"/><s n="obl"/></r></p><par n="__emph"/></e>
+			<e>		  <p><l>त्या</l><r>तो<s n="prn"/><s n="dem"/><s n="corel"/><s n="nt"/><s n="sg"/><s n="obl"/></r></p><par n="__emph"/></e>
 			<e>		  <p><l>ज्यांना</l><r>जो<s n="prn"/><s n="rel"/><s n="m"/><s n="pl"/><s n="obl"/></r></p><par n="__emph"/></e>
-			<e>		  <p><l>त्यांना</l><r>तो<s n="prn"/><s n="corel"/><s n="m"/><s n="pl"/><s n="obl"/></r></p><par n="__emph"/></e>
+			<e>		  <p><l>त्यांना</l><r>तो<s n="prn"/><s n="dem"/><s n="corel"/><s n="m"/><s n="pl"/><s n="obl"/></r></p><par n="__emph"/></e>
 			<e>		  <p><l>ज्यांना</l><r>जो<s n="prn"/><s n="rel"/><s n="f"/><s n="pl"/><s n="obl"/></r></p><par n="__emph"/></e>
-			<e>		  <p><l>त्यांना</l><r>तो<s n="prn"/><s n="corel"/><s n="f"/><s n="pl"/><s n="obl"/></r></p><par n="__emph"/></e>
+			<e>		  <p><l>त्यांना</l><r>तो<s n="prn"/><s n="dem"/><s n="corel"/><s n="f"/><s n="pl"/><s n="obl"/></r></p><par n="__emph"/></e>
 			<e>		  <p><l>ज्यांना</l><r>जो<s n="prn"/><s n="rel"/><s n="nt"/><s n="pl"/><s n="obl"/></r></p><par n="__emph"/></e>
-			<e>		  <p><l>त्यांना</l><r>तो<s n="prn"/><s n="corel"/><s n="nt"/><s n="pl"/><s n="obl"/></r></p><par n="__emph"/></e>
+			<e>		  <p><l>त्यांना</l><r>तो<s n="prn"/><s n="dem"/><s n="corel"/><s n="nt"/><s n="pl"/><s n="obl"/></r></p><par n="__emph"/></e>
 
 			<e>       <p><l>जरी</l><r>जरी<s n="rel"/></r></p></e>
 			<e>       <p><l>जरीही</l><r>जरी<s n="rel"/></r></p></e>

@@ -1,0 +1,6 @@
+
+  
+    lt-proc '/home/aman/osd/apertium/gsoc/apertium-mar-eng/mar-eng.automorf.bin' | cg-proc -1 -n '/home/aman/osd/apertium/gsoc/apertium-mar-eng/mar-eng.rlx.bin' | apertium-pretransfer| lt-proc -b '/home/aman/osd/apertium/gsoc/apertium-mar-eng/mar-eng.autobil.bin' | lrx-proc '/home/aman/osd/apertium/gsoc/apertium-mar-eng/mar-eng.autolex.bin' | apertium-transfer -b '/home/aman/osd/apertium/gsoc/apertium-mar-eng/apertium-mar-eng.mar-eng.t1x'  '/home/aman/osd/apertium/gsoc/apertium-mar-eng/mar-eng.t1x.bin' | apertium-interchunk '/home/aman/osd/apertium/gsoc/apertium-mar-eng/apertium-mar-eng.mar-eng.t2x'  '/home/aman/osd/apertium/gsoc/apertium-mar-eng/mar-eng.t2x.bin' | apertium-postchunk '/home/aman/osd/apertium/gsoc/apertium-mar-eng/apertium-mar-eng.mar-eng.t3x'  '/home/aman/osd/apertium/gsoc/apertium-mar-eng/mar-eng.t3x.bin' | lt-proc $1 '/home/aman/osd/apertium/gsoc/apertium-mar-eng/mar-eng.autogen.bin' 
+  
+ 
+  

@@ -1,0 +1,158 @@
+740,746c740,746
+< 			<e>		  <p><l>तो</l><r>तो<s n="prn"/><s n="p3"/><s n="m"/><s n="sg"/><s n="nom"/></r></p><par n="__emph"/></e>
+< 			<e>		  <p><l>त्याला</l><r>तो<s n="prn"/><s n="p3"/><s n="m"/><s n="sg"/><s n="acc"/></r></p><par n="__emph"/></e>
+< 			<e>		  <p><l>त्याच</l><r>तो<s n="prn"/><s n="p3"/><s n="m"/><s n="sg"/><j/></r></p><par n="__prn_gen"/></e>
+< 			<e>		  <p><l>त्याला</l><r>तो<s n="prn"/><s n="p3"/><s n="m"/><s n="sg"/><s n="dat"/></r></p><par n="__emph"/></e>
+< 			<e>		  <p><l>त्याच्याकडून</l><r>तो<s n="prn"/><s n="p3"/><s n="m"/><s n="sg"/><s n="abl"/></r></p><par n="__emph"/></e>
+< 			<e>		  <p><l>त्याच्यात</l><r>तो<s n="prn"/><s n="p3"/><s n="m"/><s n="sg"/><s n="loc"/></r></p><par n="__emph"/></e>
+< 			<e>		  <p><l>त्या</l><r>तो<s n="prn"/><s n="p3"/><s n="m"/><s n="sg"/><s n="obl"/><j/></r></p><par n="__clit"/></e>
+---
+> 			<e>		  <p><l>तो</l><r>तो<s n="prn"/><s n="dem"/><s n="p3"/><s n="m"/><s n="sg"/><s n="nom"/></r></p><par n="__emph"/></e>
+> 			<e>		  <p><l>त्याला</l><r>तो<s n="prn"/><s n="dem"/><s n="p3"/><s n="m"/><s n="sg"/><s n="acc"/></r></p><par n="__emph"/></e>
+> 			<e>		  <p><l>त्याच</l><r>तो<s n="prn"/><s n="dem"/><s n="p3"/><s n="m"/><s n="sg"/><j/></r></p><par n="__prn_gen"/></e>
+> 			<e>		  <p><l>त्याला</l><r>तो<s n="prn"/><s n="dem"/><s n="p3"/><s n="m"/><s n="sg"/><s n="dat"/></r></p><par n="__emph"/></e>
+> 			<e>		  <p><l>त्याच्याकडून</l><r>तो<s n="prn"/><s n="dem"/><s n="p3"/><s n="m"/><s n="sg"/><s n="abl"/></r></p><par n="__emph"/></e>
+> 			<e>		  <p><l>त्याच्यात</l><r>तो<s n="prn"/><s n="dem"/><s n="p3"/><s n="m"/><s n="sg"/><s n="loc"/></r></p><par n="__emph"/></e>
+> 			<e>		  <p><l>त्या</l><r>तो<s n="prn"/><s n="dem"/><s n="p3"/><s n="m"/><s n="sg"/><s n="obl"/><j/></r></p><par n="__clit"/></e>
+749,751c749,751
+< 			<e>		  <p><l>ते</l><r>तो<s n="prn"/><s n="p3"/><s n="m"/><s n="pl"/><s n="nom"/></r></p><par n="__emph"/></e>
+< 			<e>		  <p><l>त्यांना</l><r>तो<s n="prn"/><s n="p3"/><s n="m"/><s n="pl"/><s n="acc"/></r></p><par n="__emph"/></e>
+< 			<e>		  <p><l>यांना</l><r>तो<s n="prn"/><s n="p2"/><s n="m"/><s n="pl"/><s n="acc"/></r></p><par n="__emph"/></e>
+---
+> 			<e>		  <p><l>ते</l><r>तो<s n="prn"/><s n="dem"/><s n="p3"/><s n="m"/><s n="pl"/><s n="nom"/></r></p><par n="__emph"/></e>
+> 			<e>		  <p><l>त्यांना</l><r>तो<s n="prn"/><s n="dem"/><s n="p3"/><s n="m"/><s n="pl"/><s n="acc"/></r></p><par n="__emph"/></e>
+> 			<e>		  <p><l>यांना</l><r>तो<s n="prn"/><s n="dem"/><s n="p2"/><s n="m"/><s n="pl"/><s n="acc"/></r></p><par n="__emph"/></e>
+753,758c753,758
+< 			<e>		  <p><l>यांनी</l><r>तो<s n="prn"/><s n="p3"/><s n="mfn"/><s n="pl"/><s n="nom"/></r></p><par n="__emph"/></e>
+< 			<e>		  <p><l>त्यांच</l><r>तो<s n="prn"/><s n="p3"/><s n="m"/><s n="pl"/><j/></r></p><par n="__prn_gen"/></e>
+< 			<e>		  <p><l>त्यांना</l><r>तो<s n="prn"/><s n="p3"/><s n="m"/><s n="pl"/><s n="dat"/></r></p><par n="__emph"/></e>
+< 			<e>		  <p><l>त्यांच्याकडून</l><r>तो<s n="prn"/><s n="p3"/><s n="m"/><s n="pl"/><s n="abl"/></r></p><par n="__emph"/></e>
+< 			<e>		  <p><l>त्यांच्यात</l><r>तो<s n="prn"/><s n="p3"/><s n="m"/><s n="pl"/><s n="loc"/></r></p><par n="__emph"/></e>
+< 			<e>		  <p><l>त्यां</l><r>तो<s n="prn"/><s n="p3"/><s n="m"/><s n="pl"/><s n="obl"/><j/></r></p><par n="__clit"/></e>
+---
+> 			<e>		  <p><l>यांनी</l><r>तो<s n="prn"/><s n="dem"/><s n="p3"/><s n="mfn"/><s n="pl"/><s n="nom"/></r></p><par n="__emph"/></e>
+> 			<e>		  <p><l>त्यांच</l><r>तो<s n="prn"/><s n="dem"/><s n="p3"/><s n="m"/><s n="pl"/><j/></r></p><par n="__prn_gen"/></e>
+> 			<e>		  <p><l>त्यांना</l><r>तो<s n="prn"/><s n="dem"/><s n="p3"/><s n="m"/><s n="pl"/><s n="dat"/></r></p><par n="__emph"/></e>
+> 			<e>		  <p><l>त्यांच्याकडून</l><r>तो<s n="prn"/><s n="dem"/><s n="p3"/><s n="m"/><s n="pl"/><s n="abl"/></r></p><par n="__emph"/></e>
+> 			<e>		  <p><l>त्यांच्यात</l><r>तो<s n="prn"/><s n="dem"/><s n="p3"/><s n="m"/><s n="pl"/><s n="loc"/></r></p><par n="__emph"/></e>
+> 			<e>		  <p><l>त्यां</l><r>तो<s n="prn"/><s n="dem"/><s n="p3"/><s n="m"/><s n="pl"/><s n="obl"/><j/></r></p><par n="__clit"/></e>
+762,778c762,778
+< 			<e>		  <p><l>ती</l><r>तो<s n="prn"/><s n="p3"/><s n="f"/><s n="sg"/><s n="nom"/></r></p><par n="__emph"/></e>
+< 			<e>		  <p><l>तिला</l><r>तो<s n="prn"/><s n="p3"/><s n="f"/><s n="sg"/><s n="acc"/></r></p><par n="__emph"/></e>
+< 			<e>		  <p><l>तिच</l><r>तो<s n="prn"/><s n="p3"/><s n="f"/><s n="sg"/><j/></r></p><par n="__prn_gen"/></e>
+< 			<e>		  <p><l>तिला</l><r>तो<s n="prn"/><s n="p3"/><s n="f"/><s n="sg"/><s n="dat"/></r></p><par n="__emph"/></e>
+< 			<e>		  <p><l>तिच्याकडून</l><r>तो<s n="prn"/><s n="p3"/><s n="f"/><s n="sg"/><s n="abl"/></r></p><par n="__emph"/></e>
+< 			<e>		  <p><l>तिच्यात</l><r>तो<s n="prn"/><s n="p3"/><s n="f"/><s n="sg"/><s n="loc"/></r></p><par n="__emph"/></e>
+< 			<e>		  <p><l>तिच्या</l><r>तो<s n="prn"/><s n="p3"/><s n="f"/><s n="sg"/></r></p><par n="__emph"/></e>
+< 			<e>		  <p><l>तिच्यात</l><r>तो<s n="prn"/><s n="p3"/><s n="f"/><s n="sg"/><s n="loc"/></r></p><par n="__emph"/></e>
+< 			<e>		  <p><l>ति</l><r>तो<s n="prn"/><s n="p3"/><s n="f"/><s n="sg"/><s n="obl"/><j/></r></p><par n="__clit"/></e>
+< 
+< 			<e>		  <p><l>त्या</l><r>तो<s n="prn"/><s n="p3"/><s n="f"/><s n="pl"/><s n="nom"/></r></p><par n="__emph"/></e>
+< 			<e>		  <p><l>त्यांना</l><r>तो<s n="prn"/><s n="p3"/><s n="f"/><s n="pl"/><s n="acc"/></r></p><par n="__emph"/></e>
+< 			<e>		  <p><l>त्यांच</l><r>तो<s n="prn"/><s n="p3"/><s n="f"/><s n="pl"/><j/></r></p><par n="__prn_gen"/></e>
+< 			<e>		  <p><l>त्यांना</l><r>तो<s n="prn"/><s n="p3"/><s n="f"/><s n="pl"/><s n="dat"/></r></p><par n="__emph"/></e>
+< 			<e>		  <p><l>त्यांच्याकडून</l><r>तो<s n="prn"/><s n="p3"/><s n="f"/><s n="pl"/><s n="abl"/></r></p><par n="__emph"/></e>
+< 			<e>		  <p><l>त्यांच्यात</l><r>तो<s n="prn"/><s n="p3"/><s n="f"/><s n="pl"/><s n="loc"/></r></p><par n="__emph"/></e>
+< 			<e>		  <p><l>त्यां</l><r>तो<s n="prn"/><s n="p3"/><s n="f"/><s n="pl"/><s n="obl"/><j/></r></p><par n="__clit"/></e>
+---
+> 			<e>		  <p><l>ती</l><r>तो<s n="prn"/><s n="dem"/><s n="p3"/><s n="f"/><s n="sg"/><s n="nom"/></r></p><par n="__emph"/></e>
+> 			<e>		  <p><l>तिला</l><r>तो<s n="prn"/><s n="dem"/><s n="p3"/><s n="f"/><s n="sg"/><s n="acc"/></r></p><par n="__emph"/></e>
+> 			<e>		  <p><l>तिच</l><r>तो<s n="prn"/><s n="dem"/><s n="p3"/><s n="f"/><s n="sg"/><j/></r></p><par n="__prn_gen"/></e>
+> 			<e>		  <p><l>तिला</l><r>तो<s n="prn"/><s n="dem"/><s n="p3"/><s n="f"/><s n="sg"/><s n="dat"/></r></p><par n="__emph"/></e>
+> 			<e>		  <p><l>तिच्याकडून</l><r>तो<s n="prn"/><s n="dem"/><s n="p3"/><s n="f"/><s n="sg"/><s n="abl"/></r></p><par n="__emph"/></e>
+> 			<e>		  <p><l>तिच्यात</l><r>तो<s n="prn"/><s n="dem"/><s n="p3"/><s n="f"/><s n="sg"/><s n="loc"/></r></p><par n="__emph"/></e>
+> 			<e>		  <p><l>तिच्या</l><r>तो<s n="prn"/><s n="dem"/><s n="p3"/><s n="f"/><s n="sg"/></r></p><par n="__emph"/></e>
+> 			<e>		  <p><l>तिच्यात</l><r>तो<s n="prn"/><s n="dem"/><s n="p3"/><s n="f"/><s n="sg"/><s n="loc"/></r></p><par n="__emph"/></e>
+> 			<e>		  <p><l>ति</l><r>तो<s n="prn"/><s n="dem"/><s n="p3"/><s n="f"/><s n="sg"/><s n="obl"/><j/></r></p><par n="__clit"/></e>
+> 
+> 			<e>		  <p><l>त्या</l><r>तो<s n="prn"/><s n="dem"/><s n="p3"/><s n="f"/><s n="pl"/><s n="nom"/></r></p><par n="__emph"/></e>
+> 			<e>		  <p><l>त्यांना</l><r>तो<s n="prn"/><s n="dem"/><s n="p3"/><s n="f"/><s n="pl"/><s n="acc"/></r></p><par n="__emph"/></e>
+> 			<e>		  <p><l>त्यांच</l><r>तो<s n="prn"/><s n="dem"/><s n="p3"/><s n="f"/><s n="pl"/><j/></r></p><par n="__prn_gen"/></e>
+> 			<e>		  <p><l>त्यांना</l><r>तो<s n="prn"/><s n="dem"/><s n="p3"/><s n="f"/><s n="pl"/><s n="dat"/></r></p><par n="__emph"/></e>
+> 			<e>		  <p><l>त्यांच्याकडून</l><r>तो<s n="prn"/><s n="dem"/><s n="p3"/><s n="f"/><s n="pl"/><s n="abl"/></r></p><par n="__emph"/></e>
+> 			<e>		  <p><l>त्यांच्यात</l><r>तो<s n="prn"/><s n="dem"/><s n="p3"/><s n="f"/><s n="pl"/><s n="loc"/></r></p><par n="__emph"/></e>
+> 			<e>		  <p><l>त्यां</l><r>तो<s n="prn"/><s n="dem"/><s n="p3"/><s n="f"/><s n="pl"/><s n="obl"/><j/></r></p><par n="__clit"/></e>
+782,788c782,788
+< 			<e>		  <p><l>ते</l><r>तो<s n="prn"/><s n="p3"/><s n="nt"/><s n="sg"/><s n="nom"/></r></p><par n="__emph"/></e>
+< 			<e>		  <p><l>त्याला</l><r>तो<s n="prn"/><s n="p3"/><s n="nt"/><s n="sg"/><s n="acc"/></r></p><par n="__emph"/></e>
+< 			<e>		  <p><l>त्याच</l><r>तो<s n="prn"/><s n="p3"/><s n="nt"/><s n="sg"/><j/></r></p><par n="__prn_gen"/></e>
+< 			<e>		  <p><l>त्याला</l><r>तो<s n="prn"/><s n="p3"/><s n="nt"/><s n="sg"/><s n="dat"/></r></p><par n="__emph"/></e>
+< 			<e>		  <p><l>त्याच्याकडून</l><r>तो<s n="prn"/><s n="p3"/><s n="nt"/><s n="sg"/><s n="obl"/></r></p><par n="__emph"/></e>
+< 			<e>		  <p><l>त्याच्यात</l><r>तो<s n="prn"/><s n="p3"/><s n="nt"/><s n="sg"/><s n="obl"/></r></p><par n="__emph"/></e>
+< 			<e>		  <p><l>त्या</l><r>तो<s n="prn"/><s n="p3"/><s n="nt"/><s n="sg"/><s n="obl"/><j/></r></p><par n="__clit"/></e>
+---
+> 			<e>		  <p><l>ते</l><r>तो<s n="prn"/><s n="dem"/><s n="p3"/><s n="nt"/><s n="sg"/><s n="nom"/></r></p><par n="__emph"/></e>
+> 			<e>		  <p><l>त्याला</l><r>तो<s n="prn"/><s n="dem"/><s n="p3"/><s n="nt"/><s n="sg"/><s n="acc"/></r></p><par n="__emph"/></e>
+> 			<e>		  <p><l>त्याच</l><r>तो<s n="prn"/><s n="dem"/><s n="p3"/><s n="nt"/><s n="sg"/><j/></r></p><par n="__prn_gen"/></e>
+> 			<e>		  <p><l>त्याला</l><r>तो<s n="prn"/><s n="dem"/><s n="p3"/><s n="nt"/><s n="sg"/><s n="dat"/></r></p><par n="__emph"/></e>
+> 			<e>		  <p><l>त्याच्याकडून</l><r>तो<s n="prn"/><s n="dem"/><s n="p3"/><s n="nt"/><s n="sg"/><s n="obl"/></r></p><par n="__emph"/></e>
+> 			<e>		  <p><l>त्याच्यात</l><r>तो<s n="prn"/><s n="dem"/><s n="p3"/><s n="nt"/><s n="sg"/><s n="obl"/></r></p><par n="__emph"/></e>
+> 			<e>		  <p><l>त्या</l><r>तो<s n="prn"/><s n="dem"/><s n="p3"/><s n="nt"/><s n="sg"/><s n="obl"/><j/></r></p><par n="__clit"/></e>
+793,796c793,796
+< 			<e>		  <p><l>ती</l><r>तो<s n="prn"/><s n="p3"/><s n="nt"/><s n="pl"/><s n="nom"/></r></p><par n="__emph"/></e>
+< 			<e>		  <p><l>त्यांना</l><r>तो<s n="prn"/><s n="p3"/><s n="nt"/><s n="pl"/><s n="acc"/></r></p><par n="__emph"/></e>
+< 			<e>		  <p><l>त्यांच</l><r>तो<s n="prn"/><s n="p3"/><s n="nt"/><s n="pl"/><j/></r></p><par n="__prn_gen"/></e>
+< 			<e>		  <p><l>त्यांना</l><r>तो<s n="prn"/><s n="p3"/><s n="nt"/><s n="pl"/><s n="dat"/></r></p><par n="__emph"/></e>
+---
+> 			<e>		  <p><l>ती</l><r>तो<s n="prn"/><s n="dem"/><s n="p3"/><s n="nt"/><s n="pl"/><s n="nom"/></r></p><par n="__emph"/></e>
+> 			<e>		  <p><l>त्यांना</l><r>तो<s n="prn"/><s n="dem"/><s n="p3"/><s n="nt"/><s n="pl"/><s n="acc"/></r></p><par n="__emph"/></e>
+> 			<e>		  <p><l>त्यांच</l><r>तो<s n="prn"/><s n="dem"/><s n="p3"/><s n="nt"/><s n="pl"/><j/></r></p><par n="__prn_gen"/></e>
+> 			<e>		  <p><l>त्यांना</l><r>तो<s n="prn"/><s n="dem"/><s n="p3"/><s n="nt"/><s n="pl"/><s n="dat"/></r></p><par n="__emph"/></e>
+798,801c798,801
+< 			<e>		  <p><l>त्यांनी</l><r>तो<s n="prn"/><s n="p3"/><s n="nt"/><s n="pl"/><s n="nom"/></r></p><par n="__emph"/></e>
+< 			<e>		  <p><l>त्यांच्याकडून</l><r>तो<s n="prn"/><s n="p3"/><s n="nt"/><s n="pl"/><s n="abl"/></r></p><par n="__emph"/></e>
+< 			<e>		  <p><l>त्यांच्यात</l><r>तो<s n="prn"/><s n="p3"/><s n="nt"/><s n="pl"/><s n="loc"/></r></p><par n="__emph"/></e>
+< 			<e>		  <p><l>त्यां</l><r>तो<s n="prn"/><s n="p3"/><s n="nt"/><s n="pl"/><s n="obl"/><j/></r></p><par n="__clit"/></e>
+---
+> 			<e>		  <p><l>त्यांनी</l><r>तो<s n="prn"/><s n="dem"/><s n="p3"/><s n="nt"/><s n="pl"/><s n="nom"/></r></p><par n="__emph"/></e>
+> 			<e>		  <p><l>त्यांच्याकडून</l><r>तो<s n="prn"/><s n="dem"/><s n="p3"/><s n="nt"/><s n="pl"/><s n="abl"/></r></p><par n="__emph"/></e>
+> 			<e>		  <p><l>त्यांच्यात</l><r>तो<s n="prn"/><s n="dem"/><s n="p3"/><s n="nt"/><s n="pl"/><s n="loc"/></r></p><par n="__emph"/></e>
+> 			<e>		  <p><l>त्यां</l><r>तो<s n="prn"/><s n="dem"/><s n="p3"/><s n="nt"/><s n="pl"/><s n="obl"/><j/></r></p><par n="__clit"/></e>
+871c871
+< 			<e>		  <p><l>तो</l><r>तो<s n="prn"/><s n="corel"/><s n="m"/><s n="sg"/><s n="nom"/></r></p><par n="__emph"/></e>
+---
+> 			<e>		  <p><l>तो</l><r>तो<s n="prn"/><s n="dem"/><s n="corel"/><s n="m"/><s n="sg"/><s n="nom"/></r></p><par n="__emph"/></e>
+873c873
+< 			<e>		  <p><l>ती</l><r>तो<s n="prn"/><s n="corel"/><s n="f"/><s n="sg"/><s n="nom"/></r></p><par n="__emph"/></e>
+---
+> 			<e>		  <p><l>ती</l><r>तो<s n="prn"/><s n="dem"/><s n="corel"/><s n="f"/><s n="sg"/><s n="nom"/></r></p><par n="__emph"/></e>
+875c875
+< 			<e>		  <p><l>ते</l><r>तो<s n="prn"/><s n="corel"/><s n="nt"/><s n="sg"/><s n="nom"/></r></p><par n="__emph"/></e>
+---
+> 			<e>		  <p><l>ते</l><r>तो<s n="prn"/><s n="dem"/><s n="corel"/><s n="nt"/><s n="sg"/><s n="nom"/></r></p><par n="__emph"/></e>
+877c877
+< 			<e>		  <p><l>ते</l><r>तो<s n="prn"/><s n="corel"/><s n="m"/><s n="pl"/><s n="nom"/></r></p><par n="__emph"/></e>
+---
+> 			<e>		  <p><l>ते</l><r>तो<s n="prn"/><s n="dem"/><s n="corel"/><s n="m"/><s n="pl"/><s n="nom"/></r></p><par n="__emph"/></e>
+879c879
+< 			<e>		  <p><l>त्या</l><r>तो<s n="prn"/><s n="corel"/><s n="f"/><s n="pl"/><s n="nom"/></r></p><par n="__emph"/></e>
+---
+> 			<e>		  <p><l>त्या</l><r>तो<s n="prn"/><s n="dem"/><s n="corel"/><s n="f"/><s n="pl"/><s n="nom"/></r></p><par n="__emph"/></e>
+881c881
+< 			<e>		  <p><l>ती</l><r>तो<s n="prn"/><s n="corel"/><s n="nt"/><s n="pl"/><s n="nom"/></r></p><par n="__emph"/></e>
+---
+> 			<e>		  <p><l>ती</l><r>तो<s n="prn"/><s n="dem"/><s n="corel"/><s n="nt"/><s n="pl"/><s n="nom"/></r></p><par n="__emph"/></e>
+884c884
+< 			<e>		  <p><l>त्याला</l><r>तो<s n="prn"/><s n="corel"/><s n="m"/><s n="sg"/><s n="obl"/></r></p><par n="__emph"/></e>
+---
+> 			<e>		  <p><l>त्याला</l><r>तो<s n="prn"/><s n="dem"/><s n="corel"/><s n="m"/><s n="sg"/><s n="obl"/></r></p><par n="__emph"/></e>
+886c886
+< 			<e>		  <p><l>तिला</l><r>तो<s n="prn"/><s n="corel"/><s n="f"/><s n="sg"/><s n="obl"/></r></p><par n="__emph"/></e>
+---
+> 			<e>		  <p><l>तिला</l><r>तो<s n="prn"/><s n="dem"/><s n="corel"/><s n="f"/><s n="sg"/><s n="obl"/></r></p><par n="__emph"/></e>
+888c888
+< 			<e>		  <p><l>त्या</l><r>तो<s n="prn"/><s n="corel"/><s n="nt"/><s n="sg"/><s n="obl"/></r></p><par n="__emph"/></e>
+---
+> 			<e>		  <p><l>त्या</l><r>तो<s n="prn"/><s n="dem"/><s n="corel"/><s n="nt"/><s n="sg"/><s n="obl"/></r></p><par n="__emph"/></e>
+890c890
+< 			<e>		  <p><l>त्यांना</l><r>तो<s n="prn"/><s n="corel"/><s n="m"/><s n="pl"/><s n="obl"/></r></p><par n="__emph"/></e>
+---
+> 			<e>		  <p><l>त्यांना</l><r>तो<s n="prn"/><s n="dem"/><s n="corel"/><s n="m"/><s n="pl"/><s n="obl"/></r></p><par n="__emph"/></e>
+892c892
+< 			<e>		  <p><l>त्यांना</l><r>तो<s n="prn"/><s n="corel"/><s n="f"/><s n="pl"/><s n="obl"/></r></p><par n="__emph"/></e>
+---
+> 			<e>		  <p><l>त्यांना</l><r>तो<s n="prn"/><s n="dem"/><s n="corel"/><s n="f"/><s n="pl"/><s n="obl"/></r></p><par n="__emph"/></e>
+894c894
+< 			<e>		  <p><l>त्यांना</l><r>तो<s n="prn"/><s n="corel"/><s n="nt"/><s n="pl"/><s n="obl"/></r></p><par n="__emph"/></e>
+---
+> 			<e>		  <p><l>त्यांना</l><r>तो<s n="prn"/><s n="dem"/><s n="corel"/><s n="nt"/><s n="pl"/><s n="obl"/></r></p><par n="__emph"/></e>

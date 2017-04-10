@@ -1,0 +1,6 @@
+
+  
+    lt-proc '/home/aman/osd/apertium/gsoc/apertium-mar-eng/mar-eng.automorf.bin' | cg-proc -1 -n '/home/aman/osd/apertium/gsoc/apertium-mar-eng/mar-eng.rlx.bin' | apertium-pretransfer
+  
+
+  
