@@ -1,0 +1,12 @@
+47.756 % known tokens (1905102 unknown, 332 bidix-unknown of total 3647217 tokens)
+Top unknown words:
+ 378184 ^.<sent>/.<sent>$
+ 129065 ^,<cm>/,<cm>$
+  63881 ^असणे<vaux><pres><p3><mfn><sg>/हो<vbser><pres><mf><p3><sg>$
+  54830 ^:<sent>/:<sent>$
+  48411 ^हा<det><prox><f><pl>/यह<det><prox><f><pl>$
+  36006 ^व<vblex><tv><stem>/%%व्या<vblex><tv><stem>$
+  35166 ^आणि<cnjcoo>/और<cnjcoo>$
+  27937 ^हा<det><prox><m><pl>/यह<det><prox><m><pl>$
+  21377 ^हा<det><prox><m><sg>/यह<det><prox><m><sg>$
+  20736 ^एक<num>/एक<num>$
