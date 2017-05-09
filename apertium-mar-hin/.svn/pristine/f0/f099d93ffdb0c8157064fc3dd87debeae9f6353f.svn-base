@@ -43,7 +43,6 @@
     <sdef n="p2"     c="Second Person"/>    
 
 
-    <sdef n="cnjadv"  c="adverbial conjunction"/>              
 
 		<sdef n="mf"/>
 		<sdef n="mfn"/>
@@ -78,8 +77,6 @@
 
     <!-- pronouns for story -->
     <e><p><l>तो</l> <r>यह</r></p></e>
-    <e><p><l>पळणे</l> <r>भाग</r></p></e>
-    <e><p><l>पटकन<s n="adv"/></l>  <r>जल्दी<b/>से</r></p></e>
 
     <!-- <e><p><l>माहित<b/>पड<s n="vblex"/></l>  <r>मुँह<b/>बाना<s n="vblex"/></r></p></e> -->
 
@@ -580,8 +577,7 @@
     <e><p><l>आवड<s n="vblex"/></l>  <r>भा<s n="vblex"/></r></p></e>
     <e><p><l>आवड<s n="n"/><s n="f"/></l>  <r>रुचि<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>आवडनिवड<s n="n"/><s n="f"/></l>  <r>रुचि<b/>अरुचि<s n="n"/><s n="f"/></r></p></e>
-    <!-- <e><p><l>आवडता<s n="adj"/></l>  <r>पसंद<s n="n"/><s n="f"/><s n="pl"/><s n="nom"/><b/>हो<s n="vbser"/><s n="pres"/></r></p></e> -->
-    <e><p><l>आवडता<s n="adj"/></l>  <r>पसंद<b/>हो<s n="vbser"/><s n="pres"/></r></p></e>
+    <e><p><l>आवडता<s n="adj"/></l>  <r>प्यारा<s n="adj"/></r></p></e>
     <e><p><l>आवक<s n="n"/><s n="f"/></l>  <r>आय<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>आवराआवर<s n="n"/><s n="f"/></l>  <r>समेटना<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>आवर<s n="vblex"/></l>  <r>रोक<s n="vblex"/></r></p></e>
@@ -2155,7 +2151,7 @@
     <e><p><l>खुशाल<s n="adv"/></l>  <r>कुशल<s n="adv"/></r></p></e>
     <e><p><l>खुशालचेंडु<s n="adv"/></l>  <r>अय्याश<s n="adv"/></r></p></e>
     <e><p><l>खुशामत<s n="n"/><s n="f"/></l>  <r>खुशामद<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>खुश<s n="adj"/></l>  <r>खुश<s n="adj"/></r></p></e>
+    <e><p><l>खुश<s n="n"/></l>  <r>खुश<s n="n"/></r></p></e>
     <e><p><l>खुबा<s n="n"/><s n="m"/></l>  <r>पुट्ठा<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>खुबी<s n="n"/><s n="f"/></l>  <r>खूबी<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>खुड<s n="vblex"/></l>  <r>खोंट<s n="vblex"/></r></p></e>
@@ -7656,7 +7652,7 @@
     <e><p><l>कावा<s n="n"/><s n="m"/></l>  <r>चाल<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>कावीळअ<s n="n"/><s n="f"/></l>  <r>पीलिया<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>काव<s n="vblex"/></l>  <r>खीझ<s n="vblex"/></r></p></e>
-    <e><p><l>काव<s n="n"/><s n="f"/></l>  <r>झुझंलाहट<s n="n"/><s n="f"/></r></p></e>
+    <e><p><l>काव<s n="n"/><s n="f"/></l>  <r>+झुझंलाहट<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>कावळआ<s n="n"/><s n="m"/></l>  <r>कौआ<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>कावड<s n="n"/><s n="f"/></l>  <r>काँवर<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>कावराबावरा<s n="n"/><s n="m"/></l>  <r>हक्का<b/>बक्का<s n="n"/><s n="m"/></r></p></e>
@@ -7683,7 +7679,7 @@
     <e><p><l>कात्रण<s n="n"/><s n="nt"/></l>  <r>कतरन<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>कादंबरी<s n="n"/><s n="f"/></l>  <r>उपन्यास<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>काया<s n="n"/><s n="f"/></l>  <r>काया<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>काय<s n="prn"/><s n="interr"/><s n="mfn"/><s n="sp"/></l>  <r>क्या<s n="prn"/><s n="itg"/><s n="sp"/><s n="aa"/></r></p></e>
+    <e><p><l>काय<s n="adv"/></l>  <r>क्या<s n="adv"/></r></p></e>
     <e><p><l>कायम<s n="adv"/></l>  <r>हमेशा<s n="adv"/></r></p></e>
     <e><p><l>कायमधारापद्धती<s n="n"/><s n="f"/></l>  <r>दवामी<b/>बंदोबस्त<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>कायमचा<s n="adj"/></l>  <r>हमेशा<b/>का<s n="adj"/></r></p></e>
@@ -8789,7 +8785,7 @@
     <e><p><l>लग्नसराई<s n="n"/><s n="f"/></l>  <r>शादी<b/>का<b/>मौसम<s n="n"/><s n="f"/></r></p></e>
     <e><p><l>लगोलग<s n="adv"/></l>  <r>तुरंत<s n="adv"/></r></p></e>
     <e><p><l>लगोरी<s n="n"/><s n="f"/></l>  <r>गुड्डी<b/>का<b/>खेल<s n="n"/><s n="f"/></r></p></e>
-    <e><p><l>लहान<s n="adj"/></l>  <r>छोट<s n="adj"/></r></p></e>
+    <e><p><l>लहान<s n="adv"/></l>  <r>छोटा<s n="adv"/></r></p></e>
     <e><p><l>लहानमोठा<s n="adj"/></l>  <r>छोटाबड़ा<s n="adj"/></r></p></e>
     <e><p><l>लहानपणा<s n="n"/><s n="m"/></l>  <r>छोटा<s n="n"/><s n="m"/></r></p></e>
     <e><p><l>लहानपण<s n="n"/><s n="nt"/></l>  <r>बचपन<s n="n"/><s n="m"/></r></p></e>
@@ -9521,7 +9517,7 @@
     <e><p><l>म्हैस<s n="n"/><s n="f"/></l>  <r>भैंस<s n="n"/><s n="f"/></r></p></e>
     <!-- <e><p><l>म्हणून<s n="adv"/></l>  <r>इसलिये<s n="adv"/></r></p></e> -->
     <!-- manhoon should be adverb but monodix says it can be vblex too, check later if manhoon MUST be an adverb -->
-    <e><p><l>म्हणून<s n="cnjcoo"/></l>  <r>इसलिये<s n="cnjadv"/></r></p></e>
+    <e><p><l>म्हणून</l>  <r>इसलिये</r></p></e>
     <e><p><l>म्हणून</l>  <r>इसीलिए</r></p></e>
     <e><p><l>म्हणून<s n="adv"/></l>  <r>कह<b/>कर<s n="adv"/></r></p></e>
     <e><p><l>म्हण<s n="n"/><s n="f"/></l>  <r>कहावत<s n="n"/><s n="f"/></r></p></e>

@@ -69,9 +69,13 @@
 		<sdef n="gna" 	  c="Verbal adverb"/>
 		<sdef n="gpr" 	  c="Verbal adjective"/>
 		<sdef n="ger" 	  c="Gerund"/>
+
 		<sdef n="prx"     c="Proximate"/>
 		<sdef n="dst"     c="Distant"/>
-	    <sdef n="dem"     c="Demonstrative"/>
+	   <sdef n="dem"     c="Demonstrative"/>
+
+
+
 		<sdef n="f"  />
 		<sdef n="m"  />
 		<sdef n="nt" />
@@ -109,6 +113,7 @@
 		<pardef n="__emph">
 			<e><p><l>च</l><r><j/>च<s n="emph"/></r></p></e>
 			<e><p><l>ही</l><r><j/>ही<s n="emph"/></r></p></e>
+
 			<e><p><l></l><r></r></p></e>
 		</pardef>
 
@@ -3199,7 +3204,6 @@
 		<e lm="तेथे"> 					<i></i><par n="/तेथे__adv" /></e>
 		<e lm="जेथे"> 					<i></i><par n="/जेथे__adv" /></e>
 		<e lm="कुठे">                       	<i>कुठे</i><par n="__adv" /></e>
-		<e lm="पटकन">                       	<i>पटकन</i><par n="__adv" /></e>
 		<e lm="साली"> 				<i>साली</i><par n="__adv" /></e>
 		<e lm="दरम्यान">                       	<i>दरम्यान</i><par n="__adv" /></e>
 		<e lm="सहसा">                       	<i>सहसा</i><par n="__adv" /></e>
@@ -7557,9 +7561,7 @@
 		<e lm="खोप">                    	<i>खोप</i><par n="कोय__n_f" /></e>
 		<e lm="खोट">                    	<i>खोट</i><par n="कोय__n_f" /></e>
 		<e lm="खुशामत">           	<i>खुशामत</i><par n="कोय__n_f" /></e>
-		<!-- <e lm="खुशामत">           	<i>खुशामत</i><par n="कोय__n_f" /></e> -->
-
-		<e lm="खुश">                    	<i>खुश</i><par n="/लाल__adj" /></e>
+		<e lm="खुश">                    	<i>खुश</i><par n="कोय__n_f" /></e>
 		<e lm="खुडुक">              	<i>खुडुक</i><par n="कोय__n_f" /></e>
 		<e lm="फाक">                    	<i>फाक</i><par n="कोय__n_f" /></e>
 		<e lm="फारकत">              	<i>फारकत</i><par n="कोय__n_f" /></e>
@@ -9396,7 +9398,7 @@
 		<e lm="नटवेपणा">                      	<i>नटवेपणा</i><par n="कवी__n_m" /></e>
 		<e lm="नवरोजी">                       	<i>नवरोजी</i><par n="कवी__n_m" /></e>
 		<e lm="नदीकाठी">                      	<i>नदीकाठी</i><par n="कवी__n_m" /></e>
-		<e lm="नेहमी">                        	<i>नेहमी</i><par n="__adv" /></e>
+		<e lm="नेहमी">                        	<i>नेहमी</i><par n="कवी__n_m" /></e>
 		<e lm="नेमस्तपणा">                    	<i>नेमस्तपणा</i><par n="कवी__n_m" /></e>
 		<e lm="नेतेपणा">                      	<i>नेतेपणा</i><par n="कवी__n_m" /></e>
 		<e lm="नेत्रपल्लवी">                  	<i>नेत्रपल्लवी</i><par n="कवी__n_m" /></e>
